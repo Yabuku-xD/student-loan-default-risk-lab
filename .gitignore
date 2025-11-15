@@ -1,0 +1,29 @@
+__pycache__/
+*.py[cod]
+*.ipynb_checkpoints/
+.ipynb_checkpoints/
+.env
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+Thumbs.db
+
+# Logs & temp files
+logs/
+*.log
+
+# IDE
+.idea/
+.vscode/
+
+# Local data downloads (too large for Git)
+data/raw/**
+!data/raw/.gitkeep
+!data/raw/README.md
+
+# Optional staging areas
+scratch/
+tmp/
+

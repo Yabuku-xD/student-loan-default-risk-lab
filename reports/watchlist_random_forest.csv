@@ -1,0 +1,902 @@
+UNITID,INSTNM,control_label,predominant_degree_label,region_label,locale_label,dominant_program,default_rate_pct,net_price,completion_rate,PCTPELL,risk_score,risk_flag
+490674,Manuel and Theresa's School of Hair Design,Private for-profit,Certificates,Southwest,Town,Trades & Applied,2.8000000000000003,,0.8333,0.4444,0.8467257406581801,1
+444468,Lawrenceburg Technical College,Private for-profit,Certificates,Southeast,Town,Trades & Applied,14.2,,0.7778,0.7826,0.8426161819923094,1
+199324,Piedmont Community College,Public,Associate's,Southeast,Rural,Humanities,14.2,5215.0,0.4167,0.2861,0.834085834003357,1
+444228,LeGrand Institute of Cosmetology Inc,Private for-profit,Certificates,Southeast,Town,Trades & Applied,2.7,,0.6923,0.6905,0.8320239605647521,1
+179991,Academy of Cosmetology Inc,Private for-profit,Certificates,Rocky Mountains,City,Trades & Applied,2.4,,0.9412,0.3696,0.8155592214786627,1
+198640,Halifax Community College,Public,Associate's,Southeast,Rural,Health,7.6,4073.0,0.4138,0.3106,0.8151545088382198,1
+445780,Cosmetology School of Arts & Sciences,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,2.8000000000000003,,0.8333,0.8788,0.81177492806901,1
+483957,Lawrence & Company College of Cosmetology,Private for-profit,Certificates,Far West,Town,Trades & Applied,3.9,,0.8235,0.2836,0.8025317976135949,1
+470296,Manuel and Theresa's School of Hair Design-Victoria,Private for-profit,Certificates,Southwest,City,Trades & Applied,2.8000000000000003,,0.7586,0.625,0.799356255459715,1
+485607,Dolce The Academy,Private for-profit,Certificates,New England,City,Trades & Applied,2.4,,0.5217,0.4167,0.7989091694711281,1
+167039,Rob Roy Academy-New Bedford,Private for-profit,Certificates,New England,Suburb,Trades & Applied,2.8000000000000003,,0.8333,0.5652,0.7983018003421201,1
+480879,Academy of Salon Professionals,Private for-profit,Certificates,Plains,Town,Trades & Applied,2.1,,0.6667,0.4894,0.7968343484496972,1
+233666,Staunton School of Cosmetology,Private for-profit,Certificates,Southeast,City,Trades & Applied,2.6,,0.7143,0.5313,0.7949134883619267,1
+197966,Beaufort County Community College,Public,Associate's,Southeast,Rural,Humanities,4.8,5105.0,0.3625,0.3111,0.793975588737473,1
+199722,Southeastern Community College,Public,Associate's,Southeast,Rural,Humanities,7.1,4474.0,0.5102,0.4535,0.7922940110003396,1
+207786,Southern School of Beauty Inc,Private for-profit,Certificates,Southwest,Town,Trades & Applied,2.5,,0.8,0.8,0.7910640116760974,1
+417062,Estes Institute of Cosmetology Arts and Science,Private for-profit,Certificates,Far West,City,Trades & Applied,2.0,,0.8,0.4632,0.7895931074800372,1
+198367,Craven Community College,Public,Associate's,Southeast,Town,Humanities,2.3,4402.0,0.4576,0.3426,0.786774261750541,1
+451547,Manuel and Theresa's School of Hair Design-Bryan,Private for-profit,Certificates,Southwest,City,Trades & Applied,2.8000000000000003,,0.9,0.7083,0.785091791631345,1
+159531,Louisiana Academy of Beauty,Private for-profit,Certificates,Southeast,Town,Trades & Applied,3.5000000000000004,,0.8333,0.3721,0.7825127834629044,1
+198729,James Sprunt Community College,Public,Certificates,Southeast,Rural,Humanities,16.6,3852.0,0.3889,0.3833,0.7816341268854609,1
+377272,Nuvani Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,2.1,,0.8649,0.9355,0.7808090170310037,1
+224013,BK Cosmo College of Cosmetology,Private for-profit,Certificates,Southwest,Town,Trades & Applied,3.2,,0.7143,0.7206,0.7791036763887523,1
+175698,Fosters Cosmetology College,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,2.0,,0.7826,0.9322,0.7784770853884574,1
+417600,Hastings Beauty School,Private for-profit,Certificates,Plains,Town,Trades & Applied,2.8000000000000003,,0.6923,0.6538,0.7773098490986482,1
+368911,Southeastern Technical College,Public,Certificates,Southeast,Town,Health,10.0,6072.0,0.3409,0.3887,0.7733663315966084,1
+140678,North Georgia Technical College,Public,Certificates,Southeast,Rural,Trades & Applied,4.1000000000000005,4361.0,0.3669,0.4218,0.7711040993866644,1
+460808,Integrated Massage Therapy Services,Private for-profit,Certificates,Rocky Mountains,Town,Health,2.7,,1.0,0.7692,0.768628370966617,1
+483850,Alliance Computing Solutions,Private for-profit,Certificates,Mid East,City,Health,4.2,,0.9091,0.25,0.7647990898096314,1
+491853,Princess Institute of Beauty,Private for-profit,Certificates,Far West,Town,Trades & Applied,0.0,,0.8571,0.5882,0.7645343072761279,1
+105677,Roberto-Venn School of Luthiery,Private for-profit,Certificates,Southwest,City,Trades & Applied,2.0,,0.9091,0.1957,0.7619798248515495,1
+125310,Waynes College of Beauty,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.7619,0.6944,0.7602958299450181,1
+407434,Orlo School of Hair Design and Cosmetology,Private for-profit,Certificates,Mid East,City,Trades & Applied,2.9000000000000004,,0.6739,0.3765,0.7569204806352349,1
+374343,KC's School of Hair Design,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,3.0,,0.7368,0.7674,0.7536049021823262,1
+447722,Palladium Technical Academy Inc,Private for-profit,Certificates,Far West,Suburb,Health,2.4,,0.8,0.898,0.752497264561391,1
+480976,The Salon Professional Academy-Huntsville,Private for-profit,Certificates,Southeast,City,Trades & Applied,4.0,,0.8571,0.4805,0.7490885171583551,1
+481298,Lawrence & Company College of Cosmetology,Private for-profit,Certificates,Far West,City,Trades & Applied,6.5,,0.175,0.4167,0.7445833210591633,1
+488262,Hair Academy School of Barbering & Beauty,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,2.1999999999999997,,0.4167,0.5313,0.7414926033672283,1
+108861,Berkeley School of Theology,Private nonprofit,Certificates,Far West,City,Social Science & Public Service,3.4000000000000004,,,0.0,0.7403330682986986,1
+457466,Profile Institute of Barber-Styling,Private for-profit,Certificates,Southeast,City,Trades & Applied,2.6,,0.8947,0.56,0.7388509400598237,1
+420431,Oconee Fall Line Technical College,Public,Certificates,Southeast,Rural,Trades & Applied,2.7,294.0,0.4167,0.5206,0.7381169410392536,1
+412535,Shawsheen Valley School of Practical Nursing,Public,Certificates,New England,Suburb,Health,2.1999999999999997,20676.0,1.0,0.4565,0.7366897837860248,1
+481456,Bonnie Joseph Academy of Cosmetology & Barbering,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,5.800000000000001,,0.5333,0.2963,0.7349958221779371,1
+204963,Paramount Beauty Academy,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,2.6,,0.8485,0.5821,0.7263874171391224,1
+415039,Empire Beauty School-Hanover,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.7778,0.4324,0.7236676181978706,1
+118958,Modern Beauty Academy,Private for-profit,Certificates,Far West,City,Trades & Applied,2.0,,0.6,0.2816,0.7156087677284684,1
+484190,Park Place Premier Barber School,Private for-profit,Certificates,Southeast,City,Trades & Applied,3.0,,0.4375,0.8387,0.7155673917026161,1
+190080,Colgate Rochester Crozer Divinity School,Private nonprofit,Graduate,Mid East,City,STEM,4.5,,,,0.7151708991556209,1
+203067,Hebrew Union College-Jewish Institute of Religion,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.7130619624925941,1
+381486,Faust Institute of Cosmetology-Spirit Lake,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.8,0.5357,0.7128138451414827,1
+447865,Trendsetters School of Beauty & Barbering,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8,0.65,0.7109626707345018,1
+246789,HJ International Graduate School for Peace and Public Leadership,Private nonprofit,Graduate,Mid East,City,STEM,3.2,,,,0.7108336930881458,1
+461713,Pure Aesthetics Natural Skincare School,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,1.0,0.375,0.70910012891435,1
+490470,Massage Institute of Memphis,Private for-profit,Certificates,Southeast,City,Health,3.0,,0.8,0.7143,0.7082982044120517,1
+456588,Salon Success Academy-Fontana,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.8333,0.6774,0.7055669590108573,1
+417655,Warrensburg Area Career Center,Public,Certificates,Plains,Town,Health,3.3000000000000003,2106.0,0.7333,0.6842,0.7046778107355114,1
+159601,Opelousas School of Cosmetology,Private for-profit,Certificates,Southeast,Town,Trades & Applied,5.800000000000001,,0.0714,0.7917,0.7034333047292823,1
+190008,Circle in the Square Theatre School,Private nonprofit,Certificates,Mid East,City,Humanities,2.1999999999999997,29537.0,1.0,0.2326,0.702492248151696,1
+484923,Dermal Science International Aesthetics and Nail Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8718,0.3053,0.7018026449213544,1
+216746,Welder Training and Testing Institute,Private for-profit,Certificates,Mid East,City,Trades & Applied,2.6,,0.9333,0.314,0.7015985856154036,1
+206154,Tri-State Bible College,Private nonprofit,Associate's,Great Lakes,Suburb,STEM,3.5000000000000004,,,0.5238,0.6982918245629461,1
+457624,Southern Worcester County Regional Vocational School District,Public,Certificates,New England,Rural,Health,4.1000000000000005,32513.0,0.6667,0.3095,0.6979630051346049,1
+176451,Wesley Biblical Seminary,Private nonprofit,Graduate,Southeast,Suburb,STEM,2.1999999999999997,,,,0.6971495475514886,1
+168032,Rob Roy Academy-Taunton,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,1.0,0.4048,0.6970053553214735,1
+166045,Hebrew College,Private nonprofit,Graduate,New England,City,STEM,2.0,,,,0.6966743596516984,1
+441618,Leon Studio One School of Beauty Knowledge,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8333,0.4,0.6964955386869448,1
+492652,KCK Beauty & Barber Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8065,0.5581,0.6953034968420839,1
+197337,Westchester School of Beauty Culture,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,3.1,,0.8333,0.5914,0.6952724120477227,1
+223117,Baptist Missionary Association Theological Seminary,Private nonprofit,Bachelor's,Southwest,Town,Social Science & Public Service,3.8,,,0.339,0.6951029844595468,1
+461388,Diamonds College,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.6061,0.527,0.6942147519431776,1
+457332,TIGI Hairdressing Academy Guilford,Private for-profit,Certificates,New England,Suburb,Trades & Applied,2.0,,0.75,0.3175,0.6903222868805652,1
+162335,Del-Mar-Va Beauty Academy,Private for-profit,Certificates,Mid East,City,Trades & Applied,2.3,,0.6,0.7465,0.6898338812466375,1
+442523,Alaska Christian College,Private nonprofit,Associate's,Far West,Rural,Humanities,2.3,5427.0,0.1163,0.7763,0.6897980669732462,1
+138956,Augusta Technical College,Public,Certificates,Southeast,City,Trades & Applied,4.1000000000000005,8509.0,0.3077,0.4234,0.6884827778318559,1
+475705,Annenberg School of Nursing,Private nonprofit,Certificates,Far West,City,Health,3.0,20811.0,1.0,0.4762,0.6860613466434705,1
+451255,DiGrigoli School of Cosmetology,Private for-profit,Certificates,New England,Suburb,Trades & Applied,2.4,,0.84,0.0865,0.6850244055501773,1
+476805,University Academy of Hair Design,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7917,0.625,0.6846285496818474,1
+366368,New York Academy of Art,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.6845520948457177,1
+176062,Hatfield's Mississippi College of Beauty Culture,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.85,0.6053,0.6843526870918639,1
+461786,Advanced College of Cosmetology,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.8333,0.5,0.6843147370057632,1
+200554,United Tribes Technical College,Private nonprofit,Associate's,Plains,Suburb,Business,5.2,2010.0,,0.751,0.6839688774939507,1
+366465,Ogeechee Technical College,Public,Certificates,Southeast,Town,Trades & Applied,1.4000000000000001,5222.0,0.4035,0.4235,0.6839454386702661,1
+444370,American Advanced Technicians Institute,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.8,,0.8667,0.5952,0.6826722850546987,1
+417831,Union County Vocational Technical School,Public,Certificates,Mid East,Suburb,Trades & Applied,3.6999999999999997,8325.0,0.9634,0.2195,0.6810417657241821,1
+478917,Hays Academy of Hair Design,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.8148,0.4625,0.680577951802438,1
+101277,New Beginning College of Cosmetology,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.5574,0.4557,0.6801123961460184,1
+146205,John A Logan College,Public,Associate's,Great Lakes,Town,Health,16.6,7599.0,0.4146,0.2916,0.6797525696938576,1
+458140,Northwest School of Wooden Boat Building,Private nonprofit,Associate's,Far West,Rural,Trades & Applied,2.7,25795.0,,0.3065,0.6774421589486126,1
+460765,Carolina College of Hair Design Inc,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.7999999999999998,,0.7667,0.4561,0.6747544519938318,1
+391759,Sharp's Academy of Hairstyling,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,4.3,,,0.5625,0.674080069427294,1
+247010,Headmasters School of Hair Design,Private for-profit,Certificates,Rocky Mountains,City,Trades & Applied,1.4000000000000001,,0.64,0.5429,0.6713570344638545,1
+160579,SOWELA Technical Community College,Public,Certificates,Southeast,City,STEM,2.1,8861.0,0.4324,0.4177,0.6707961852333291,1
+459541,American Beauty Academy,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,0.0,,0.8333,0.5152,0.6705655130898762,1
+188580,Albany Medical College,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.6684735334903026,1
+193405,Icahn School of Medicine at Mount Sinai,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.6684735334903026,1
+385415,Albert Einstein College of Medicine,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.6684735334903026,1
+486123,Theatre of Arts,Private for-profit,Associate's,Far West,City,Humanities,2.0,,0.5714,0.2564,0.6682865764580516,1
+420723,Tillamook Bay Community College,Public,Associate's,Far West,Town,Humanities,2.1,4700.0,0.4255,0.1729,0.667052732438291,1
+484020,Beyond Measure Barbering Institute,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,3.1,,0.7647,0.9718,0.666929740511047,1
+488183,Regina Webb Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.5714,0.56,0.6665992116467879,1
+476735,Alexander Academy,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,0.7576,0.7442,0.6642820794693698,1
+449454,Academy of Natural Therapy Inc,Private for-profit,Certificates,Rocky Mountains,City,Health,2.0,,,0.5,0.6640654028552446,1
+495350,Paul Mitchell the School-North Tahoe,Private for-profit,Certificates,Far West,Town,Trades & Applied,0.0,,0.7,0.375,0.6613203010903441,1
+481058,Grace Mission University,Private nonprofit,Bachelor's,Far West,Suburb,Social Science & Public Service,9.0,,0.0,0.19,0.6605622325545543,1
+208859,Phagans Grants Pass College of Beauty,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.8,0.6389,0.6588678725474685,1
+483425,Alexander Paul Institute of Hair Design,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6667,0.5821,0.657090862224399,1
+458122,Institute of Advanced Medical Esthetics,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,,0.5224,0.656177237741441,1
+260363,Greene County Career and Technology Center,Public,Certificates,Mid East,Town,Health,2.1,18315.0,1.0,0.7333,0.6561153236896344,1
+199838,Vance-Granville Community College,Public,Associate's,Southeast,Town,Humanities,0.0,4534.0,0.4724,0.3138,0.655839559212814,1
+410964,EINE Inc,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,0.7273,0.2286,0.6552802874351109,1
+243498,Seminario Evangelico de Puerto Rico,Private nonprofit,Graduate,Outlying Areas,City,STEM,2.8000000000000003,,,,0.6549940162359863,1
+491473,Polytech Adult Education,Public,Certificates,Mid East,Suburb,Health,3.2,,1.0,0.0348,0.6535175595555106,1
+223852,Charles and Sues School of Hair Design,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8276,0.4078,0.6526074776000987,1
+491695,Brown Beauty Barber School,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.8333,0.7108,0.6525690869769253,1
+363633,Luna Community College,Public,Associate's,Southwest,Rural,Health,5.2,7039.0,0.3868,0.2497,0.6524944995040879,1
+198923,McDowell Technical Community College,Public,Certificates,Southeast,Rural,Humanities,0.0,6838.0,0.5714,0.3673,0.6489220886629513,1
+444529,Stellar Career College,Private for-profit,Certificates,Far West,Suburb,Health,0.0,,0.82,0.6885,0.6488351419627731,1
+228486,Southwestern Christian College,Private nonprofit,Associate's,Southwest,Town,Humanities,4.5,16870.0,,0.9057,0.6484695902479687,1
+413820,Yukon Beauty College Inc,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,0.7941,0.6591,0.6482128669985953,1
+211334,Butler Beauty Academy,Private for-profit,Certificates,Mid East,Town,Trades & Applied,0.0,,0.7586,0.2195,0.6479113152417725,1
+449506,SABER College,Private nonprofit,Associate's,Southeast,City,Health,2.1999999999999997,10311.0,1.0,0.8305,0.6463486524863824,1
+454722,Academy of Esthetics and Cosmetology,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.7143,0.5366,0.644236526318018,1
+480842,Shear Finesse Beauty Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.7000000000000002,,1.0,0.898,0.6442111231203171,1
+490142,World Class Academy of Beauty Careers,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,1.0,0.6226,0.6436797176926521,1
+444334,Advance Science International College,Private for-profit,Associate's,Southeast,Suburb,Health,2.0,,1.0,0.587,0.6427731099658891,1
+444103,Byzantine Catholic Seminary of Saints Cyril and Methodius,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.6426313724564799,1
+246415,UCAS University of Cosmetology Arts & Sciences-San Antonio 410,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,1.0,0.4615,0.6420438013454826,1
+490531,Ray J's College of Hair,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7727,0.6462,0.6415892153777295,1
+164599,Bancroft School of Massage Therapy,Private for-profit,Certificates,New England,City,Health,0.0,,,0.2667,0.6409855725102609,1
+419280,New Dimensions School of Hair Design,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,,0.3256,0.6408545651527434,1
+166805,Massachusetts School of Barbering,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,0.8421,0.5052,0.6398175531933146,1
+188261,Mesalands Community College,Public,Certificates,Southwest,Town,STEM,4.9,10078.0,0.5676,0.1141,0.6397059129734081,1
+245980,Ponca City Beauty College,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.7586,0.6034,0.6391334523500759,1
+461379,Holistic Massage Training Institute,Private for-profit,Certificates,Mid East,City,Health,0.0,,,0.4,0.6390208391033976,1
+228088,Seguin Beauty School-Seguin,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.5333,0.4507,0.638204642374703,1
+153463,American Hair Academy,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.6923,0.6897,0.6372117454792494,1
+240709,Cheeks Beauty Academy,Private for-profit,Certificates,Rocky Mountains,City,Trades & Applied,0.0,,0.7059,0.72,0.6364182960470113,1
+483887,Mind Body Institute,Private for-profit,Certificates,Southeast,City,Health,1.0999999999999999,,0.9091,0.3906,0.6343590306468697,1
+226134,Laredo College,Public,Associate's,Southwest,City,Humanities,10.0,5309.0,,0.3847,0.6338732102893907,1
+199892,Wayne Community College,Public,Certificates,Southeast,City,STEM,0.0,4152.0,0.5658,0.3748,0.6334990183742132,1
+461537,Evolve Beauty Academy,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.8125,0.4286,0.6330380586762367,1
+468255,Northwest College-Tualatin,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.8462,0.4524,0.6320566469052195,1
+490221,MAK Beauty Institute,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.75,0.64,0.6317861861632709,1
+455929,The Academy of Hair Design LLC,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8148,0.3977,0.6302228895895369,1
+176600,Aquinas Institute of Theology,Private nonprofit,Graduate,Plains,City,STEM,20.0,,,,0.6300138751848957,1
+140942,Savannah Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,5821.0,0.3654,0.4681,0.6290340266152716,1
+211130,Missio Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,1.0999999999999999,,,,0.6289321742990166,1
+183804,Beth Medrash Govoha,Private nonprofit,Bachelor's,Mid East,City,STEM,6.2,,,0.7274,0.6246140778962107,1
+486983,Paul Mitchell the School-Madison,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,4.7,,0.4,0.597,0.624138504435757,1
+485704,River Valley School of Massage,Private for-profit,Certificates,Southeast,Town,Health,0.0,,1.0,0.5,0.6232021012763631,1
+239877,State College of Beauty Culture Inc,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.55,0.3375,0.6229586214603718,1
+483726,Luckes Beauty Academy LLC,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.5714,0.7273,0.6222132470399115,1
+209667,Phagans Beauty College,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.7885,0.4286,0.6213516027833108,1
+183035,New Hampshire Institute for Therapeutic Arts,Private for-profit,Certificates,New England,City,Health,0.0,,1.0,0.2391,0.6203704553849795,1
+491507,California Institute of Medical Science,Private for-profit,Certificates,Far West,Suburb,Health,0.0,,,0.525,0.6197041477715908,1
+476568,Tomorrow's Image Barber And Beauty Academy of Virginia,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.4643,0.8148,0.6194662115811966,1
+193609,Neighborhood Playhouse School of the Theater,Private nonprofit,Certificates,Mid East,City,Humanities,4.3,33096.0,1.0,0.125,0.6192256961800302,1
+367431,Butler Beauty Academy-New Castle Beauty Academy,Private for-profit,Certificates,Mid East,Town,Trades & Applied,0.0,,0.5,0.2889,0.618891035137763,1
+469610,Allen School-Phoenix,Private for-profit,Certificates,Southwest,City,Health,0.0,,0.925,0.8475,0.6187895543310419,1
+451626,Victoria's Academy of Cosmetology,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.8864,0.4818,0.6177464527336733,1
+487621,Celebrity Barber School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8571,0.5152,0.6171182917366328,1
+160126,Celebrity Stylist Beauty School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8,0.5161,0.6163153605448217,1
+436614,International Baptist College and Seminary,Private nonprofit,Bachelor's,Southwest,City,Social Science & Public Service,3.4000000000000004,16828.0,0.4286,0.3091,0.6161775125884685,1
+146977,McCormick Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,8.0,,,,0.6152252521384199,1
+483841,Grace International Beauty School,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.8824,0.5528,0.6135112982924453,1
+485573,Universal Healthcare Careers College,Private for-profit,Certificates,Far West,City,Health,2.0,,0.8873,0.5485,0.6133930984030936,1
+198710,Isothermal Community College,Public,Certificates,Southeast,Town,Humanities,0.0,6723.0,0.4874,0.3433,0.6133584037100158,1
+157207,Lexington Theological Seminary,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.6128549660524869,1
+157298,Louisville Presbyterian Theological Seminary,Private nonprofit,Graduate,Southeast,City,STEM,2.1999999999999997,,,,0.612474831739389,1
+481571,Belle Academy of Cosmetology LLC,Private for-profit,Certificates,New England,Rural,Trades & Applied,0.0,,0.8929,0.25,0.611515038518869,1
+447449,Academy of Hair Design-Jasper,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.9688,0.52,0.6099364778895531,1
+475565,CUNY Stella and Charles Guttman Community College,Public,Associate's,Mid East,City,Humanities,2.1,5643.0,0.248,0.6318,0.6095117051139054,1
+488174,Ea La Mar's Cosmetology & Barber College,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.8,0.7708,0.6091118752563295,1
+491534,Pets Playground Grooming School,Private for-profit,Certificates,Southeast,City,STEM,0.0,,,0.381,0.6082315878078683,1
+452009,The Hair Academy,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.6552,0.2892,0.6080423649347639,1
+143659,Catholic Theological Union at Chicago,Private nonprofit,Graduate,Great Lakes,City,STEM,3.6999999999999997,,,,0.6071147498631239,1
+166498,Lowell Academy Hairstyling Institute,Private for-profit,Certificates,New England,Suburb,Trades & Applied,1.3,,0.625,0.2316,0.6069573104941071,1
+490416,J's Barber College,Private for-profit,Certificates,Southeast,Town,Trades & Applied,1.3,,0.7368,0.5946,0.6063711544113141,1
+127954,Montessori Education Center of the Rockies,Private nonprofit,Certificates,Rocky Mountains,City,Education,2.3,13285.0,,0.1667,0.6044134540270641,1
+476610,Barber & Beauty Institute of New York,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.6429,0.5735,0.6038920229458595,1
+443702,Bexley Hall Seabury Western Theological Seminary Federation Inc.,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.6038017732722166,1
+141255,Wiregrass Georgia Technical College,Public,Certificates,Southeast,Rural,Trades & Applied,0.0,1228.0,0.4375,0.394,0.6028798368566101,1
+485236,Fountain of Youth Academy of Cosmetology,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.6667,0.1864,0.6027498355861528,1
+145309,Gem City College,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.8571,0.6531,0.60230428840234,1
+444440,Blue Cliff Career College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7143,0.7639,0.6021938944380143,1
+493770,Vski Cosmetology School,Private nonprofit,Certificates,Southeast,City,Trades & Applied,0.0,10524.0,0.68,0.3333,0.6011216334263496,1
+488299,Mission Beauty Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.6222,0.7049,0.6003287809105571,1
+495387,Larry's Barber College,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.8,0.8788,0.6002106317302135,1
+490522,Allgood Beauty Institute,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,1.0,0.6111,0.5994016718906439,1
+193991,Empire Beauty School-Peekskill,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8696,0.3836,0.5985272599142065,1
+215424,Pittsburgh Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,3.5999999999999996,,,,0.5973277908361555,1
+441210,East Valley Institute of Technology,Public,Certificates,Southwest,City,Health,100.0,16847.0,0.6,0.1758,0.5967046340022457,1
+227289,Oblate School of Theology,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5965790226322035,1
+441830,Healing Mountain Massage School,Private for-profit,Certificates,Rocky Mountains,City,Health,0.0,,0.8214,0.5333,0.596445459594521,1
+475431,ASI Career Institute,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.9444,0.4211,0.596388358670512,1
+443146,Jay's Technical Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.5455,0.3182,0.596346807040346,1
+491589,Mystros Barber Academy,Private nonprofit,Certificates,Southwest,City,Trades & Applied,0.0,,0.75,0.1,0.5963046759356947,1
+381699,Cheeks Beauty Academy,Private for-profit,Certificates,Rocky Mountains,Suburb,Trades & Applied,0.0,,0.6875,0.7273,0.5960447839300849,1
+430306,Cayce/Reilly School of Massage,Private nonprofit,Certificates,Southeast,City,Health,1.0,17382.0,0.9268,0.4118,0.595995017709751,1
+192484,Long Island Beauty School-Hempstead,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8333,0.4217,0.5956420695134748,1
+482200,Cosmetology Academy of Texarkana,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.6119,0.6981,0.5954675507698026,1
+209153,Phagans Medford Beauty School,Private for-profit,Certificates,Far West,City,Trades & Applied,1.3,,0.6818,0.7377,0.5954208908514462,1
+215619,Reconstructionist Rabbinical College,Private nonprofit,Graduate,Mid East,Suburb,STEM,4.5,,,,0.5952849449819407,1
+482246,Lynnes Welding Training,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.907,0.1224,0.5950126007002546,1
+193751,Northeast College of Health Sciences,Private nonprofit,Graduate,Mid East,Rural,STEM,0.0,,,,0.5948790296318607,1
+213330,Butler Beauty Academy-Kittanning Beauty Academy,Private for-profit,Certificates,Mid East,Town,Trades & Applied,0.0,,0.7097,0.1429,0.5946667887586234,1
+485801,Westchester School for Medical & Dental Assistants,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,1.0,0.8376,0.5935351034703552,1
+442064,Won Institute of Graduate Studies,Private nonprofit,Graduate,Mid East,Suburb,STEM,1.5,,,,0.592521659475682,1
+131405,Pontifical Faculty of the Immaculate Conception at the Dominican House of Studies,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5911063670759337,1
+198206,Carteret Community College,Public,Certificates,Southeast,Town,Trades & Applied,0.0,11889.0,0.4153,0.3771,0.5909448973411393,1
+145886,Institute for Clinical Social Work,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5903212883239753,1
+216348,Theological Seminary of the Reformed Episcopal Church,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.5902122653300047,1
+197814,College of the Albemarle,Public,Associate's,Southeast,Town,Humanities,0.0,4751.0,0.3898,0.1876,0.5896356582303969,1
+231068,SIT Graduate Institute,Private nonprofit,Graduate,New England,Rural,STEM,0.0,,,,0.5891866040315308,1
+376631,Mr Wayne's School of Unisex Hair Design,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.6923,0.6452,0.5888319926649662,1
+441104,Richmont Graduate University,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5883724876131096,1
+491598,European Medical School of Massage,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.8462,0.7941,0.5880686881179183,1
+447917,Augusta School of Massage,Private for-profit,Certificates,Southeast,Suburb,Health,0.0,,0.7931,0.4706,0.5862029531709585,1
+241793,Center for Advanced Studies On Puerto Rico and the Caribbean,Private nonprofit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.5860680778256426,1
+490249,Mobile Technical Training,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8485,0.8732,0.5858630827592324,1
+131830,National Conservatory of Dramatic Arts,Private nonprofit,Certificates,Mid East,City,Humanities,0.0,,0.5,0.1667,0.5857483533413241,1
+499033,Champ's Barber School-Lebanon,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,,0.5294,0.5855535734319476,1
+483513,Neecee's Barber College,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.3684,0.6604,0.583945308836517,1
+178518,Nazarene Theological Seminary,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.5832715259538568,1
+483975,Alabama College of Osteopathic Medicine,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5830508486378071,1
+195155,St Bernard's School of Theology and Ministry,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.5826144518947207,1
+237321,Clarksburg Beauty Academy and School of Massage Therapy,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.75,0.75,0.5822874407423009,1
+208044,Formations Institute of Cosmetology & Barbering,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.6042,0.6567,0.5819869457678297,1
+439817,Northeastern Seminary,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.5816338580105643,1
+175722,Academy of Hair Design-Grenada,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,0.0,,0.7273,0.7708,0.5807733029610266,1
+486503,Laredo CHI Academy Beauty School,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.7586,0.5484,0.5807623346572247,1
+456542,Geisinger Commonwealth School of Medicine,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5795053709583341,1
+485962,VH Barber & Styling Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.2857,0.5439,0.5786000637288562,1
+490151,Allied Health Careers Institute,Private for-profit,Certificates,Southeast,City,Health,1.9,,0.7692,0.7105,0.5784486888773,1
+488527,Arkansas Colleges of Health Education,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5783994660676841,1
+486372,San Francisco Film School,Private for-profit,Certificates,Far West,City,Humanities,2.7,,0.2115,0.172,0.5783946503181283,1
+186405,Capital Health School of Radiologic Technology,Private nonprofit,Certificates,Mid East,City,Health,0.0,,,0.25,0.5783826143283459,1
+213446,Lancaster Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5781622929897421,1
+104665,The School of Architecture,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5769605182786884,1
+243799,Blue Hills Regional Technical School,Public,Certificates,New England,Rural,Health,0.0,16405.0,1.0,0.5217,0.5763840658927117,1
+140146,Interdenominational Theological Center,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5753452692018733,1
+461272,Mandalyn Academy,Private for-profit,Certificates,Rocky Mountains,Suburb,Trades & Applied,0.0,,0.6316,0.4255,0.5742078616800271,1
+481094,Sotheby's Institute of Art-NY,Private for-profit,Graduate,Mid East,City,STEM,0.0,,,,0.5740689900070675,1
+168555,Hillsdale Beauty College,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.6923,0.6406,0.5727566805503109,1
+483753,Champ's Barber School,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.7778,0.7294,0.5713393172348747,1
+499325,Academy of Cosmetology Barbering and Esthetics,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,,0.4286,0.57115831854323,1
+152628,Vincennes Beauty College,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.1667,0.3125,0.5705909954718793,1
+443632,Colorado Media School,Private for-profit,Certificates,Rocky Mountains,City,Trades & Applied,0.0,,0.6951,0.4183,0.5687962277915334,1
+439932,Shawnee Beauty College,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.9355,0.6635,0.568733060199916,1
+220871,Memphis Theological Seminary,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5681661821866145,1
+423652,Oregon Coast Community College,Public,Associate's,Far West,Town,Health,3.9,11695.0,0.3095,0.3719,0.5675772693310873,1
+192004,Jamestown Business College,Private for-profit,Associate's,Mid East,Town,Business,3.6999999999999997,19567.0,,0.6864,0.5673929831098916,1
+146807,Steven Papageorge Hair Academy,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,2.6,,0.7,0.5256,0.5673751173063185,1
+491747,UR Beauty & Barber Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6154,0.4,0.567159384496602,1
+491677,Lehigh Valley Barber School,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.7333,0.5556,0.5663829666569001,1
+490018,National Personal Training Institute-Tampa,Private for-profit,Certificates,Southeast,Suburb,STEM,0.0,,,0.34,0.5662503019268715,1
+439844,Omega Institute of Cosmetology,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8667,0.4133,0.5653741751093896,1
+491701,Rexburg College of Massage Therapy,Private for-profit,Certificates,Rocky Mountains,Town,Health,0.0,,,0.4342,0.564821332449378,1
+129491,Hartford International University for Religion and Peace,Private nonprofit,Graduate,New England,City,STEM,2.1,,,,0.564166085292114,1
+446093,Sutter County Career Training Center,Private for-profit,Certificates,Far West,City,Health,0.0,,0.5581,0.4552,0.5631320846646032,1
+369659,Oregon College of Oriental Medicine,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.5629675905108495,1
+210368,Western Seminary,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.5620168274267973,1
+200110,Josef's School of Hair Skin & Body-Grand Forks,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.7083,0.5139,0.5619365527446171,1
+106324,Arkansas Beauty College,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.6957,0.6226,0.5575931672646878,1
+451307,The Salon Professional Academy-Battle Creek,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.75,0.5616,0.5571898505967703,1
+449834,Virginia Beach Theological Seminary,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.556325131460617,1
+48385001,Alliance Computing Solutions - NYC,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,4.2,,,,0.5559804717304396,1
+140562,Morehouse School of Medicine,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5554145667752561,1
+483799,East-West Healing Arts Institute,Private for-profit,Certificates,Great Lakes,City,Health,0.0,,0.8,0.3889,0.5552986044812236,1
+491233,Unlimited Cosmetology School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.625,0.2037,0.5550334384178025,1
+114637,Redondo Beach Beauty College,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,1.0,0.2913,0.5542759436097371,1
+199634,Sandhills Community College,Public,Associate's,Southeast,Rural,Humanities,0.0,8596.0,0.4789,0.3245,0.5541117227172134,1
+209205,Northwest College-Clackamas,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.4773,0.5946,0.5530184201147886,1
+134024,Florida School of Massage,Private for-profit,Certificates,Southeast,Rural,Health,0.0,,0.7692,0.5341,0.5529304252912354,1
+414966,Phillips Theological Seminary,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5524785444648621,1
+488651,Glitz School of Cosmetology,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.5814,0.6085,0.5523809974374221,1
+461485,Shepherds Theological Seminary,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5522308610324547,1
+156754,PJ's College of Cosmetology-Glasgow,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.5294,0.7246,0.5516837122409349,1
+163815,Maryland Beauty Academy of Essex,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,1.4000000000000001,,0.7813,0.6774,0.5512790406176423,1
+236018,BJ's Beauty & Barber College,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.9091,0.1742,0.5506694735364132,1
+196884,Union Theological Seminary in the City of New York,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5498841152148922,1
+189015,Bank Street College of Education,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5498841152148922,1
+223056,Baldwin Beauty School-South Austin,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.3182,0.5309,0.5495463564446984,1
+457615,Blackstone Valley Vocational Regional School District,Public,Certificates,New England,Suburb,Health,0.0,,,0.3043,0.5491699972863879,1
+461740,Buckner Barber School,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.2727,0.6531,0.5487816041938596,1
+481340,The Salon Professional Academy-Nashville,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7273,0.3137,0.5483768060319995,1
+364964,Center for Instruction Technology & Innovation,Public,Certificates,Mid East,Rural,Health,0.6,14487.0,0.8889,0.6061,0.5473184409059071,1
+188207,Southwestern College,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5469886994744366,1
+420246,Sonoran University of Health Sciences,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5460854333082996,1
+153782,La James International College-Ft Dodge,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,1.0,0.7368,0.5457923392842823,1
+420705,Bakke Graduate University,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5454414486730654,1
+421771,Academy of Beauty Professionals,Private for-profit,Certificates,Plains,Suburb,Trades & Applied,0.0,,0.4,0.625,0.5452566695723235,1
+147642,Cosmetology Concepts Niles,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.5714,0.4941,0.5446826107068692,1
+427335,Lia Schorr Institute of Cosmetic Skin Care Training,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.093,0.4444,0.544015767734643,1
+150215,Christian Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,1.7999999999999998,,,,0.5438849415216501,1
+198330,Coastal Carolina Community College,Public,Associate's,Southeast,City,Humanities,0.0,7779.0,0.4203,0.3066,0.5437500850639406,1
+19200401,Jamestown Business College -,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,3.6999999999999997,,,,0.5436208489255736,1
+170736,M J Murphy Beauty College of Mount Pleasant,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.9286,0.4286,0.5435480029706018,1
+490744,Northern Technical College,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.5,0.7447,0.54268536063685,1
+220163,The Hair Academy LLC,Private for-profit,Certificates,Southeast,Town,Trades & Applied,2.9000000000000004,,0.6667,0.6122,0.5426449531722352,1
+151865,Anabaptist Mennonite Biblical Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5424215920831035,1
+150288,Concordia Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5424215920831035,1
+178527,Neosho Beauty College,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.4848,0.5698,0.5422733131347914,1
+491871,Vogue International Academy,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,1.0,0.4737,0.542263477367937,1
+487083,Protege Academy,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.6667,0.625,0.5420864323158652,1
+458821,Empire Beauty School-Jackson,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.3714,0.7315,0.5418478541621313,1
+212230,Empire Beauty School-Lebanon,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.1,,0.9048,0.4727,0.5417148665944692,1
+165495,Conway School of Landscape Design,Private nonprofit,Graduate,New England,City,STEM,0.0,,,,0.5400291828490686,1
+490115,Nashville Film Institute,Private for-profit,Certificates,Southeast,City,Humanities,0.0,,0.5556,0.4186,0.5398863669091266,1
+212300,Empire Beauty School-Pottsville,Private for-profit,Certificates,Mid East,Town,Trades & Applied,0.0,,0.6889,0.549,0.5394693922840303,1
+216463,Trinity Episcopal School for Ministry,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.5391993327286531,1
+240213,Wisconsin School of Professional Psychology,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5391367166220323,1
+224758,Exposito School of Hair Design,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.0909,0.6889,0.5390605492978202,1
+48133101,Sharp Edgez Barber Institute - Buffalo,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.5389610754955337,1
+491242,Johnny Matthew's Hairdressing Training School,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.6897,0.4906,0.5388252229606784,1
+142832,Adler University,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5385232074913643,1
+375939,YTI Career Institute-Altoona,Private for-profit,Associate's,Mid East,Suburb,Health,2.6,,0.95,0.7284,0.5371163164078182,1
+107655,University of Aesthetics & Cosmetology,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.1429,0.7708,0.5365106148264738,1
+488907,Wongu University of Oriental Medicine,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.5362609581181473,1
+126119,Yuba College,Public,Associate's,Far West,Suburb,Social Science & Public Service,2.5,3573.0,0.3225,0.2799,0.5352794495330094,1
+153773,La James College of Hairstyling and Cosmetology,Private for-profit,Certificates,Plains,Town,Trades & Applied,0.0,,0.7083,0.5586,0.533902490039153,1
+458007,Love Beauty School Inc,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.6923,0.6526,0.5329206761211721,1
+154536,Wartburg Theological Seminary,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.5326131315203668,1
+409254,Erikson Institute,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5324360259982046,1
+392354,School of Professional Horticulture New York Botanical Garden,Private nonprofit,Certificates,Mid East,City,STEM,0.0,,1.0,0.0,0.5323789647944747,1
+490434,Apex Academy Hair Skin Nails School of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.9286,0.2877,0.5322896201875591,1
+490373,Western Michigan University Homer Stryker M.D. School of Medicine,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5319434336476303,1
+481447,Center for the Healing Arts,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.8571,0.3273,0.5319416649561667,1
+457943,Somerset County Technology Center,Public,Certificates,Mid East,Rural,Health,0.0,16620.0,0.913,0.2545,0.5312959623085051,1
+188535,Albany Law School,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5312355259154071,1
+487995,Alhambra Medical University,Private for-profit,Graduate,Far West,Suburb,STEM,0.0,,,,0.5305392045298926,1
+220792,Meharry Medical College,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5301624613171225,1
+488916,Alabama School of Nail Technology & Cosmetology,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,4.1000000000000005,,0.9091,0.7934,0.5294498962014963,1
+194073,New York College of Podiatric Medicine,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5289846362356918,1
+206039,Tiffin Academy of Hair Design,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,1.7000000000000002,,0.6111,0.8125,0.5270287141776316,1
+189501,Brooklyn Law School,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5263573597342578,1
+193821,New York Law School,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.5263573597342578,1
+492281,GoodFellas Barber College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.3,0.5439,0.526045438365292,1
+492421,No Grease Barber School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8,1.0,0.5248262382364921,1
+175139,United Theological Seminary of the Twin Cities,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.5246500944826105,1
+228866,Texas Chiropractic College Foundation Inc,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.5244892071347492,1
+237303,Charleston School of Beauty Culture,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.5,0.7222,0.5240715432905884,1
+244446,Georgia Piedmont Technical College,Public,Certificates,Southeast,Suburb,Trades & Applied,0.0,7210.0,0.3488,0.421,0.5235940784936792,1
+483744,Vibe Barber College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.75,0.6452,0.5234517906389441,1
+107725,University of Arkansas Hope-Texarkana,Public,Certificates,Southeast,Town,Humanities,0.0,8210.0,0.4925,0.3754,0.5226266904352478,1
+451194,Carlson College of Massage Therapy,Private for-profit,Certificates,Plains,Rural,Health,0.0,,1.0,0.4902,0.521794667547385,1
+438674,The Academy of Hair Design Six,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.3,,0.5,0.8356,0.5216280290545816,1
+490294,Elite Cosmetology Barber & Spa Academy,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.3023,0.6732,0.5211185596246696,1
+366571,Mercy-St Luke's School of Radiologic Technology,Private nonprofit,Certificates,Plains,City,Health,0.0,,,0.2727,0.5207327655445325,1
+454962,The University of Aesthetics & Cosmetology,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.7241,0.3689,0.5185112317897472,1
+491686,International Barber College,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.64,0.5238,0.5181759860606292,1
+449481,Dragon Rises College of Oriental Medicine,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5174937426292554,1
+451079,Academy for Five Element Acupuncture,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5174937426292554,1
+199908,Western Piedmont Community College,Public,Associate's,Southeast,City,Humanities,0.0,5357.0,0.3571,0.3305,0.5163500791883429,1
+486859,Entourage Institute of Beauty and Esthetics,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.6667,0.5111,0.5154076566771555,1
+180090,Crevier's Academy of Cosmetology Arts,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,0.0,,0.8222,0.211,0.5143985244581304,1
+442806,Edward Via College of Osteopathic Medicine,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.5129257003297336,1
+138682,Albany Technical College,Public,Certificates,Southeast,City,Business,0.0,4293.0,0.3413,0.6151,0.5120483064480122,1
+192970,Memorial Hospital School of Radiation Therapy Technology,Private nonprofit,Certificates,Mid East,City,Health,0.0,,,0.0,0.5115655317469598,1
+475653,Reflections Academy of Beauty,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,1.4000000000000001,,0.5217,0.7021,0.5110123115862587,1
+488129,Textures Institute of Cosmetology,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,1.0,0.6129,0.5108296880067862,1
+447166,Empire Beauty School-Littleton,Private for-profit,Certificates,Rocky Mountains,Suburb,Trades & Applied,0.0,,0.7273,0.3548,0.5100624792334301,1
+492096,D&S School of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,1.0,0.3,0.5098845185144741,1
+444051,Creative Images Institute of Cosmetology-South Dayton,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.8364,0.3519,0.5090266525943405,1
+481030,Future Generations University,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.5088307490556785,1
+204990,Payne Theological Seminary,Private nonprofit,Graduate,Great Lakes,Rural,STEM,0.0,,,,0.5087427326440361,1
+431071,New York Institute of Massage Inc,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.8667,0.5682,0.5082379490434523,1
+146454,Educators of Beauty College of Cosmetology-Peru,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,1.0,,0.6383,0.6104,0.508017056815542,1
+485856,Studio Incamminati,Private nonprofit,Certificates,Mid East,City,Humanities,0.0,,,0.0769,0.5073395767710172,1
+146728,Lutheran School of Theology at Chicago,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+145628,Illinois College of Optometry,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+144014,Chicago Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+145275,Garrett-Evangelical Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+147031,Meadville Theological School of Lombard College,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+148982,Spertus College,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.5073313044999124,1
+430908,Clearfield County Career and Technology Center,Public,Certificates,Mid East,Rural,Health,0.0,13654.0,0.8214,0.3654,0.5070358299809495,1
+454689,Taft University System,Private for-profit,Graduate,Rocky Mountains,City,STEM,0.0,,,,0.5068349270256272,1
+147697,Northern Baptist Theological Seminary,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.5063435401745865,1
+409591,Lorain County Joint Vocational School District,Public,Certificates,Great Lakes,Rural,Trades & Applied,3.0,11870.0,0.6364,0.2282,0.5060921036945021,1
+462336,International College of Beauty Arts & Sciences,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.9211,0.512,0.505627198710494,1
+451097,Academy of Career Training,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.9333,0.1186,0.5046801699909459,1
+486381,Center for Ultrasound Research & Education,Private for-profit,Certificates,Mid East,City,Health,0.0,,0.7193,0.3971,0.5043012390882149,1
+460145,Illinois Media School-Chicago Campus,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.6107,0.6154,0.5042751293369572,1
+154457,Iowa School of Beauty-Sioux City,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.6364,0.5156,0.5033804906539807,1
+173896,Luther Seminary,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.5033630964032333,1
+480161,Ideal Beauty Academy,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.6875,0.5806,0.5032072530761762,1
+219587,Arnolds Beauty School,Private for-profit,Certificates,Southeast,Town,Trades & Applied,1.4000000000000001,,0.5952,0.5895,0.5031885927659189,1
+374024,Adler Graduate School,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.5030486851509517,1
+455327,Hands on Therapy,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,0.5217,0.5696,0.5030034411871808,1
+113704,Dominican School of Philosophy & Theology,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.5028982645862766,1
+404222,Inter American University of Puerto Rico-School of Optometry,Private nonprofit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.5028191632684886,1
+123633,South Baylo University,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.502213602628658,1
+123916,Starr King School for the Ministry,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.502213602628658,1
+411754,Cleveland Clinic Health System-School of Diagnostic Imaging,Private nonprofit,Certificates,Great Lakes,Suburb,Health,0.0,,,0.4595,0.5006697898124045,1
+108065,Velvatex College of Beauty Culture,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6429,0.5714,0.5004163236908566,1
+103954,Arizona Academy of Beauty,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.3846,0.6719,0.5000516139391569,1
+419253,Illinois Media School,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.6735,0.5978,0.49869130062197575,1
+148885,University of Saint Mary of the Lake,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.4983707269750969,1
+153746,La James International College-Cedar Falls,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,1.0,0.6949,0.49812660055705316,1
+462044,Institute for Doctoral Studies in the Visual Arts,Private nonprofit,Graduate,New England,City,STEM,0.0,,,,0.49788730298587724,1
+239424,Nashotah House,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.4967224476275831,1
+448275,Mountain State School of Massage,Private for-profit,Certificates,Southeast,City,Health,0.0,,0.7826,0.8095,0.49624319995387417,1
+206516,Winebrenner Theological Seminary,Private nonprofit,Graduate,Great Lakes,Town,STEM,0.0,,,,0.49578962371245017,1
+143552,Capri Beauty College,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.8571,0.5781,0.4952076054249416,1
+188289,Vogue College of Cosmetology-Santa Fe,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,,0.5922,0.49391863634172856,1
+186423,Capital Health School of Nursing,Private nonprofit,Certificates,Mid East,City,Health,0.0,,,0.0,0.4935180187740567,1
+243081,Ponce Health Sciences University,Private for-profit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.49322368507288344,1
+483258,Networks Barber College,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,1.0999999999999999,,0.6667,0.764,0.4921211525807791,1
+447795,American Institute of Massage Therapy,Private for-profit,Certificates,Far West,City,Health,0.0,,0.9747,0.1282,0.4918627403475611,1
+382461,Academy of Hair Design-Pearl,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.6667,0.7273,0.4911661163322534,1
+461120,Omega Graduate School,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.489333982261304,1
+139348,Columbia Theological Seminary,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.4888584994263219,1
+228282,Southwest School of Business and Technical Careers-San Antonio,Private for-profit,Certificates,Southwest,City,Health,0.0,,0.6507,0.9535,0.48834836201427556,1
+185758,New Brunswick Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,1.2,,,,0.4878722111590983,1
+481021,Berks Career & Technology Center,Public,Certificates,Mid East,Suburb,Trades & Applied,0.0,17879.0,0.75,0.26,0.4877002266766356,1
+480851,Miami Media School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6481,0.6753,0.4874615599093532,1
+429085,American College of Acupuncture and Oriental Med,Private for-profit,Graduate,Southwest,City,STEM,0.0,,,,0.4871818107175809,1
+106494,Arthur's Beauty College,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.2222,0.7885,0.4859720976311241,1
+451042,Branford Academy of Hair and Cosmetology,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,0.8333,1.0,0.4856002496319432,1
+457493,Paul Mitchell the School-Twin Falls,Private for-profit,Certificates,Rocky Mountains,City,Trades & Applied,0.0,,0.5686,0.6563,0.4855806343761994,1
+490258,American Barber and Beauty Academy,Private for-profit,Certificates,Mid East,City,Trades & Applied,2.1,,0.803,0.3915,0.48488633136700626,1
+127273,Iliff School of Theology,Private nonprofit,Graduate,Rocky Mountains,City,STEM,0.0,,,,0.48453563481159767,1
+487773,Butte County Regional Occupational Program,Public,Certificates,Far West,City,Health,1.5,4357.0,0.6667,0.2712,0.4843931872785918,1
+443076,Hood Theological Seminary,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.48435564931187686,1
+494010,Ponce Health Sciences University-St Louis,Private for-profit,Graduate,Plains,City,STEM,0.0,,,,0.4842941132201848,1
+179317,Saint Paul School of Theology,Private nonprofit,Graduate,Plains,Suburb,STEM,0.0,,,,0.4833780558190558,1
+122117,Dongguk University Los Angeles,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4830122783483064,1
+470047,WellSpring School of Allied Health-Lawrence,Private for-profit,Certificates,Plains,City,Health,0.0,,1.0,0.5455,0.48231033486583774,1
+493673,Professional University Dr. Carlos J. Borrero Rios,Private for-profit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.4814084332619948,1
+457271,Academy for Jewish Religion California,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4811924336331426,1
+455099,Urshan Graduate School of Theology,Private nonprofit,Graduate,Plains,Suburb,STEM,0.0,,,,0.48032772939571056,1
+406486,Myotherapy Massage College,Private for-profit,Certificates,Rocky Mountains,Suburb,Health,0.0,,0.6364,0.4205,0.4799098881442061,1
+457448,Tenaj Salon Institute,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6316,0.3913,0.4792921705647907,1
+242723,Inter American University of Puerto Rico-School of Law,Private nonprofit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.47907716572224573,1
+195580,Saint Vladimirs Orthodox Theological Seminary,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4784867997817993,1
+193830,New York Medical College,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4784867997817993,1
+177126,Covenant Theological Seminary,Private nonprofit,Graduate,Plains,Suburb,STEM,0.0,,,,0.4778431431840465,1
+217040,Yeshivath Beth Moshe,Private nonprofit,Associate's,Mid East,City,STEM,0.0,6349.0,,0.3714,0.4775213167020058,1
+213491,Lansdale School of Cosmetology Inc,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.5556,0.0435,0.47732768518006535,1
+216223,The Beauty Institute,Private for-profit,Certificates,Mid East,Town,Trades & Applied,0.0,,0.661,0.675,0.47573970705492036,1
+143853,Midwestern University-Downers Grove,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.4752255063374931,1
+216816,Westminster Theological Seminary,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4750721823847136,1
+214564,Salus University,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4750721823847136,1
+487889,Regional Center for Border Health,Private nonprofit,Certificates,Southwest,Town,Health,1.9,,0.92,0.0,0.4739860688236196,1
+209083,Northwest College-Beaverton,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.5,0.5238,0.47382031618436443,1
+417868,Clinton Essex Warren Washington BOCES,Public,Certificates,Mid East,Town,Health,1.2,12752.0,0.9286,0.1538,0.47273407247501575,1
+417123,Ventura Adult and Continuing Education,Public,Certificates,Far West,City,Health,0.0,9949.0,0.9667,0.3505,0.47187321628229495,1
+150428,Don Roberts School of Hair Design,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.8,0.4444,0.4718311192951638,1
+169813,Creative Hair School of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.3333,0.4565,0.47169324301868215,1
+481331,Sharp Edgez Barber Institute,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.9375,0.7005,0.4706049334309958,1
+441593,Orleans Niagara BOCES-Practical Nursing Program,Public,Certificates,Mid East,Town,Health,1.0999999999999999,,0.6667,0.5833,0.46872312882505723,1
+491543,San Bernardino Beauty College,Private for-profit,Certificates,Far West,City,Trades & Applied,1.7999999999999998,,0.8958,0.375,0.4684399383614774,1
+488280,National Personal Training Institute,Private for-profit,Certificates,Southeast,Suburb,STEM,0.0,,1.0,0.4405,0.46813216558272236,1
+48891601,Alabama School of Nail Technology & Cosmetology - Saraland,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,4.1000000000000005,,,,0.46706643541357734,1
+224712,Episcopal Theological Seminary of the Southwest,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.46538359125200407,1
+114549,Fielding Graduate University,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4651664907667565,1
+492704,Ponce Health Sciences University-Centro Universitario de San Juan,Private for-profit,Graduate,Outlying Areas,City,STEM,0.0,,,,0.46510375038032037,1
+447698,Phoenix Institute of Herbal Medicine & Acupuncture,Private for-profit,Graduate,Southwest,City,STEM,1.7000000000000002,,,,0.46443964322999315,1
+381732,Colorado School of Healing Arts,Private for-profit,Certificates,Rocky Mountains,Suburb,Health,0.0,,1.0,0.1636,0.4643951679312986,1
+480000,Hinton Barber and Beauty College,Private for-profit,Certificates,Far West,City,Trades & Applied,0.8999999999999999,,0.4444,0.8226,0.4636785032027654,1
+239169,Medical College of Wisconsin,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.46346164192012634,1
+198118,Caldwell Community College and Technical Institute,Public,Associate's,Southeast,Suburb,Humanities,0.0,5517.0,0.3978,0.2914,0.4634552033739594,1
+443298,Trend Barber College,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.4565,0.913,0.46269937357788665,1
+499723,Barber Tech Academy-Columbia,Private for-profit,Certificates,Southeast,City,STEM,0.0,,,0.0,0.46156975497744795,1
+489247,American Beauty Academy-West Valley Campus,Private for-profit,Certificates,Rocky Mountains,Suburb,Trades & Applied,0.0,,0.6667,0.4416,0.46126494566269893,1
+499635,EDP University of Puerto Rico-Caguas,Private nonprofit,Associate's,Outlying Areas,City,STEM,0.0,,,,0.46120686227003,1
+233842,Union Presbyterian Seminary,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.4610818269162117,1
+384306,Acupuncture and Integrative Medicine College-Berkeley,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.46021562124143395,1
+108269,Academy of Chinese Culture and Health Sciences,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.46021562124143395,1
+486433,Presidio Graduate School,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.46021562124143395,1
+475228,The Colleges of Law at Santa Barbara,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.46021562124143395,1
+121628,Pardee RAND Graduate School,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.46021562124143395,1
+496371,Elite Welding Academy South Point,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,1.0,0.6667,0.45940373637365234,1
+164085,Maryland University of Integrative Health,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4589478942433168,1
+164915,Boston Graduate School of Psychoanalysis Inc,Private nonprofit,Graduate,New England,Suburb,STEM,0.0,,,,0.458766410613842,1
+213631,United Lutheran Seminary,Private nonprofit,Graduate,Mid East,Town,STEM,0.8,,,,0.45853773468066883,1
+490948,Bull City Durham Beauty and Barber College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6667,1.0,0.45696699988949085,1
+453756,Ohio Media School-Columbus,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.6222,0.6318,0.45651744119921206,1
+136701,Saint Vincent de Paul Regional Seminary,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.4563897581928794,1
+487807,Top of the Line Barber College,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.7999999999999998,,0.2,0.7391,0.4563834962707216,1
+430564,Studio Jewelers,Private for-profit,Certificates,Mid East,City,Humanities,0.0,,0.8696,0.0168,0.4563159171802114,1
+198011,Bladen Community College,Public,Associate's,Southeast,Rural,Humanities,0.0,7858.0,0.3095,0.6708,0.45597445424782684,1
+143233,Bethany Theological Seminary,Private nonprofit,Graduate,Great Lakes,Town,STEM,0.0,,,,0.45584105740984154,1
+179812,Kansas City University,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.4556890784393067,1
+153542,UnityPoint Health-Des Moines School of Radiologic Technology,Private nonprofit,Certificates,Plains,City,Health,0.0,,,0.1053,0.4550547702217373,1
+209694,Phagans School of Beauty,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.6379,0.6543,0.45445323956133676,1
+198668,Haywood Community College,Public,Certificates,Southeast,Rural,Humanities,0.0,3834.0,0.4413,0.31,0.454362119182341,1
+172705,Western Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.4541950179906211,1
+169099,Calvin Theological Seminary,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.4541950179906211,1
+484172,Lee Professional Institute,Private for-profit,Certificates,Southeast,City,Health,0.0,,0.95,0.954,0.454060280744663,1
+449445,Valley College of Medical Careers,Private for-profit,Certificates,Far West,City,Health,0.0,,0.7857,0.7736,0.45394043076634794,1
+455062,French Academy of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.9286,0.2301,0.4535718057338084,1
+490106,Virginia University of Integrative Medicine,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.45259099633748123,1
+441672,Susquehanna County Career and Technology Center,Public,Certificates,Mid East,Rural,Trades & Applied,0.0,4156.0,0.9667,0.8605,0.4525317851825175,1
+183202,Paul Mitchell the School-Portsmouth,Private for-profit,Certificates,New England,Suburb,Trades & Applied,0.0,,0.8214,0.2427,0.45252773913172717,1
+461139,Jung Tao School of Classical Chinese Medicine,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.4508357138315595,1
+455813,Pontifical John Paul II Institute for Studies on Marriage and Family,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.45022808239753964,1
+131973,Wesley Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.45022808239753964,1
+114734,Franciscan School of Theology,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.450098938714982,1
+483346,Barber and Beauty Academy of Pennsylvania,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8333,0.1037,0.45005578618744996,1
+499608,Wade Gordon Hairdressing Academy-Oklahoma,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,,0.0,0.4500555371515113,1
+208433,College of Hair Design Careers,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.6316,0.4215,0.4495854585515221,1
+123095,Saybrook University,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.44892189813130673,1
+493372,Urban Academy of Beauty,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,0.5,0.4706,0.44863266609309993,1
+439914,Seattle Institute of East Asian Medicine,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4485635256599184,1
+441131,The Seattle School of Theology & Psychology,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4478776115810802,1
+417628,Kirksville Area Technical Center,Public,Certificates,Plains,Town,Health,0.0,5885.0,0.6364,0.8,0.4469515749004869,1
+198914,Mayland Community College,Public,Certificates,Southeast,Rural,Trades & Applied,0.0,5260.0,0.4857,0.2558,0.4463521677237396,1
+207315,Oklahoma State University Center for Health Sciences,Public,Graduate,Southwest,City,STEM,0.0,,,,0.4462298632174596,1
+408163,Pinnacle Institute of Cosmetology,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.0999999999999999,,0.4,0.3537,0.4459986215537697,1
+485403,High Tech High Graduate School of Education,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4450480864450148,1
+125037,The Colleges of Law at Ventura,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.4450480864450148,1
+373456,Blalock's Professional Beauty College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.5238,1.0,0.44500208249921125,1
+418588,Northern Tier Career Center,Public,Certificates,Mid East,Rural,Health,0.0,16860.0,0.5455,0.3036,0.44450541715922304,1
+455910,Center for Massage,Private for-profit,Certificates,Southeast,City,Health,0.8999999999999999,,0.9107,0.2826,0.44448199550545103,1
+475662,UCAS University of Cosmetology Arts & Sciences-La Joya,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,0.5294,1.0,0.4444038131831256,1
+218751,Sherman College of Chiropractic,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.4441576149080985,1
+223001,Austin Presbyterian Theological Seminary,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.44343518107984503,1
+224305,Dallas Theological Seminary,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.44343518107984503,1
+165608,Diman Regional Technical Institute,Public,Certificates,New England,Suburb,Health,0.0,20861.0,0.7143,0.5909,0.4432309583376123,1
+409032,Nouvelle Institute,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8571,1.0,0.44183940649736064,1
+165945,Gordon-Conwell Theological Seminary,Private nonprofit,Graduate,New England,Suburb,STEM,0.0,,,,0.44151024971412417,1
+203997,Methodist Theological School in Ohio,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.44098540457006913,1
+37727201,Nuvani Institute-Uvalde,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,2.1,,,,0.4408636081839071,1
+496964,Larry's Barber College-Joliet,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,,1.0,0.4408357043470093,1
+206288,United Theological Seminary,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.4406302584297545,1
+249061,Ms Roberts Academy of Beauty Culture,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.56,0.5426,0.4385342067235702,1
+457192,Washington Barber College Inc,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8889,1.0,0.43707613335221474,1
+455804,Institute of World Politics,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.43535293606037084,1
+199467,Roanoke-Chowan Community College,Public,Associate's,Southeast,Rural,Humanities,0.0,8076.0,0.2143,0.3392,0.4350913308837938,1
+175281,Mitchell Hamline School of Law,Private nonprofit,Graduate,Plains,City,STEM,0.0,,,,0.43504010496014833,1
+196228,SUNY College of Optometry,Public,Graduate,Mid East,City,STEM,0.0,,,,0.43468626623891377,1
+483948,Bos-Man's Barber College,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.7000000000000002,,0.5714,1.0,0.43460003225127386,1
+190682,CUNY School of Law,Public,Graduate,Mid East,City,STEM,0.0,,,,0.4337784524845653,1
+488387,Claremont Lincoln University,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.4328699554826087,1
+167215,New England Law-Boston,Private nonprofit,Graduate,New England,City,STEM,0.0,,,,0.43248334963674756,1
+169220,Michigan School of Psychology,Private nonprofit,Graduate,Great Lakes,City,STEM,0.0,,,,0.43224894421356824,1
+481368,Prestige Health & Beauty Sciences Academy,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,1.7999999999999998,,0.875,0.0325,0.43078889700504824,1
+48616901,American College of Barbering - Florence,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.4297811635088892,1
+418171,Charles Stuart School of Diamond Setting,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,1.0,0.0313,0.4294807025104362,1
+446039,Arizona School of Acupuncture and Oriental Medicine,Private for-profit,Graduate,Southwest,City,STEM,0.0,,,,0.4282954123875898,1
+459514,Peloton College,Private for-profit,Certificates,Southwest,City,Health,0.0,,0.881,0.7411,0.4280705347222835,1
+488226,Center for Neurosomatic Studies,Private for-profit,Certificates,Southeast,City,Health,0.0,,0.5294,0.3043,0.42802752035987324,1
+139357,Columbus Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,4959.0,0.2069,0.5428,0.42788324626995083,1
+134228,Fort Pierce Beauty Academy,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.9412,0.9767,0.42788275827310335,1
+451291,Lakewood School of Therapeutic Massage,Private for-profit,Certificates,Great Lakes,Suburb,Health,0.0,,,0.9231,0.4277051197717289,1
+488253,Focus Personal Training Institute,Private for-profit,Certificates,Mid East,City,STEM,0.0,,0.875,0.225,0.4276669685379527,1
+484075,First Coast Barber Academy,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6567,1.0,0.4275555967042861,1
+149204,Educators of Beauty College of Cosmetology-Sterling,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.6667,0.5667,0.4272069491348055,1
+377193,UCAS University of Cosmetology Arts & Sciences,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.0,1.0,0.42713140726317983,1
+107442,New Tyler Barber College Inc,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.2857,0.7797,0.4270079312459085,1
+173683,Hazelden Betty Ford Graduate School,Private nonprofit,Graduate,Plains,Rural,STEM,0.0,,,,0.4265874368867605,1
+124283,Claremont School of Theology,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.4265822350859583,1
+138497,Withlacoochee Technical College,Public,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.5044,0.3574,0.42638707267350745,1
+417983,Cattaraugus Allegany BOCES-Practical Nursing Program,Public,Certificates,Mid East,Rural,Health,1.0999999999999999,,,0.8276,0.4261213336121434,1
+126979,Denver Seminary,Private nonprofit,Graduate,Rocky Mountains,Suburb,STEM,0.0,,,,0.42561538804950855,1
+483911,Creative Touch Cosmetology School,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.4545,0.6207,0.42527008337029726,1
+487904,Kentucky Horseshoeing School,Private for-profit,Certificates,Southeast,Town,STEM,0.0,,0.9231,0.4167,0.4250151894813326,1
+489812,Pima Medical Institute-Dillon,Private for-profit,Certificates,Rocky Mountains,Town,STEM,0.0,,0.6333,0.3506,0.42472386206204243,1
+221670,Southern College of Optometry,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.42446657804668386,1
+445869,Divine Mercy University,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.4224938019123385,1
+214023,ASPIRA City College,Private nonprofit,Certificates,Mid East,City,Health,0.0,15727.0,0.0,0.7273,0.42215652932359066,1
+223223,Baylor College of Medicine,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.421929834061813,1
+228194,South Texas College of Law Houston,Private nonprofit,Graduate,Southwest,City,STEM,0.0,,,,0.421929834061813,1
+48092101,Designer Barber & Stylist School -,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,1.7999999999999998,,,,0.4210585576848052,1
+156727,Frontier Nursing University,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.4208580658990183,1
+231147,Vermont Law and Graduate School,Private nonprofit,Graduate,New England,Rural,STEM,0.0,,,,0.4206455498112021,1
+497912,Concorde Career College-Broadway,Private for-profit,Certificates,Plains,City,Health,0.0,,0.7091,0.662,0.4203505401127818,1
+440004,Upper Valley Educators Institute,Private nonprofit,Graduate,New England,Town,STEM,0.0,,,,0.42014526241774675,1
+481049,Carthage R9 School District-Carthage Technical Center,Public,Certificates,Plains,Town,Health,0.0,16233.0,0.75,0.9429,0.41957461491097653,1
+484048,Barber Institute of Texas,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.0,0.5963,0.41764567502309496,1
+107619,Phillips Community College of the University of Arkansas,Public,Certificates,Southeast,Town,Humanities,0.0,5420.0,0.5161,0.359,0.4175002476102716,1
+497222,Salon Professional Academy-Elevate Salon Institute,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7143,0.3784,0.4170757220345841,1
+454838,Institute of Taoist Education and Acupuncture,Private nonprofit,Graduate,Rocky Mountains,Suburb,STEM,0.0,,,,0.41606076752436116,1
+135267,Fort Myers Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,14072.0,0.8203,0.265,0.41523827621555087,1
+486141,Westchester College of Nursing & Allied Health,Private for-profit,Certificates,Far West,City,STEM,0.0,,1.0,0.9091,0.41505337731145525,1
+439783,New York College of Traditional Chinese Medicine,Private nonprofit,Graduate,Mid East,Suburb,STEM,0.0,,,,0.4150453159650355,1
+455178,Daoist Traditions College of Chinese Medical Arts,Private for-profit,Graduate,Southeast,City,STEM,0.0,,,,0.4149507782983537,1
+161855,Baltimore Studio of Hair Design,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.8667,0.9773,0.4147148387125796,1
+401250,Yo San University of Traditional Chinese Medicine,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.4142690077201341,1
+47503313,Relay Graduate School of Education - Washington D.C,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.41304060530954223,1
+101240,Gadsden State Community College,Public,Certificates,Southeast,City,Trades & Applied,0.0,3568.0,0.3218,0.4736,0.41298686205385343,1
+439394,East West College of Natural Medicine,Private for-profit,Graduate,Southeast,City,STEM,0.0,,,,0.4126590553495484,1
+495341,Taylor Andrews Academy of Hair Design-Hair Lab Detroit Barber School,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.4286,0.4324,0.409158887420742,1
+418445,Jefferson County Dubois Area Vocational Technical Practical Nursing Program,Public,Certificates,Mid East,Rural,Health,0.0,8428.0,0.5714,0.6154,0.40828402484558374,1
+461333,Mauna Loa Helicopters,Private for-profit,Certificates,Far West,Town,STEM,0.0,,,0.0,0.4080668162339116,1
+135179,Lake Technical College,Public,Certificates,Southeast,Suburb,Health,0.0,14597.0,0.6825,0.2766,0.4076216154250239,1
+365505,Waynesville Career Center,Public,Certificates,Plains,Town,Health,0.0,19044.0,0.6667,0.5769,0.4072662379658244,1
+494029,Lil Lou's Beauty and Barber College-Hammond,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.3333,0.8824,0.40720465502122233,1
+437723,New Community Career & Technical Institute,Private nonprofit,Certificates,Mid East,City,Health,0.0,5716.0,0.3131,0.7692,0.40611897904606536,1
+447801,University of East-West Medicine,Private for-profit,Graduate,Far West,City,STEM,0.0,,,,0.40607807656627004,1
+135276,Lively Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,7225.0,0.5458,0.2359,0.4060531445277741,1
+454953,University of Aesthetics & Cosmetology,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.7586,0.6053,0.40596510733299107,1
+491215,Commercial Divers International,Private for-profit,Certificates,Southwest,Suburb,STEM,0.0,,0.9012,0.5043,0.4057525196992853,1
+200527,Turtle Mountain Community College,Private nonprofit,Certificates,Plains,Rural,Humanities,0.0,3474.0,,0.5826,0.4053767736242165,1
+146490,Lake Forest Graduate School of Management,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.40374206170346477,1
+490124,Los Angeles Academy of Figurative Art,Private for-profit,Certificates,Far West,City,Humanities,0.0,,,0.6,0.40351813794616176,1
+488396,Phipps Academy of Barbering,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.4643,0.8986,0.40307915942691763,1
+219842,Pentecostal Theological Seminary,Private nonprofit,Certificates,Southeast,City,Social Science & Public Service,0.0,,,0.0,0.4030742498195457,1
+47503308,Relay Graduate School of Education - Philadelphia & Camden,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.4022560298219696,1
+219994,Tennessee College of Applied Technology-Dickson,Public,Certificates,Southeast,Rural,Trades & Applied,0.0,8332.0,0.7649,0.4009,0.40126530520277703,1
+220996,Middle Tennessee School of Anesthesia Inc,Private nonprofit,Graduate,Southeast,City,STEM,0.0,,,,0.40122454962799187,1
+496894,Branford Academy of Hair & Cosmetology-Bridgeport,Private for-profit,Certificates,New England,City,Trades & Applied,0.0,,,1.0,0.40099160082004404,1
+207087,Formations Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.0,0.5965,0.40070053741807754,1
+420981,Manhattan School of Computer Technology,Private nonprofit,Certificates,Mid East,City,Humanities,0.0,11103.0,0.7195,0.7918,0.4003089219635105,1
+190707,CVPH Medical Center School of Radiologic Technology,Private nonprofit,Certificates,Mid East,Town,Health,0.0,8609.0,0.5,0.2222,0.3997902353964459,1
+202888,Gerbers Akron Beauty School,Private for-profit,Certificates,Great Lakes,City,Trades & Applied,0.0,,0.8929,0.1189,0.3990553817942814,1
+37728103,Nuvani Institute-South Campus,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.39874597772634673,1
+37728101,Nuvani Institute-Del Rio,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.39874597772634673,1
+480727,School of Missionary Aviation Technology,Private nonprofit,Certificates,Great Lakes,Rural,Trades & Applied,0.0,14994.0,0.96,0.3529,0.39783921710061754,1
+451529,Elite College of Cosmetology,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.7241,0.9524,0.39750802656157275,1
+186122,Princeton Theological Seminary,Private nonprofit,Graduate,Mid East,City,STEM,0.0,,,,0.3972051749061688,1
+490197,Regan Career Institute,Private for-profit,Certificates,Far West,Suburb,Health,0.0,,1.0,0.2034,0.39684547270328735,1
+237880,West Virginia School of Osteopathic Medicine,Public,Graduate,Southeast,Town,STEM,0.0,,,,0.39678534244712876,1
+236744,Stylemaster College of Hair Design,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.5172,0.6267,0.3961961215418395,1
+201098,Ashland County-West Holmes Career Center,Public,Certificates,Great Lakes,Rural,Health,1.0,15188.0,0.8571,0.4286,0.3961783170346478,1
+450605,Empire Beauty School-North Hills,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.1,,0.5238,0.6235,0.39593672025035614,1
+148098,Professional's Choice Hair Design Academy,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.9189,0.2667,0.39587992584695636,1
+230199,Evans Hairstyling College-Cedar City,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,0.0,,0.8491,0.3333,0.39568593952039033,1
+45133401,Academy of Hair Design - Austin,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.39334337833956307,1
+477002,Brighton Institute of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.98,0.0164,0.39112273724405705,1
+488554,Burrell College of Osteopathic Medicine,Private for-profit,Graduate,Southwest,Suburb,STEM,0.0,,,,0.3909616484627652,1
+47503307,Relay Graduate School of Education - Baton Rouge,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3905910250779595,1
+47503302,Relay Graduate School of Education - New Orleans,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3905910250779595,1
+369419,Erwin Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,7086.0,0.7944,0.3282,0.3905214709176962,1
+459055,Empire Beauty School-West Palm,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.6667,0.5758,0.3903299188667051,1
+457925,Portland Actors Conservatory,Private nonprofit,Certificates,Far West,City,Humanities,0.0,29915.0,1.0,0.25,0.39011084121592504,1
+171775,Port Huron Cosmetology College,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.6786,0.2152,0.3895708769289808,1
+199476,Robeson Community College,Public,Associate's,Southeast,Town,Trades & Applied,0.0,5189.0,0.2993,0.4724,0.3895101307436427,1
+488970,Ross Medical Education Center-Midland,Private for-profit,Certificates,Great Lakes,City,Health,0.2,,0.7442,0.5618,0.3891643301388036,1
+45897303,Strayer University-Northwest Houston,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.38896207701390495,1
+45897306,Strayer University-North Dallas,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.38896207701390495,1
+198233,Catawba Valley Community College,Public,Associate's,Southeast,City,Humanities,0.0,9415.0,0.3562,0.3253,0.388884698215175,1
+177278,Eden Theological Seminary,Private nonprofit,Graduate,Plains,Suburb,STEM,0.0,,,,0.3885452585661801,1
+49158901,Mystros Barber Academy - Missouri City,Private nonprofit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.3877052764160156,1
+485591,New Beginnings Beauty Academy,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.0513,1.0,0.38764914559491565,1
+139506,Pro Way Hair School,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.625,0.7941,0.38577055126493304,1
+44098904,Texas Barber College - Branch Campus #5,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.3842232886926692,1
+44098902,Texas Barber College - Branch Campus #2,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.3842232886926692,1
+44098901,Texas Barber College - Branch Campus #1,Private for-profit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.3842232886926692,1
+106883,East Arkansas Community College,Public,Certificates,Southeast,Town,Humanities,0.0,6769.0,0.4711,0.2689,0.383412349345603,1
+154466,SOHO Hair Academy,Private for-profit,Certificates,Plains,Suburb,Trades & Applied,0.0,,0.6667,0.6667,0.3818504355011828,1
+47503305,Relay Graduate School of Education - Houston,Private nonprofit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.38117989475847336,1
+47503312,Relay Graduate School of Education - Dallas-Fort Worth,Private nonprofit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.38117989475847336,1
+47503311,Relay Graduate School of Education - San Antonio,Private nonprofit,Not classified,Southwest,Other/Unknown,STEM,0.0,,,,0.38117989475847336,1
+145558,Rosalind Franklin University of Medicine and Science,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.3809312403820167,1
+481739,Empire Beauty School-Vernon Hills,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.6,0.4588,0.38066634975489627,1
+461722,Lindsey Institute of Cosmetology,Private for-profit,Certificates,Southeast,City,Trades & Applied,1.3,,0.8125,0.2644,0.3805358388300312,1
+115214,Graduate Theological Union,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.3802521626783923,1
+114840,Fuller Theological Seminary,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.3802521626783923,1
+120795,Pacific School of Religion,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.3802521626783923,1
+475422,Finger Lakes Health College of Nursing & Health Sciences,Private nonprofit,Associate's,Mid East,Town,Health,0.0,,,0.4184,0.379775145072319,1
+199494,Rowan-Cabarrus Community College,Public,Associate's,Southeast,Suburb,Humanities,0.0,4842.0,0.3004,0.2806,0.3796442465293449,1
+381352,Colorado Chinese Medicine University,Private for-profit,Graduate,Rocky Mountains,City,STEM,0.0,,,,0.378237040910067,1
+204778,Ohio State School of Cosmetology-Canal Winchester,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.5667,0.5366,0.3775803600751319,1
+454935,Evans Hairstyling College-Rexburg,Private for-profit,Certificates,Rocky Mountains,Town,Trades & Applied,0.0,,0.8,0.4,0.3760857724553706,1
+117520,Life Chiropractic College West,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.3760019844190524,1
+156222,Asbury Theological Seminary,Private nonprofit,Graduate,Southeast,Town,STEM,0.0,,,,0.3758738732103693,1
+491808,Meridian University,Private for-profit,Graduate,Far West,City,STEM,0.0,,,,0.37576547630049556,1
+114114,Emperor's College of Traditional Oriental Medicine,Private for-profit,Graduate,Far West,City,STEM,0.0,,,,0.3754524152843078,1
+138929,Atlanta's John Marshall Law School,Private for-profit,Graduate,Southeast,City,STEM,0.0,,,,0.37508216058633137,1
+491066,Strand Institute of Beauty & Esthetics,Private for-profit,Certificates,Southwest,Suburb,Trades & Applied,0.0,,0.9048,0.1391,0.3747757874976918,1
+44378403,Strayer University-Center City Campus,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.37476239852520704,1
+132976,Charlotte Technical College,Public,Certificates,Southeast,Suburb,Trades & Applied,0.0,10076.0,0.7248,0.3015,0.3719283182275335,1
+444699,Institute of Clinical Acupuncture & Oriental Med,Private for-profit,Graduate,Far West,City,STEM,0.0,,,,0.3714875915316188,1
+177092,Concordia Seminary,Private nonprofit,Graduate,Plains,Suburb,STEM,0.0,,,,0.3710014324718621,1
+491738,IBS School of Cosmetology and Massage,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.84,0.1402,0.3704439154632745,1
+154156,Des Moines University-Osteopathic Medical Center,Private nonprofit,Graduate,Plains,Rural,STEM,0.0,,,,0.36998279027191106,1
+125718,Westminster Theological Seminary in California,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.3687361998638392,1
+491996,The Salon Professional Academy-Georgetown,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.6111,0.3978,0.3678577120139729,1
+133021,Chipola College,Public,Associate's,Southeast,Town,Humanities,0.0,832.0,,0.2689,0.36753743250236853,1
+434441,Florida College of Integrative Medicine,Private for-profit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.3665203837898607,1
+108870,American Film Institute Conservatory,Private nonprofit,Graduate,Far West,City,STEM,0.7000000000000001,,,,0.36493889164083937,1
+177834,A T Still University of Health Sciences,Private nonprofit,Graduate,Plains,Town,STEM,0.0,,,,0.3646083252895368,1
+18958301,Bryant & Stratton College-Amherst,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.36440204939339693,1
+18958302,Bryant & Stratton College-Southtowns,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.36440204939339693,1
+117575,Southern California Seminary,Private nonprofit,Bachelor's,Far West,Suburb,Social Science & Public Service,0.0,,,0.3214,0.3639566313031944,1
+177588,House of Heavilin Beauty College-Kansas City,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.3529,0.8091,0.3638045062044191,1
+417646,Saline County Career Center,Public,Certificates,Plains,Town,Health,0.0,19207.0,1.0,0.7778,0.3632172827413194,1
+47503303,Relay Graduate School of Education - Delaware,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.363013631440471,1
+44652501,SAE Institute of Technology-New York,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.36184158941190064,1
+457642,Marketti Academy of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.9231,0.1084,0.36123057003723874,1
+152451,Saint Meinrad School of Theology,Private nonprofit,Graduate,Great Lakes,Rural,STEM,0.0,,,,0.3604554428667264,1
+199926,Wilkes Community College,Public,Certificates,Southeast,Town,Trades & Applied,0.0,-28.0,0.5238,0.2913,0.35939313734910533,1
+169424,Cranbrook Academy of Art,Private nonprofit,Graduate,Great Lakes,Suburb,STEM,0.0,,,,0.358526880187209,1
+132374,Atlantic Technical College,Public,Certificates,Southeast,Suburb,Health,0.0,13018.0,0.5587,0.0618,0.3581451123733166,1
+442842,Pacific College of Health and Science,Private for-profit,Certificates,Great Lakes,City,Health,0.0,,,0.5833,0.35690893047613664,1
+475574,Lil Lou's Beauty and Barber College,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.0,0.7833,0.35654537697245203,1
+189255,Berkowits School of Electrolysis,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.8829,0.1377,0.3556430052978947,1
+460987,The Salon Professional Academy,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,0.0,,0.8286,0.3228,0.35553403413698026,1
+18959201,Bryant & Stratton College-Henrietta,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.35517200356241735,1
+167677,Saint John's Seminary,Private nonprofit,Bachelor's,New England,City,Social Science & Public Service,0.0,,,0.0,0.35483600350809075,1
+432348,Appalachian School of Law,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.3536218890662197,1
+449922,Appalachian College of Pharmacy,Private nonprofit,Graduate,Southeast,Rural,STEM,0.0,,,,0.3536218890662197,1
+369002,Massachusetts School of Law,Private nonprofit,Graduate,New England,Suburb,STEM,0.0,,,,0.35351401878589117,1
+449807,Southeast Texas Career Institute,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.6301,0.6106,0.3532814355072555,1
+417637,Southern Missouri Technical Institute,Public,Certificates,Plains,Town,Health,0.0,21721.0,0.8889,0.6495,0.3530719992334885,1
+441575,Metropolitan Learning Institute,Private nonprofit,Certificates,Mid East,City,Health,0.0,9526.0,0.8354,0.7821,0.35278385671716306,1
+49010602,Virginia University of Integrative Medicine - Georgia,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.35175247032614804,1
+47503314,Relay Graduate School of Education - Atlanta,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.35175247032614804,1
+407151,Stage One-The Hair School,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8148,0.7353,0.3515231463253158,1
+126012,The Wright Institute,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.3514882689325055,1
+126049,Thomas Jefferson School of Law,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.3514882689325055,1
+112127,Church Divinity School of the Pacific,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.35058045517815706,1
+123970,Southwestern Law School,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.35058045517815706,1
+111391,California Western School of Law,Private nonprofit,Graduate,Far West,City,STEM,0.0,,,,0.35058045517815706,1
+447908,Florida Academy of Health & Beauty,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,1.7999999999999998,,0.8333,0.6522,0.3502702895659773,1
+219037,The Salon Professional Academy,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.7895,0.5,0.3495225507035785,1
+481906,Ross Medical Education Center-Charleston,Private for-profit,Certificates,Southeast,City,Health,0.1,,0.5534,0.8701,0.3487616090098627,1
+47503306,Relay Graduate School of Education - Chicago,Private nonprofit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.34874700945668946,1
+483559,Bella Cosmetology and Barber College,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.6071,0.5135,0.3485999070402241,1
+215530,The Salon Professional Academy-Altoona,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.8387,0.3571,0.3485798765804233,1
+148256,Rend Lake College,Public,Certificates,Great Lakes,Rural,Trades & Applied,0.0,7309.0,0.6037,0.3099,0.3483124264376847,1
+452887,Elite Welding Academy LLC,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,,0.3577,0.3483104943441043,1
+423643,Midwestern University-Glendale,Private nonprofit,Graduate,Southwest,Suburb,STEM,0.0,,,,0.3479019384788979,1
+221908,Northeast State Community College,Public,Associate's,Southeast,Rural,Humanities,0.0,5959.0,0.3219,0.3758,0.346865793224331,1
+48224602,Lynnes Welding Training-Bismarck,Private for-profit,Not classified,Plains,Other/Unknown,STEM,0.0,,,,0.34646418587108896,1
+443058,Family of Faith Christian University,Private nonprofit,Bachelor's,Southwest,Rural,Social Science & Public Service,0.0,,0.25,0.4118,0.3454352873953059,1
+102313,H Councill Trenholm State Community College,Public,Associate's,Southeast,City,STEM,0.0,5568.0,0.1656,0.5519,0.34537279081428873,1
+446206,Culpeper Cosmetology Training Center,Public,Certificates,Southeast,Town,Trades & Applied,0.0,15211.0,0.6364,0.5517,0.3441012405446584,1
+483708,Access Careers,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.8955,0.0265,0.3440880217451183,1
+443696,Interactive College of Technology,Private for-profit,Certificates,Southwest,City,Business,0.0,20950.0,0.3421,0.5208,0.3416959171793156,1
+491792,Stacey James Institute,Private for-profit,Certificates,Rocky Mountains,Suburb,Trades & Applied,0.0,,0.8088,0.1867,0.34113530270519044,1
+434274,Academy of Hair Design-Lufkin,Private for-profit,Certificates,Southwest,Town,Trades & Applied,0.0,,0.8444,0.5492,0.341079007705751,1
+476230,Ross Medical Education Center-Morgantown,Private for-profit,Certificates,Southeast,City,Health,0.0,,0.6957,0.8478,0.34063827722371376,1
+18956501,Bryant & Stratton College-Syracuse,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.3404895963987479,1
+451510,Charleston School of Law,Private for-profit,Graduate,Southeast,City,STEM,0.0,,,,0.34032126627769993,1
+419341,Jna Institute of Culinary Arts,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,20438.0,0.1429,0.5556,0.3396066069562032,1
+110778,Sofia University,Private for-profit,Bachelor's,Far West,City,Social Science & Public Service,0.0,,,0.5,0.33880686565344786,1
+442295,Ave Maria School of Law,Private nonprofit,Graduate,Southeast,Suburb,STEM,0.0,,,,0.33835169371767393,1
+198774,Johnston Community College,Public,Associate's,Southeast,Town,Humanities,0.0,3946.0,0.2876,0.2317,0.3381015350668386,1
+164614,Boston Baptist College,Private nonprofit,Bachelor's,New England,City,Social Science & Public Service,0.0,16321.0,0.4444,0.575,0.33809748683823815,1
+407629,Lake Erie College of Osteopathic Medicine,Private nonprofit,Certificates,Mid East,City,Health,0.0,,,0.0,0.33693108907791014,1
+15631005,PJ's College of Cosmetology- Louisville,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3365760503399455,1
+194435,Continental School of Beauty Culture-West Seneca,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.6364,0.6376,0.3364595809316214,1
+10722001,Career Academy of Hair Design-Siloam Springs,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3353928642023095,1
+10722004,Career Academy of Hair Design - Fort Smith,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3353928642023095,1
+10722003,Career Academy of Hair Design-Fayetteville,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3353928642023095,1
+10722002,Career Academy of Hair Design-Rogers,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3353928642023095,1
+17981201,Kansas City University-Joplin,Private nonprofit,Not classified,Plains,Other/Unknown,STEM,0.0,,,,0.3349353757506372,1
+446002,American Academy of Health and Wellness,Private for-profit,Graduate,Plains,Suburb,STEM,0.0,,,,0.3349148052167732,1
+47503317,Relay Graduate School of Education - Connecticut,Private nonprofit,Not classified,New England,Other/Unknown,STEM,0.0,,,,0.33429305238368573,1
+487922,Image Maker Beauty Institute,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.6667,0.5618,0.3332143732018379,1
+487816,Midfield Institute of Cosmetology,Private nonprofit,Certificates,Southeast,Suburb,Trades & Applied,0.0,10844.0,0.0,1.0,0.33300543368106433,1
+22300101,Austin Presbyterian Theological Seminary- YMCA Outdoor Center,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3305659293242352,1
+47503304,Relay Graduate School of Education - Memphis,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3305659293242352,1
+47503310,Relay Graduate School of Education - Nashville,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3305659293242352,1
+442435,Interactive College of Technology-Gainesville,Private for-profit,Certificates,Southeast,City,Business,0.0,19418.0,0.1765,0.7049,0.3300782443193623,1
+430227,Empire Beauty School-Monroeville,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.7857,0.4783,0.32925055037805573,1
+166708,University of Massachusetts Chan Medical School,Public,Graduate,New England,City,STEM,0.0,,,,0.32822042991811357,1
+45891907,Strayer University-Augusta Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3278740604781384,1
+45891902,Strayer University-Morrow Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3278740604781384,1
+45891905,Strayer University-Lithonia Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3278740604781384,1
+45891901,Strayer University-Cobb Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3278740604781384,1
+445540,Arthur's Beauty College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.6047,0.6264,0.32783756938403275,1
+446084,CALC Institute of Technology,Private for-profit,Certificates,Great Lakes,Suburb,Health,0.0,,0.5,0.81,0.3276004389811251,1
+10635101,Arkansas College of Barbering and Hair Design,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3274961201228173,1
+483735,Total Transformation Institute of Cosmetology,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.5833,0.5736,0.3265527558234502,1
+23384201,Union Presbyterian Seminary-Charlotte,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.32487758571118214,1
+490407,Hogan Institute of Cosmetology and Esthetics,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.8276,0.6417,0.3248547796967302,1
+49175601,Urban Barber College - San Jose,Private for-profit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.32475412109407215,1
+12697901,Denver Seminary - Washington DC,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.324693282200863,1
+461254,Galaxy Medical College,Private for-profit,Certificates,Far West,City,Health,0.0,,0.9104,0.9286,0.324347965528981,1
+488022,Barber Tech Academy,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.1667,0.602,0.3239999759457963,1
+48224601,Lynnes Welding Training - Ramsey,Private for-profit,Not classified,Plains,Other/Unknown,STEM,0.0,,,,0.32389670097790807,1
+451316,Trend Setters School,Private for-profit,Certificates,Plains,City,Trades & Applied,0.0,,0.6944,0.6706,0.32358291711880816,1
+476753,Aveda Institute-Tucson,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.7692,0.2699,0.32352708267824243,1
+382911,Southwest College for the Deaf,Public,Associate's,Southwest,Town,Humanities,0.0,5355.0,0.8,0.7407,0.3233847050827445,1
+486488,California Jazz Conservatory,Private nonprofit,Bachelor's,Far West,City,Humanities,0.0,,0.5,0.3478,0.3229451319329595,1
+18303501,New Hampshire Institute for Therapeutic Arts,Private for-profit,Not classified,New England,Other/Unknown,STEM,0.0,,,,0.3227486481949513,1
+484330,Ross Medical Education Center-Owensboro,Private for-profit,Certificates,Southeast,City,Health,0.0,,0.6154,0.7955,0.3220341022135596,1
+418524,Venango County Area Vocational Technical School,Public,Certificates,Mid East,Town,Health,0.0,14121.0,0.5217,0.6667,0.3218754633365674,1
+377281,Nuvani Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8875,0.8081,0.32170496253765507,1
+49382201,College Unbound - Newport/Aquidneck Island,Private nonprofit,Not classified,New England,Other/Unknown,STEM,0.0,,,,0.32128632378818156,1
+230490,Ogden-Weber Technical College,Public,Certificates,Rocky Mountains,City,Trades & Applied,0.0,1614.0,0.5542,0.1053,0.32109224729340036,1
+475495,Rocky Mountain University of Health Professions,Private for-profit,Graduate,Rocky Mountains,City,STEM,0.0,,,,0.3209849504661596,1
+110875,California Beauty School,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.8261,0.3636,0.32097378334808746,1
+141608,Hawaii Institute of Hair Design,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.8222,0.5196,0.3190098163253127,1
+444635,Orion Institute,Private for-profit,Certificates,Great Lakes,Suburb,Health,0.0,,0.7931,0.6512,0.31880053763937277,1
+152150,PJ's College of Cosmetology-Richmond,Private for-profit,Certificates,Great Lakes,Town,Trades & Applied,0.0,,0.6667,0.6436,0.3186633027859262,1
+454874,Cozmo Beauty School,Private for-profit,Certificates,Southeast,Suburb,Trades & Applied,0.0,,0.65,0.2857,0.31848276594793745,1
+490498,Digital Media Institute,Private nonprofit,Certificates,Southeast,City,Humanities,0.0,11872.0,1.0,0.2745,0.3183348584236637,1
+114585,Five Branches University,Private for-profit,Graduate,Far West,Suburb,STEM,0.0,,,,0.3182958573024806,1
+11458501,San Jose Campus,Private for-profit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.3182140884075943,1
+446288,Paul Mitchell the School-Great Lakes,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.8571,0.4771,0.3176008500709388,1
+48152601,Chrysm Institute of Esthetics (The) - Hampton,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.31707756526973957,1
+21078401,The Beauty Institute,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.3163396282779008,1
+18409201,American Institute,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.3159664250162778,1
+145424,Hair Professionals Career College,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,,0.5,0.315741318948066,1
+461704,Capilo School of Hair Design,Private for-profit,Certificates,New England,Town,Trades & Applied,0.0,,0.7379,0.3405,0.31566730724266756,1
+482194,Arrojo Cosmetology School,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.7692,0.1652,0.31519201691631993,1
+499662,Aviation Institute of Maintenance-Phoenix,Private for-profit,Certificates,Southwest,City,STEM,0.0,,,,0.31487221317346187,1
+247162,Ecumenical Theological Seminary,Private nonprofit,Certificates,Great Lakes,City,Social Science & Public Service,0.0,,,0.0,0.3143258471071146,1
+407142,Cosmetology Training Center,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.7429,0.5306,0.3141792438599564,1
+159948,New Orleans Baptist Theological Seminary,Private nonprofit,Certificates,Southeast,City,Social Science & Public Service,0.0,,,0.0,0.31410717973412866,1
+494904,Access Careers-Islandia,Private for-profit,Certificates,Mid East,Suburb,Health,0.0,,0.717,0.0197,0.3140180647755725,1
+187639,Clovis Community College,Public,Certificates,Southwest,Town,Health,0.0,3318.0,0.4068,0.3139,0.3131020863325586,1
+448424,Broken Arrow Beauty College,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.7857,0.4646,0.3130710807693286,1
+48387801,Bay Area Medical Academy - San Jose Satellite Location,Private for-profit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.3130002474492707,1
+262369,Adrian's Beauty College of Turlock,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.6512,0.42,0.3129051767965215,1
+484011,Paul Mitchell the School-Schenectady,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.7679,0.4916,0.3128573743140533,1
+20306701,Hebrew Union College-Jewish Institute of Religion-Cincinnati,Private nonprofit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.31255995099126727,1
+44948101,Dragon Rises College of Oriental Medicine - Bradenton,Private nonprofit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.3121906899704193,1
+47503301,Relay Graduate School of Education - Newark,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.31200323008679764,1
+49010601,Virginia University of Integrative Medicine - New Jersey,Private nonprofit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.31200323008679764,1
+48379901,East-West Healing Arts Institute - Milwaukee,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.31123236499989676,1
+135559,Merryfield Academy,Private for-profit,Certificates,Southeast,Suburb,STEM,0.0,,0.7193,0.5752,0.3110211903667731,1
+43018403,Strayer University-White Marsh Campus,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.3108230342318354,1
+436553,Century College,Private for-profit,Certificates,Outlying Areas,City,Trades & Applied,0.0,,0.8,0.806,0.3099948879250914,1
+499149,Herzing University-Nashville,Private nonprofit,Associate's,Southeast,City,STEM,0.0,,,,0.30979495485756514,1
+231970,Eastern Virginia Medical School,Public,Graduate,Southeast,City,STEM,0.0,,,,0.3090240938003411,1
+48079001,Rocky Vista University - Southern Utah,Private for-profit,Not classified,Rocky Mountains,Other/Unknown,STEM,0.0,,,,0.30886587257888354,1
+433040,Monty Tech,Public,Certificates,New England,Suburb,Health,1.0,35312.0,0.7692,0.439,0.30818727891328157,1
+12601201,Wright Institute (The) -,Private nonprofit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.30808743804104904,1
+47503315,Relay Graduate School of Education - California,Private nonprofit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.30808743804104904,1
+20306702,Hebrew Union College-Jewish Institute of Religion-Los Angeles,Private nonprofit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.30808743804104904,1
+21036801,Western Seminary-San Jose,Private nonprofit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.30808743804104904,1
+21036802,Western Seminary-Sacramento,Private nonprofit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.30808743804104904,1
+44867301,Rasmussen University-Aurora,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.30780788105100987,1
+44867303,Rasmussen University-Mokena/Tinley Park,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.30780788105100987,1
+44867302,Rasmussen University-Romeoville/Joliet,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.30780788105100987,1
+21608301,South Hills School of Business and Technology-Altoona,Private for-profit,Not classified,Mid East,Other/Unknown,STEM,0.0,,,,0.3071595858442963,1
+455406,Pacific Northwest University of Health Sciences,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.30706882303011224,1
+493549,MCI,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8398,0.2659,0.30687130821152697,1
+225876,Jacksonville College-Main Campus,Private nonprofit,Associate's,Southwest,Town,Humanities,1.7000000000000002,11674.0,0.4202,0.2357,0.30686081397080794,1
+48325801,Networks Barber College,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,1.0999999999999999,,,,0.306173700365517,1
+215008,Pennsylvania Gunsmith School,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.7727,0.3778,0.30599211396482595,1
+107831,Searcy Beauty College,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.375,0.5096,0.30559420676233573,1
+24297218,NUC University - IBC Technical Division - Moca,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297224,NUC University - IBC Technical Division - Yauco,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297223,NUC University - IBC Technical Division - Bayamon,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297222,NUC University - IBC Technical Division - Escorial,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297220,NUC University - IBC Technical Division - Caguas,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297219,NUC University - IBC Technical Division - Aguadilla,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297221,NUC University - IBC Technical Division - Arecibo,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297217,NUC University - IBC Technical Division - Los Colobos,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297215,NUC University - IBC Technical Division - Fajardo,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297214,NUC University - IBC Technical Division - Guayama,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297213,NUC University - IBC Technical Division - Mayaguez,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297212,NUC University - IBC Technical Division - Ponce,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+24297216,NUC University - IBC Technical Division - Manati,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.3055791880618921,1
+11752001,Life Chiropractic College West - Bellevue University,Private nonprofit,Not classified,Plains,Other/Unknown,STEM,0.0,,,,0.3054339238792709,1
+219240,Kairos University,Private nonprofit,Bachelor's,Plains,City,Social Science & Public Service,0.0,,,0.0,0.3052465774636088,1
+210711,The  Beauty Institute,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.0,,0.5816,0.8108,0.3045343168959203,1
+48839601,Phipps Academy of Barbering - Bradley,Private for-profit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.30438795715783995,1
+44376602,Strayer University-Shelby Oaks Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.30390374136907716,1
+166717,William James College,Private nonprofit,Bachelor's,New England,City,Social Science & Public Service,0.0,,,0.35,0.3034738297976725,1
+216579,Venus Beauty Academy,Private for-profit,Certificates,Mid East,Suburb,Trades & Applied,0.7000000000000001,,0.8353,0.4361,0.3029406530898829,1
+489830,Arthur's Beauty College,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.5397,0.7222,0.3026941093860245,1
+446251,Estelle Medical Academy,Private for-profit,Certificates,Great Lakes,City,Health,0.0,12300.0,0.9828,0.3762,0.3023708898444865,1
+47503316,Relay Graduate School of Education - Indiana,Private nonprofit,Not classified,Great Lakes,Other/Unknown,STEM,0.0,,,,0.30157050719975137,1
+484084,Debutantes School of Cosmetology and Nail Technology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.4667,0.25,0.3013377600418215,1
+446598,Universal College of Healing Arts,Private for-profit,Certificates,Plains,City,Health,0.0,24310.0,1.0,0.5417,0.30068200979274107,1
+490285,California Institute of Arts & Technology,Private for-profit,Certificates,Far West,City,STEM,0.0,40465.0,,0.3127,0.30015047080641816,1
+486248,ZMS The Academy,Private for-profit,Certificates,Far West,City,Trades & Applied,0.0,,0.6535,0.1073,0.29990312088820786,1
+37369601,Rob Roy Academy - Woonsocket,Private for-profit,Not classified,New England,Other/Unknown,STEM,0.0,,,,0.2997658557804364,1
+19385801,NYSMedical&Dental Assistants - American Institute of Clinical Massage,Private for-profit,Not classified,Rocky Mountains,Other/Unknown,STEM,0.0,,,,0.29968223549616013,1
+483045,Central Georgia Technical College,Public,Certificates,Southeast,City,Trades & Applied,0.0,4750.0,0.4093,0.3037,0.29955243974673706,1
+486442,Sandra Academy of Salon Services,Private for-profit,Certificates,Southeast,Town,Trades & Applied,0.0,,0.5556,0.8916,0.29937371009193126,1
+444778,Charlotte Christian College and Theological Seminary,Private nonprofit,Bachelor's,Southeast,City,Social Science & Public Service,0.0,,0.0,0.5556,0.29912675758228696,1
+486619,Academy of Professional Cosmetology,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.4,0.1438,0.2986430364237689,1
+459532,Salon & Spa Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,1.0,0.7862,0.29862188931263683,1
+47503309,Relay Graduate School of Education - Denver,Private nonprofit,Not classified,Rocky Mountains,Other/Unknown,STEM,0.0,,,,0.2986029463034799,1
+189990,Christine Valmy International School for Esthetics Skin Care & Makeup,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.0,,0.0,0.3353,0.29825890933185173,1
+457855,Paul Mitchell the School-NYC,Private for-profit,Certificates,Mid East,City,Trades & Applied,0.8,,0.8333,0.3786,0.29799921215060127,1
+461953,Colorado Academy of Veterinary Technology,Private for-profit,Associate's,Rocky Mountains,City,STEM,0.0,25948.0,0.6471,0.475,0.29757725269516483,1
+122649,San Joaquin College of Law,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.2974964992128338,1
+123943,Marshall B Ketchum University,Private nonprofit,Graduate,Far West,Suburb,STEM,0.0,,,,0.2974964992128338,1
+439668,HDS Truck Driving Institute,Private for-profit,Certificates,Southwest,Rural,STEM,1.4000000000000001,,0.8273,0.0321,0.29734062395946936,1
+147819,Oehrlein School of Cosmetology,Private for-profit,Certificates,Great Lakes,Suburb,Trades & Applied,0.0,,0.85,0.5538,0.2971779566305403,1
+442888,InterCoast Colleges-Riverside,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.7005,0.5922,0.29715389285815885,1
+494755,West Virginia Junior College-United Career Institute,Private for-profit,Associate's,Mid East,Suburb,Health,0.0,23121.0,0.8571,0.75,0.29646335737834517,1
+481863,Ross Medical Education Center-Kokomo,Private for-profit,Certificates,Great Lakes,City,Health,0.0,,0.5179,0.8381,0.2962850971890756,1
+460914,Penrose Academy,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8734,0.2688,0.29604436228767955,1
+44652502,SAE Institute of Technology-Atlanta,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.2956183004435981,1
+491826,Avenue Academy A Cosmetology Institute,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8511,0.5632,0.29556381945280896,1
+457776,Paul Mitchell the School-Albuquerque,Private for-profit,Certificates,Southwest,City,Trades & Applied,0.0,,0.8286,0.4432,0.29539403560370553,1
+46182901,Cinta Aveda Institute - San Jose,Private for-profit,Not classified,Far West,Other/Unknown,STEM,0.0,,,,0.29515545773755714,1
+209296,National University of Natural Medicine,Private nonprofit,Bachelor's,Far West,City,Health,0.0,,,0.75,0.2951212544131727,1
+23368411,Strayer University-Virginia Beach Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.2949982317088482,1
+23368401,Strayer University-Alexandria Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.2949982317088482,1
+23368410,Strayer University-Newport News Campus,Private for-profit,Not classified,Southeast,Other/Unknown,STEM,0.0,,,,0.2949982317088482,1
+480532,Ross Medical Education Center-Ontario,Private for-profit,Certificates,Great Lakes,Suburb,Health,0.2,,0.5833,0.9016,0.2948878091329615,1
+455220,Career School of NY,Private nonprofit,Certificates,Mid East,City,Trades & Applied,0.0,8069.0,0.7206,0.3604,0.29482153540156664,1
+188137,Santa Fe Community College,Public,Certificates,Southwest,Rural,Health,0.0,9215.0,0.2471,0.1448,0.2943587925682476,1
+210438,University of Western States,Private nonprofit,Bachelor's,Far West,City,STEM,0.0,,,0.0,0.2932561622037687,1
+245999,Francis Tuttle Technology Center,Public,Certificates,Southwest,City,Trades & Applied,0.0,4999.0,0.6276,0.087,0.2931362304958671,1
+200013,Rasmussen University-North Dakota,Private for-profit,Associate's,Plains,City,Health,0.0,24675.0,,0.4614,0.29309647820180407,1
+44946301,Academy Di Capelli -,Private for-profit,Not classified,New England,Other/Unknown,STEM,0.0,,,,0.29278206277607527,1
+434496,Strand College of Hair Design,Private for-profit,Certificates,Southeast,City,Trades & Applied,0.0,,0.8,0.5313,0.29272170703960054,1
+261676,Ross Medical Education Center-Brighton,Private for-profit,Certificates,Great Lakes,Suburb,Health,0.2,,0.6552,0.7222,0.29251430957625346,1
+475547,Paul Mitchell the School-Fort Myers,Private for-profit,Certificates,Southeast,Rural,Trades & Applied,0.0,,0.7917,0.3636,0.29174855750314355,1
+415057,Industrial Management Training Institute,Private for-profit,Certificates,New England,City,Trades & Applied,0.0,,0.759,0.1339,0.2915240948539028,1
+488411,Hoss Lee Academy,Private for-profit,Certificates,Far West,Suburb,Trades & Applied,0.0,,0.8099,0.314,0.29151738013915124,1
+456515,Ross Medical Education Center-Battle Creek,Private for-profit,Certificates,Great Lakes,City,Health,0.0,,0.64,0.8462,0.2908910767553286,1
+24297205,NUC University - Mayaguez,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.2907454518904583,1
+24297201,NUC University - Arecibo,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.2907454518904583,1
+24297203,NUC University - Ponce,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.2907454518904583,1
+24297204,NUC University - Caguas,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.2907454518904583,1
+24297202,NUC University - Rio Grande,Private for-profit,Not classified,Outlying Areas,Other/Unknown,STEM,0.0,,,,0.2907454518904583,1
+485500,ABCO Technology,Private for-profit,Certificates,Far West,Suburb,STEM,0.0,,1.0,0.1265,0.2902778683845501,1

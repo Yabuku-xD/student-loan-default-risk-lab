@@ -1,0 +1,99 @@
+{
+  "processed_dataset": "data\\processed\\scorecard_enriched.parquet",
+  "figures": [
+    "figures\\default_rate_distribution.png",
+    "figures\\default_rate_by_control.png",
+    "figures\\default_rate_by_degree.png",
+    "figures\\default_rate_by_region.png",
+    "figures\\default_rate_vs_net_price.png",
+    "figures\\default_rate_vs_poverty.png",
+    "figures\\default_rate_vs_completion.png"
+  ],
+  "cluster_summary": "reports\\high_risk_clusters.csv",
+  "model_results": {
+    "overall": {
+      "random_forest": {
+        "accuracy": 0.9314079422382672,
+        "precision": 0.0759493670886076,
+        "recall": 0.21428571428571427,
+        "roc_auc": 0.8665649015685862
+      },
+      "balanced_random_forest": {
+        "accuracy": 0.776173285198556,
+        "precision": 0.07784431137724551,
+        "recall": 0.9285714285714286,
+        "roc_auc": 0.903779345194231
+      },
+      "smote_logistic": {
+        "accuracy": 0.8924187725631769,
+        "precision": 0.07692307692307693,
+        "recall": 0.39285714285714285,
+        "roc_auc": 0.7993999368354563
+      }
+    },
+    "thresholds": {
+      "random_forest": {
+        "thresholds_csv": "reports\\thresholds_random_forest.csv",
+        "pr_curve_csv": "reports\\pr_curve_random_forest.csv",
+        "roc_curve_csv": "reports\\roc_curve_random_forest.csv",
+        "pr_curve_png": "figures\\pr_curve_random_forest.png",
+        "roc_curve_png": "figures\\roc_curve_random_forest.png",
+        "recommended_threshold": 0.29,
+        "recommended_precision": 0.088,
+        "recommended_recall": 0.7857142857142857,
+        "recommended_f1": 0.15827338129496402
+      },
+      "balanced_random_forest": {
+        "thresholds_csv": "reports\\thresholds_balanced_random_forest.csv",
+        "pr_curve_csv": "reports\\pr_curve_balanced_random_forest.csv",
+        "roc_curve_csv": "reports\\roc_curve_balanced_random_forest.csv",
+        "pr_curve_png": "figures\\pr_curve_balanced_random_forest.png",
+        "roc_curve_png": "figures\\roc_curve_balanced_random_forest.png",
+        "recommended_threshold": 0.68,
+        "recommended_precision": 0.11363636363636363,
+        "recommended_recall": 0.7142857142857143,
+        "recommended_f1": 0.19607843137254902
+      },
+      "smote_logistic": {
+        "thresholds_csv": "reports\\thresholds_smote_logistic.csv",
+        "pr_curve_csv": "reports\\pr_curve_smote_logistic.csv",
+        "roc_curve_csv": "reports\\roc_curve_smote_logistic.csv",
+        "pr_curve_png": "figures\\pr_curve_smote_logistic.png",
+        "roc_curve_png": "figures\\roc_curve_smote_logistic.png",
+        "recommended_threshold": 0.67,
+        "recommended_precision": 0.125,
+        "recommended_recall": 0.25,
+        "recommended_f1": 0.16666666666666666
+      }
+    },
+    "watchlists": {
+      "random_forest": {
+        "scores": "data\\processed\\random_forest_risk_scores.parquet",
+        "watchlist": "reports\\watchlist_random_forest.csv"
+      },
+      "balanced_random_forest": {
+        "scores": "data\\processed\\balanced_random_forest_risk_scores.parquet",
+        "watchlist": "reports\\watchlist_balanced_random_forest.csv"
+      },
+      "smote_logistic": {
+        "scores": "data\\processed\\smote_logistic_risk_scores.parquet",
+        "watchlist": "reports\\watchlist_smote_logistic.csv"
+      }
+    },
+    "artifacts": {
+      "random_forest": {
+        "report": "reports\\classification_report_random_forest.txt",
+        "features": "reports\\feature_importances_random_forest.csv"
+      },
+      "balanced_random_forest": {
+        "report": "reports\\classification_report_balanced_random_forest.txt",
+        "features": "reports\\feature_importances_balanced_random_forest.csv"
+      },
+      "smote_logistic": {
+        "report": "reports\\classification_report_smote_logistic.txt",
+        "features": "reports\\feature_importances_smote_logistic.csv"
+      }
+    }
+  },
+  "metrics_path": "reports\\model_metrics.json"
+}

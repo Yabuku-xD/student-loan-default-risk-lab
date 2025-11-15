@@ -1,0 +1,856 @@
+control_label,predominant_degree_label,dominant_program,region_label,locale_label,institutions,avg_default,avg_pell,avg_completion,avg_net_price
+Public,Certificates,Health,Southwest,City,4,25.0,0.279025,0.57275,10521.0
+Public,Certificates,STEM,Southwest,Town,1,4.9,0.1141,0.5676,10078.0
+Public,Associate's,Health,Far West,Town,1,3.9,0.3719,0.3095,11695.0
+Private for-profit,Associate's,Business,Mid East,Town,1,3.6999999999999997,0.6864,,19567.0
+Private nonprofit,Associate's,STEM,Great Lakes,Suburb,1,3.5000000000000004,0.5238,,
+Private nonprofit,Certificates,Social Science & Public Service,Far West,City,1,3.4000000000000004,0.0,,
+Private nonprofit,Associate's,Humanities,Southwest,Town,2,3.1,0.5707,0.4202,14272.0
+Private nonprofit,Associate's,Trades & Applied,Far West,Rural,1,2.7,0.3065,,25795.0
+Private nonprofit,Associate's,Business,Plains,Suburb,2,2.6,0.5714,0.6304,11948.5
+Public,Associate's,Health,Southeast,Rural,3,2.533333333333333,0.37220000000000003,0.4615,4508.333333333333
+Private nonprofit,Graduate,STEM,Plains,City,8,2.5,,,
+Private nonprofit,Certificates,Education,Rocky Mountains,City,1,2.3,0.1667,,13285.0
+Private nonprofit,Associate's,Humanities,Far West,Rural,1,2.3,0.7763,0.1163,5427.0
+Public,Associate's,Health,Great Lakes,Town,8,2.075,0.26303750000000004,0.3169,8165.75
+Public,Certificates,Humanities,Southeast,Rural,8,2.075,0.3678375,0.3798375,6317.375
+Private nonprofit,Certificates,Health,Southwest,Town,1,1.9,0.0,0.92,
+Private nonprofit,Bachelor's,Education,Southeast,Suburb,1,1.9,0.2667,0.6071,10888.0
+Private for-profit,Certificates,STEM,Southwest,Rural,1,1.4000000000000001,0.0321,0.8273,
+Public,Certificates,Health,New England,Rural,3,1.366666666666667,0.41406666666666664,0.7439666666666667,24104.0
+Public,Associate's,Humanities,Southeast,Rural,20,1.35,0.344905,0.3763894736842105,6491.75
+Private for-profit,Certificates,Health,Rocky Mountains,Town,2,1.35,0.6017,1.0,
+Private for-profit,Certificates,Trades & Applied,Southeast,Town,24,1.325,0.6789791666666667,0.5376666666666666,
+Private for-profit,Certificates,Trades & Applied,Southeast,Rural,7,1.3000000000000003,0.6737285714285715,0.7793285714285715,
+Private nonprofit,Bachelor's,Social Science & Public Service,Southwest,Town,3,1.2666666666666666,0.3199666666666667,0.48850000000000005,23835.0
+Private for-profit,Certificates,Trades & Applied,Rocky Mountains,Town,8,1.0750000000000002,0.443875,0.8023250000000001,
+Public,Certificates,STEM,Southeast,City,2,1.05,0.39625,0.4991,6506.5
+Public,Associate's,Health,Southwest,Rural,5,1.04,0.28128000000000003,0.27276,9725.8
+Private for-profit,Associate's,Humanities,Far West,City,2,1.0,0.30010000000000003,0.5714,
+Private for-profit,Certificates,Trades & Applied,Far West,Town,4,0.975,0.37085,0.6264,
+Private for-profit,Certificates,STEM,Great Lakes,Suburb,2,0.8500000000000001,0.56635,0.72595,
+Private nonprofit,Certificates,Humanities,Mid East,City,9,0.8333333333333333,0.23922222222222222,0.69702,31780.85714285714
+Private nonprofit,Graduate,STEM,New England,City,5,0.82,,,
+Private nonprofit,Graduate,STEM,Mid East,Town,1,0.8,,,
+Private for-profit,Certificates,Trades & Applied,Southwest,Town,11,0.7727272727272727,0.5938727272727273,0.7481454545454546,
+Public,Certificates,Health,Southeast,Town,13,0.7692307692307693,0.39170000000000005,0.3704363636363636,8776.923076923076
+Public,Certificates,Trades & Applied,Great Lakes,Rural,4,0.75,0.236325,0.467875,8041.75
+Private nonprofit,Graduate,STEM,Outlying Areas,City,4,0.7000000000000001,,,
+Private nonprofit,Bachelor's,Social Science & Public Service,Far West,Suburb,13,0.6923076923076923,0.3602692307692308,0.42951818181818185,21513.0
+Private for-profit,Certificates,Humanities,Far West,City,4,0.675,0.287925,0.2115,52043.0
+Public,Associate's,Social Science & Public Service,Far West,Suburb,4,0.625,0.247075,0.3500666666666667,7514.25
+Private nonprofit,Graduate,STEM,Great Lakes,City,22,0.6136363636363636,,,
+Private for-profit,Not classified,STEM,Mid East,Other/Unknown,13,0.6076923076923078,,,
+Private for-profit,Associate's,Humanities,Mid East,City,1,0.6,0.4548,0.6462,55473.0
+Public,Certificates,Trades & Applied,Southeast,Rural,12,0.5750000000000001,0.37434999999999996,0.41681666666666667,5775.25
+Private for-profit,Graduate,STEM,Southwest,City,3,0.5666666666666668,,,
+Public,Certificates,Health,New England,Suburb,6,0.5333333333333333,0.4133,0.7967000000000001,27140.4
+Public,Certificates,STEM,Great Lakes,Rural,3,0.5333333333333333,0.21863333333333332,0.5194666666666666,10384.666666666666
+Private nonprofit,Certificates,Humanities,Far West,City,2,0.5,0.1895,0.6387,30675.0
+Private for-profit,Certificates,Trades & Applied,Plains,Town,10,0.49000000000000005,0.55535,0.74159,
+Private nonprofit,Graduate,STEM,Mid East,City,28,0.4857142857142857,,,
+Private nonprofit,Bachelor's,Social Science & Public Service,Great Lakes,Town,3,0.46666666666666673,0.3201,0.5472333333333333,18868.0
+Private nonprofit,Graduate,STEM,Mid East,Suburb,13,0.46153846153846156,,,
+Public,Associate's,Humanities,Southwest,City,23,0.43478260869565216,0.30994782608695653,0.2728363636363636,6308.565217391304
+Private nonprofit,Certificates,Health,Far West,City,7,0.42857142857142855,0.4374857142857143,0.6897666666666668,24984.285714285714
+Private nonprofit,Bachelor's,Social Science & Public Service,Southwest,City,8,0.42500000000000004,0.40588749999999996,0.5236285714285714,19598.0
+Public,Certificates,Health,Mid East,Town,11,0.4,0.608890909090909,0.6590818181818182,17185.7
+Private for-profit,Certificates,Trades & Applied,Great Lakes,Town,14,0.3785714285714286,0.5800071428571429,0.6580785714285715,
+Private for-profit,Associate's,Health,Mid East,Suburb,7,0.37142857142857144,0.6074,0.6231,29653.25
+Public,Certificates,Trades & Applied,Mid East,Suburb,10,0.37,0.35601,0.79276,13177.888888888889
+Public,Associate's,Humanities,Far West,Rural,9,0.32222222222222224,0.27178888888888886,0.34403333333333336,5393.555555555556
+Private nonprofit,Bachelor's,Social Science & Public Service,Southeast,Rural,6,0.3,0.47928333333333334,0.4921333333333333,14812.333333333334
+Private for-profit,Certificates,Health,Rocky Mountains,City,7,0.3,0.5161714285714286,0.653125,34871.0
+Private for-profit,Associate's,Health,Plains,City,5,0.3,0.55358,0.4286,26716.4
+Public,Certificates,Health,Far West,City,5,0.3,0.246,0.652425,7902.6
+Private nonprofit,Graduate,STEM,Southeast,Suburb,8,0.27499999999999997,,,
+Private for-profit,Certificates,Trades & Applied,New England,City,10,0.24,0.44706999999999997,0.7363111111111111,25552.0
+Private for-profit,Certificates,Trades & Applied,New England,Suburb,36,0.2361111111111111,0.4419166666666667,0.7535885714285714,26012.0
+Public,Certificates,Health,Plains,Town,14,0.23571428571428574,0.4832571428571429,0.6492142857142857,12276.0
+Public,Certificates,Trades & Applied,Southeast,City,18,0.2277777777777778,0.36244444444444446,0.46116666666666667,6200.611111111111
+Private for-profit,Certificates,Trades & Applied,Mid East,City,49,0.22244897959183674,0.48505714285714285,0.681044680851064,23969.5
+Private for-profit,Certificates,Trades & Applied,Plains,Suburb,12,0.21666666666666665,0.5027499999999999,0.6938583333333334,
+Public,Certificates,Health,Mid East,Suburb,15,0.21333333333333335,0.5363533333333333,0.7999071428571429,20665.071428571428
+Public,Associate's,Humanities,Far West,Town,10,0.21000000000000002,0.27637,0.3012875,8870.7
+Public,Certificates,Health,Plains,Rural,7,0.2,0.27985714285714286,0.5995714285714285,10034.142857142857
+Private nonprofit,Associate's,Health,Southeast,City,11,0.19999999999999998,0.608909090909091,0.587,21118.18181818182
+Public,Certificates,Health,Mid East,Rural,18,0.18333333333333332,0.5895333333333332,0.6846375,16894.466666666667
+Private for-profit,Certificates,Health,Mid East,City,23,0.1826086956521739,0.5973913043478261,0.6118047619047619,38743.75
+Private for-profit,Associate's,Health,Southeast,Suburb,11,0.18181818181818182,0.6166909090909091,0.6796571428571428,37793.75
+Private nonprofit,Bachelor's,STEM,New England,Rural,5,0.18,0.36254,0.51918,25943.6
+Private for-profit,Certificates,Trades & Applied,Far West,City,90,0.17777777777777778,0.5148088888888889,0.7046127906976744,31427.666666666668
+Private for-profit,Not classified,STEM,Southwest,Other/Unknown,12,0.17500000000000002,,,
+Private nonprofit,Bachelor's,STEM,Mid East,City,36,0.175,0.2581833333333334,0.7618314285714286,28745.685714285715
+Private for-profit,Bachelor's,Business,Southeast,City,11,0.17272727272727273,0.4453454545454545,0.5944333333333334,24281.0
+Private for-profit,Certificates,Trades & Applied,Southeast,City,145,0.17103448275862068,0.5855489655172414,0.6355405594405594,27930.166666666668
+Private for-profit,Certificates,Trades & Applied,Great Lakes,City,65,0.15692307692307694,0.5318046153846154,0.6809796610169491,32835.0
+Private nonprofit,Not classified,STEM,Great Lakes,Other/Unknown,23,0.1391304347826087,,,
+Private nonprofit,Bachelor's,Social Science & Public Service,Great Lakes,City,8,0.1375,0.3993125,0.5414571428571429,17637.285714285714
+Public,Associate's,Humanities,Mid East,City,16,0.1375,0.4043375,0.26083333333333336,7504.9375
+Public,Certificates,Trades & Applied,Southeast,Town,11,0.1272727272727273,0.40497272727272726,0.41259090909090906,7315.090909090909
+Private for-profit,Certificates,Trades & Applied,Rocky Mountains,City,31,0.12258064516129032,0.48930322580645164,0.7277322580645161,26326.0
+Private nonprofit,Graduate,STEM,Southeast,City,18,0.1222222222222222,,,
+Public,Associate's,Humanities,Southeast,Town,22,0.11363636363636363,0.3190818181818182,0.36654,7248.272727272727
+Private nonprofit,Certificates,Health,Southeast,City,9,0.1111111111111111,0.6436222222222222,0.49350000000000005,25440.666666666668
+Private for-profit,Certificates,Health,Southeast,City,67,0.10597014925373134,0.6937029850746268,0.6028754098360656,34625.8
+Private nonprofit,Bachelor's,Health,Great Lakes,Town,5,0.1,0.35876,0.4959,18475.0
+Private nonprofit,Associate's,Health,Southwest,City,1,0.1,0.4795,,25491.0
+Public,Certificates,Health,Great Lakes,Rural,19,0.09473684210526316,0.3959052631578947,0.6379,12452.466666666667
+Private for-profit,Certificates,Trades & Applied,Southwest,City,103,0.0941747572815534,0.5783582524271845,0.6378084210526316,27317.0
+Private for-profit,Certificates,Trades & Applied,Great Lakes,Suburb,93,0.09247311827956989,0.5080827956989247,0.670667816091954,26415.0
+Private for-profit,Certificates,Trades & Applied,Mid East,Suburb,93,0.08279569892473118,0.4800838709677419,0.6948879120879121,24691.666666666668
+Private for-profit,Not classified,STEM,Southeast,Other/Unknown,72,0.08194444444444444,,,
+Private for-profit,Certificates,Trades & Applied,Southeast,Suburb,93,0.08064516129032258,0.5842376344086021,0.6752966292134831,24374.875
+Private for-profit,Certificates,Trades & Applied,Rocky Mountains,Suburb,19,0.0736842105263158,0.4338947368421053,0.7239052631578948,
+Private for-profit,Associate's,Health,Far West,City,13,0.06923076923076922,0.5146384615384615,0.61305,33332.5
+Private for-profit,Certificates,Health,Southeast,Town,3,0.06666666666666667,0.6406333333333333,0.8147666666666668,
+Private for-profit,Certificates,Health,Far West,Suburb,39,0.061538461538461535,0.5667769230769231,0.6768828571428571,33134.0
+Private nonprofit,Bachelor's,Humanities,Plains,Town,2,0.05,0.3784,0.5922000000000001,20212.0
+Public,Associate's,Humanities,Great Lakes,Rural,15,0.04666666666666666,0.2984266666666667,0.2869111111111111,8801.6
+Private for-profit,Not classified,STEM,Great Lakes,Other/Unknown,25,0.044,,,
+Private nonprofit,Bachelor's,Humanities,Southeast,Town,5,0.04,0.36336,0.4396,21192.4
+Public,Associate's,Humanities,Great Lakes,City,10,0.04,0.2898,0.2552375,5765.9
+Private for-profit,Associate's,Health,Great Lakes,Suburb,5,0.04,0.48678,0.4648,29421.0
+Public,Bachelor's,STEM,Great Lakes,Suburb,3,0.03333333333333333,0.3829,0.47000000000000003,15069.666666666666
+Private nonprofit,Bachelor's,Business,Plains,Town,12,0.03333333333333333,0.3112416666666667,0.45097499999999996,22520.666666666668
+Private nonprofit,Bachelor's,Business,Mid East,Suburb,13,0.03076923076923077,0.3064,0.6201538461538461,25426.384615384617
+Private for-profit,Certificates,Health,Great Lakes,Suburb,43,0.030232558139534883,0.755346511627907,0.546071052631579,30641.25
+Public,Certificates,Humanities,Great Lakes,Suburb,7,0.028571428571428574,0.22965714285714284,0.3877,6368.571428571428
+Private for-profit,Certificates,Health,Far West,City,72,0.027777777777777776,0.571975,0.6513810344827585,32980.4
+Private nonprofit,Bachelor's,Business,Great Lakes,City,15,0.02666666666666667,0.31642,0.6033692307692308,22829.285714285714
+Private for-profit,Certificates,Health,Southeast,Suburb,40,0.025,0.65552,0.650748275862069,32863.5
+Private nonprofit,Bachelor's,Business,Great Lakes,Suburb,13,0.023076923076923075,0.3159,0.5117833333333334,22067.666666666668
+Private nonprofit,Bachelor's,STEM,New England,Suburb,9,0.022222222222222223,0.17325555555555555,0.8106444444444444,30038.777777777777
+Private nonprofit,Graduate,STEM,Far West,City,32,0.021875000000000002,,,
+Private for-profit,Certificates,Health,Plains,City,10,0.02,0.68381,0.7392624999999999,25218.5
+Private for-profit,Certificates,Health,Great Lakes,City,31,0.019354838709677424,0.6909225806451613,0.63048,28452.0
+Private nonprofit,Bachelor's,STEM,Great Lakes,Town,21,0.01904761904761905,0.2722190476190476,0.6276095238095238,21964.904761904763
+Private for-profit,Certificates,Trades & Applied,Far West,Suburb,49,0.012244897959183673,0.5141408163265306,0.731860465116279,
+Private nonprofit,Bachelor's,Health,Mid East,City,22,0.009090909090909092,0.31628636363636364,0.6329090909090909,23726.85714285714
+Private nonprofit,Bachelor's,Health,Mid East,Suburb,22,0.009090909090909092,0.3254772727272727,0.6038681818181818,25490.454545454544
+Private nonprofit,Bachelor's,STEM,Great Lakes,City,27,0.007407407407407408,0.2514111111111111,0.7012518518518519,24820.37037037037
+Public,Bachelor's,STEM,Great Lakes,City,19,0.005263157894736842,0.2801842105263158,0.6464578947368421,15034.0
+Private for-profit,Certificates,Health,Southwest,City,49,0.0020408163265306124,0.6767918367346938,0.6710630434782608,24539.333333333332
+Public,Associate's,Trades & Applied,New England,Town,1,0.0,0.2822,0.4286,19607.0
+Public,Associate's,Trades & Applied,Far West,Town,1,0.0,0.4745,0.3333,12347.0
+Private nonprofit,Graduate,STEM,Plains,Suburb,5,0.0,,,
+Public,Associate's,Trades & Applied,Plains,Rural,2,0.0,0.28500000000000003,0.6214500000000001,12549.0
+Public,Associate's,Trades & Applied,New England,City,1,0.0,0.253,0.3682,13846.0
+Private nonprofit,Graduate,STEM,Plains,Rural,2,0.0,,,
+Private nonprofit,Graduate,STEM,Plains,Town,1,0.0,,,
+Public,Associate's,Trades & Applied,Mid East,Rural,1,0.0,0.448,,14488.0
+Public,Associate's,Trades & Applied,Plains,Town,5,0.0,0.22191999999999998,0.58516,12282.0
+Public,Associate's,Trades & Applied,Rocky Mountains,City,1,0.0,0.1856,0.4149,14455.0
+Public,Associate's,Trades & Applied,Mid East,City,2,0.0,0.362,0.6,18024.0
+Public,Associate's,Trades & Applied,Great Lakes,Town,1,0.0,0.2077,,4067.0
+Public,Associate's,Social Science & Public Service,Far West,City,1,0.0,0.0936,0.2133,14742.0
+Public,Associate's,Trades & Applied,Far West,City,4,0.0,0.21482500000000002,0.3478,6094.5
+Public,Associate's,STEM,Southeast,City,1,0.0,0.5519,0.1656,5568.0
+Public,Associate's,STEM,Plains,Town,1,0.0,0.1659,0.5577,8812.0
+Private nonprofit,Graduate,STEM,Southwest,City,14,0.0,,,
+Private nonprofit,Graduate,STEM,Southeast,Town,1,0.0,,,
+Private nonprofit,Graduate,STEM,Southeast,Rural,6,0.0,,,
+Public,Associate's,STEM,Rocky Mountains,Rural,1,0.0,0.5804,,9002.0
+Private nonprofit,Graduate,STEM,Rocky Mountains,Suburb,2,0.0,,,
+Public,Associate's,STEM,Rocky Mountains,Town,1,0.0,0.1848,,7394.0
+Public,Associate's,STEM,Southeast,Rural,2,0.0,0.27605,0.34125,8146.0
+Public,Associate's,Social Science & Public Service,Southwest,City,1,0.0,0.3009,,5877.0
+Public,Associate's,STEM,Southeast,Suburb,3,0.0,0.2622,0.33886666666666665,6525.0
+Public,Associate's,STEM,Southwest,City,2,0.0,0.3134,0.2707,7083.0
+Public,Associate's,STEM,Southwest,Rural,2,0.0,0.35845000000000005,0.35635,9610.5
+Public,Associate's,STEM,Southwest,Town,1,0.0,0.3604,0.2895,15328.0
+Public,Associate's,Trades & Applied,Rocky Mountains,Town,3,0.0,0.16190000000000002,0.5066,9010.333333333334
+Public,Associate's,Social Science & Public Service,Far West,Rural,1,0.0,0.2786,0.3,7241.0
+Private nonprofit,Graduate,STEM,Rocky Mountains,City,1,0.0,,,
+Public,Associate's,Trades & Applied,Rocky Mountains,Rural,1,0.0,0.2286,0.2679,7697.0
+Public,Associate's,Humanities,Far West,City,48,0.0,0.23997916666666666,0.3472258064516129,7393.3125
+Public,Associate's,Trades & Applied,Southeast,Rural,2,0.0,0.45295,0.3093,2239.0
+Public,Associate's,Trades & Applied,Southeast,Town,1,0.0,0.4724,0.2993,5189.0
+Public,Bachelor's,Business,New England,Town,1,0.0,0.2563,0.4743,19685.0
+Public,Bachelor's,Business,Outlying Areas,Rural,1,0.0,0.4623,0.2857,7563.0
+Public,Bachelor's,Business,Outlying Areas,Suburb,1,0.0,0.7419,0.4023,14072.0
+Public,Bachelor's,Business,Plains,City,2,0.0,0.3239,0.46240000000000003,18895.0
+Public,Bachelor's,Business,Plains,Rural,1,0.0,0.3376,0.3772,11401.0
+Public,Bachelor's,Business,Plains,Suburb,1,0.0,0.2746,0.5464,17816.0
+Public,Bachelor's,Business,Plains,Town,7,0.0,0.2516,0.4694285714285714,15126.42857142857
+Public,Bachelor's,Business,Rocky Mountains,City,1,0.0,0.2427,,14099.0
+Public,Bachelor's,Business,Southeast,City,10,0.0,0.38242000000000004,0.47694000000000003,12646.3
+Public,Bachelor's,Business,Southeast,Suburb,4,0.0,0.320975,0.35425,10166.5
+Public,Bachelor's,Business,Southeast,Town,9,0.0,0.33597777777777776,0.5010125,15113.125
+Public,Bachelor's,Business,Southwest,City,4,0.0,0.47019999999999995,0.28255,11647.25
+Public,Bachelor's,Business,Southwest,Rural,1,0.0,0.4847,,1113.0
+Public,Bachelor's,Business,Southwest,Town,2,0.0,0.38980000000000004,0.34895,8508.0
+Public,Bachelor's,Education,Far West,Town,1,0.0,0.3598,0.3662,15987.0
+Public,Bachelor's,Business,New England,Suburb,1,0.0,0.3336,0.5486,18561.0
+Private nonprofit,Graduate,STEM,Mid East,Rural,1,0.0,,,
+Public,Bachelor's,Business,New England,City,1,0.0,0.3464,0.5025,18617.0
+Public,Bachelor's,Business,Far West,Suburb,3,0.0,0.40123333333333333,0.5385666666666666,9196.0
+Private nonprofit,Graduate,STEM,New England,Town,2,0.0,,,
+Public,Associate's,Trades & Applied,Southwest,City,2,0.0,0.3684,0.36865000000000003,8758.0
+Private nonprofit,Graduate,STEM,New England,Suburb,4,0.0,,,
+Public,Associate's,Trades & Applied,Southwest,Town,1,0.0,0.4005,,11588.0
+Public,Bachelor's,Business,Far West,City,1,0.0,0.2292,0.0,31601.0
+Public,Associate's,STEM,Plains,City,1,0.0,0.1403,,10725.0
+Private nonprofit,Graduate,STEM,New England,Rural,2,0.0,,,
+Public,Bachelor's,Business,Mid East,Town,2,0.0,0.3862,0.59605,16889.0
+Public,Bachelor's,Business,Great Lakes,City,4,0.0,0.28625,0.558225,16135.25
+Public,Bachelor's,Business,Great Lakes,Rural,3,0.0,0.25503333333333333,0.3402,14573.5
+Public,Bachelor's,Business,Great Lakes,Suburb,4,0.0,0.332675,0.43977499999999997,15477.75
+Public,Bachelor's,Business,Great Lakes,Town,1,0.0,0.2503,0.643,14785.0
+Public,Bachelor's,Business,Mid East,City,4,0.0,0.526475,0.60755,10718.5
+Public,Bachelor's,Business,Mid East,Suburb,7,0.0,0.3751857142857143,0.3332571428571428,17756.428571428572
+Public,Associate's,STEM,Plains,Rural,1,0.0,0.3366,0.5686,13843.0
+Public,Associate's,STEM,New England,City,1,0.0,0.3815,0.193,6313.0
+Private nonprofit,Graduate,STEM,Southwest,Suburb,1,0.0,,,
+Public,Associate's,Humanities,New England,Suburb,3,0.0,0.302,0.22353333333333333,5882.333333333333
+Public,Associate's,Humanities,Plains,City,7,0.0,0.2765714285714286,0.28865714285714283,10290.142857142857
+Public,Associate's,Humanities,Plains,Rural,5,0.0,0.22210000000000002,0.41494,9069.6
+Public,Associate's,Humanities,Plains,Suburb,4,0.0,0.2495,0.29033333333333333,8871.0
+Public,Associate's,Humanities,Plains,Town,22,0.0,0.26800454545454544,0.40162857142857145,9023.0
+Public,Associate's,Humanities,Rocky Mountains,City,3,0.0,0.2129,0.2857,9206.333333333334
+Public,Associate's,Humanities,Rocky Mountains,Suburb,2,0.0,0.2349,0.2973,8671.5
+Public,Associate's,Humanities,Rocky Mountains,Town,5,0.0,0.24028,0.35413333333333336,9329.6
+Public,Associate's,Humanities,Southeast,City,30,0.0,0.3328166666666667,0.29479999999999995,6076.066666666667
+Public,Associate's,Health,Plains,Rural,4,0.0,0.2506,0.45432500000000003,10027.5
+Public,Associate's,Humanities,Southeast,Suburb,21,0.0,0.32184761904761905,0.30272727272727273,7684.428571428572
+Public,Associate's,Health,Plains,City,7,0.0,0.27002857142857145,0.38153333333333334,12360.857142857143
+Public,Associate's,Health,New England,Town,4,0.0,0.32555,0.33399999999999996,10906.25
+Public,Associate's,Health,New England,Suburb,5,0.0,0.3258,0.203825,8329.6
+Public,Associate's,Health,New England,Rural,2,0.0,0.3422,0.2711,14316.0
+Public,Associate's,Health,New England,City,5,0.0,0.34059999999999996,0.24738000000000002,8807.4
+Public,Associate's,Health,Plains,Suburb,3,0.0,0.29463333333333336,0.2287,10334.0
+Public,Bachelor's,Education,Great Lakes,Town,1,0.0,0.227,0.6277,20918.0
+Public,Associate's,Health,Mid East,Suburb,9,0.0,0.3437111111111111,0.2531777777777778,8519.777777777777
+Public,Associate's,Humanities,New England,City,3,0.0,0.3727666666666667,0.2467,9710.333333333334
+Public,Associate's,Health,Southwest,Town,4,0.0,0.381875,0.35512499999999997,8279.5
+Public,Associate's,Health,Southwest,Suburb,1,0.0,0.2312,0.3355,4233.0
+Public,Associate's,Health,Southwest,City,4,0.0,0.348225,0.28536666666666666,4931.75
+Public,Associate's,Humanities,Great Lakes,Suburb,10,0.0,0.27465,0.2888571428571428,7932.8
+Public,Associate's,Health,Southeast,Town,5,0.0,0.38634,0.317075,8505.4
+Public,Associate's,Health,Southeast,Suburb,2,0.0,0.41500000000000004,0.21945,6517.5
+Public,Associate's,Humanities,Great Lakes,Town,7,0.0,0.2787857142857143,0.38516,7736.571428571428
+Public,Associate's,Health,Southeast,City,5,0.0,0.36738,0.27055,6687.5
+Public,Associate's,Health,Rocky Mountains,Town,1,0.0,0.1746,0.4289,8890.0
+Public,Associate's,Health,Rocky Mountains,Rural,2,0.0,0.20625,0.2562,9729.5
+Public,Associate's,Health,Rocky Mountains,City,4,0.0,0.2472,0.35546666666666665,8781.0
+Public,Associate's,Health,Plains,Town,7,0.0,0.26185714285714284,0.4651,11016.0
+Public,Associate's,Humanities,Mid East,Rural,15,0.0,0.23902666666666667,0.3338,7659.533333333334
+Public,Associate's,Humanities,Mid East,Suburb,21,0.0,0.3154666666666667,0.2783761904761905,8315.42857142857
+Public,Associate's,Humanities,Mid East,Town,5,0.0,0.23165999999999998,0.3424,7844.2
+Public,Associate's,Health,Mid East,Town,5,0.0,0.3347,0.24556,10054.8
+Public,Associate's,Health,Mid East,Rural,6,0.0,0.34156666666666663,0.27895,8935.333333333334
+Private nonprofit,Not classified,STEM,Far West,Other/Unknown,17,0.0,,,
+Private nonprofit,Not classified,STEM,Southeast,Other/Unknown,43,0.0,,,
+Private nonprofit,Not classified,STEM,Rocky Mountains,Other/Unknown,3,0.0,,,
+Public,Associate's,STEM,Far West,Suburb,4,0.0,0.2269,0.38955,4584.75
+Public,Associate's,STEM,Great Lakes,Rural,4,0.0,0.281575,0.3808666666666667,9320.25
+Public,Associate's,STEM,Great Lakes,Suburb,2,0.0,0.24745,0.22899999999999998,7125.0
+Public,Associate's,STEM,Great Lakes,Town,3,0.0,0.24973333333333333,0.412,12224.0
+Public,Associate's,STEM,Mid East,City,1,0.0,0.1759,0.3524,2801.0
+Private nonprofit,Not classified,STEM,Plains,Other/Unknown,15,0.0,,,
+Public,Associate's,STEM,Mid East,Rural,1,0.0,0.5463,,17393.0
+Public,Associate's,STEM,Mid East,Suburb,1,0.0,0.2339,0.2885,8882.0
+Public,Associate's,STEM,Mid East,Town,1,0.0,0.2541,,18192.0
+Private nonprofit,Not classified,STEM,New England,Other/Unknown,6,0.0,,,
+Public,Associate's,Humanities,Far West,Suburb,38,0.0,0.21751052631578946,0.3469285714285714,6551.8421052631575
+Private nonprofit,Not classified,STEM,Mid East,Other/Unknown,27,0.0,,,
+Public,Associate's,STEM,New England,Suburb,2,0.0,0.23795,0.2862,12806.0
+Public,Associate's,STEM,Outlying Areas,Rural,1,0.0,0.815,,12386.0
+Public,Associate's,STEM,Far West,Rural,2,0.0,0.24175,0.36965,7803.5
+Private nonprofit,Not classified,STEM,Southwest,Other/Unknown,9,0.0,,,
+Public,Associate's,Health,Mid East,City,4,0.0,0.384675,0.21186666666666668,10405.5
+Public,Associate's,Business,Far West,City,2,0.0,0.2274,0.30425,8533.0
+Public,Associate's,Health,Great Lakes,Suburb,4,0.0,0.175,0.242,7760.5
+Public,Associate's,Humanities,Southwest,Rural,3,0.0,0.25933333333333336,0.3205,6658.666666666667
+Public,Associate's,Health,Great Lakes,Rural,1,0.0,0.3164,0.1792,10100.0
+Public,Associate's,Humanities,Southwest,Suburb,4,0.0,0.23609999999999998,0.2303666666666667,7719.75
+Public,Associate's,Health,Great Lakes,City,2,0.0,0.25645,0.24125,4435.0
+Public,Associate's,Humanities,Southwest,Town,22,0.0,0.27356363636363634,0.3125,7259.090909090909
+Public,Associate's,Health,Far West,Rural,1,0.0,0.2541,0.3095,7500.0
+Public,Associate's,STEM,Far West,City,9,0.0,0.18415555555555554,0.4684,6230.777777777777
+Public,Associate's,Health,Far West,City,3,0.0,0.2761,,6127.5
+Public,Associate's,Business,Rocky Mountains,Town,1,0.0,0.2367,0.4876,7070.0
+Public,Associate's,Business,Plains,Suburb,1,0.0,0.2913,0.1569,9804.0
+Public,Associate's,Business,New England,City,1,0.0,0.3386,0.2759,7489.0
+Public,Associate's,Business,Mid East,City,2,0.0,0.41525,0.25460000000000005,6869.0
+Public,Associate's,Business,Great Lakes,Suburb,1,0.0,0.2219,,9219.0
+Public,Associate's,Business,Far West,Town,1,0.0,0.317,0.3184,10168.0
+Public,Associate's,Humanities,New England,Rural,2,0.0,0.33345,0.28955,8729.5
+Private for-profit,Associate's,Business,Far West,City,2,0.0,0.4681,,53393.0
+Public,Bachelor's,Education,Mid East,Town,4,0.0,0.333675,0.6012,18571.0
+Public,Bachelor's,Social Science & Public Service,Plains,City,1,0.0,0.463,0.221,12484.0
+Public,Certificates,Health,Rocky Mountains,Suburb,1,0.0,0.1049,,10790.0
+Public,Certificates,Health,Rocky Mountains,Town,2,0.0,0.2383,0.3672,8835.5
+Public,Certificates,Health,Southeast,City,4,0.0,0.44665,0.30116666666666664,10996.666666666666
+Public,Certificates,Health,Southeast,Rural,8,0.0,0.411175,0.5494,7416.375
+Public,Certificates,Health,Southeast,Suburb,6,0.0,0.25865,0.45974000000000004,12367.4
+Public,Certificates,Health,Southwest,Rural,3,0.0,0.20040000000000002,0.23386666666666667,8802.0
+Public,Certificates,Health,Southwest,Town,2,0.0,0.28975,0.3426,3744.5
+Public,Certificates,Humanities,Far West,City,9,0.0,0.2258888888888889,0.3469333333333333,7172.888888888889
+Public,Certificates,Humanities,Far West,Rural,1,0.0,0.1809,0.4421,12898.0
+Public,Certificates,Humanities,Far West,Suburb,6,0.0,0.25265,0.3487,4615.833333333333
+Public,Certificates,Humanities,Far West,Town,2,0.0,0.3634,0.34665,3512.5
+Public,Certificates,Humanities,Great Lakes,City,10,0.0,0.28026999999999996,0.3234888888888889,5405.7
+Public,Certificates,Humanities,Great Lakes,Rural,6,0.0,0.2725,0.4414833333333334,7270.5
+Public,Certificates,Humanities,Great Lakes,Town,4,0.0,0.23555,0.49472499999999997,6869.75
+Public,Certificates,Humanities,Plains,Town,3,0.0,0.2791333333333333,0.4386666666666667,7892.333333333333
+Public,Certificates,Humanities,Rocky Mountains,City,2,0.0,0.23405,0.3569,13373.0
+Public,Certificates,Humanities,Rocky Mountains,Suburb,1,0.0,0.1649,,10854.0
+Public,Certificates,Humanities,Rocky Mountains,Town,1,0.0,0.3734,0.5357,13224.0
+Public,Certificates,Humanities,Southeast,City,12,0.0,0.4003583333333333,0.28722,6146.75
+Public,Certificates,Humanities,Southeast,Suburb,4,0.0,0.3798,0.3498,8262.25
+Public,Certificates,Humanities,Southeast,Town,11,0.0,0.36378181818181815,0.45348,6152.545454545455
+Public,Certificates,Health,Rocky Mountains,Rural,1,0.0,0.212,,7161.0
+Public,Certificates,Health,Rocky Mountains,City,1,0.0,0.2833,,11063.0
+Public,Certificates,Health,Plains,Suburb,3,0.0,0.4110333333333333,0.3290666666666667,14318.666666666666
+Public,Certificates,Business,Southeast,City,2,0.0,0.5099,0.3413,8301.5
+Public,Bachelor's,Social Science & Public Service,Southeast,City,4,0.0,0.441925,0.414375,14296.25
+Public,Bachelor's,Social Science & Public Service,Southeast,Rural,1,0.0,0.5401,0.3804,13832.0
+Public,Bachelor's,Social Science & Public Service,Southeast,Suburb,1,0.0,0.2857,0.5602,10319.0
+Public,Bachelor's,Social Science & Public Service,Southeast,Town,3,0.0,0.44480000000000003,0.4822333333333333,10356.0
+Public,Bachelor's,Social Science & Public Service,Southwest,City,4,0.0,0.5236,0.432325,8928.25
+Public,Bachelor's,Social Science & Public Service,Southwest,Town,3,0.0,0.3903666666666667,0.43473333333333336,11902.333333333334
+Public,Bachelor's,Trades & Applied,Rocky Mountains,Town,1,0.0,0.297,0.4233,14164.0
+Public,Certificates,Business,Far West,Rural,2,0.0,0.1911,0.291,6478.5
+Public,Certificates,Business,Great Lakes,City,2,0.0,0.37270000000000003,,9004.0
+Public,Certificates,Business,Southeast,Town,1,0.0,0.301,0.5362,4928.0
+Public,Certificates,Health,Plains,City,5,0.0,0.32067999999999997,0.56792,16230.4
+Public,Certificates,Business,Southwest,City,2,0.0,0.19435,0.1881,8141.5
+Public,Certificates,Education,Far West,City,1,0.0,0.1365,,8351.0
+Public,Certificates,Health,Far West,Rural,1,0.0,0.6695,0.8451,11857.0
+Public,Certificates,Health,Far West,Suburb,1,0.0,0.6283,1.0,30407.0
+Public,Certificates,Health,Far West,Town,1,0.0,0.203,,7523.0
+Public,Certificates,Health,Great Lakes,City,16,0.0,0.3694375,0.5067142857142858,10433.266666666666
+Public,Certificates,Health,Great Lakes,Suburb,13,0.0,0.2821692307692308,0.6534846153846154,11406.777777777777
+Public,Certificates,Health,Great Lakes,Town,7,0.0,0.35968571428571433,0.6975857142857143,17794.0
+Public,Certificates,Health,Mid East,City,3,0.0,0.5910666666666666,0.8718,18121.666666666668
+Public,Certificates,Humanities,Southwest,City,8,0.0,0.230525,0.22203333333333333,8551.625
+Public,Certificates,Humanities,Southwest,Rural,6,0.0,0.2523666666666667,0.26374,8339.166666666666
+Public,Certificates,Humanities,Southwest,Suburb,2,0.0,0.2465,0.2457,12184.5
+Public,Graduate,STEM,Southeast,City,1,0.0,,,
+Public,Certificates,Trades & Applied,Southeast,Suburb,5,0.0,0.35724,0.44939999999999997,8300.0
+Public,Certificates,Trades & Applied,Southwest,City,3,0.0,0.15083333333333335,0.4455,5685.333333333333
+Public,Certificates,Trades & Applied,Southwest,Rural,1,0.0,0.2093,0.6061,8373.0
+Public,Graduate,STEM,Far West,City,2,0.0,,,
+Public,Graduate,STEM,Great Lakes,Suburb,1,0.0,,,
+Public,Graduate,STEM,Mid East,City,2,0.0,,,
+Public,Graduate,STEM,Mid East,Suburb,1,0.0,,,
+Public,Graduate,STEM,New England,City,1,0.0,,,
+Public,Graduate,STEM,New England,Town,1,0.0,,,
+Public,Graduate,STEM,Southeast,Town,1,0.0,,,
+Public,Certificates,Trades & Applied,Rocky Mountains,Suburb,1,0.0,0.1931,,9356.0
+Public,Graduate,STEM,Southwest,City,3,0.0,,,
+Public,Not classified,STEM,Far West,Other/Unknown,10,0.0,,,
+Public,Not classified,STEM,Great Lakes,Other/Unknown,31,0.0,,,
+Public,Not classified,STEM,Mid East,Other/Unknown,11,0.0,,,
+Public,Not classified,STEM,New England,Other/Unknown,1,0.0,,,
+Public,Not classified,STEM,Outlying Areas,Other/Unknown,1,0.0,,,
+Public,Not classified,STEM,Plains,Other/Unknown,15,0.0,,,
+Public,Not classified,STEM,Rocky Mountains,Other/Unknown,3,0.0,,,
+Public,Not classified,STEM,Southeast,Other/Unknown,26,0.0,,,
+Public,Certificates,Trades & Applied,Rocky Mountains,Town,2,0.0,0.28315,0.2901,11690.5
+Public,Certificates,Trades & Applied,Rocky Mountains,Rural,1,0.0,0.2703,0.9623,3790.0
+Public,Certificates,Humanities,Southwest,Town,3,0.0,0.2836666666666667,0.28763333333333335,4974.666666666667
+Public,Certificates,Trades & Applied,Far West,Rural,1,0.0,0.0602,0.8586,12071.0
+Public,Certificates,STEM,Far West,Town,1,0.0,0.3335,0.3675,8084.0
+Public,Certificates,STEM,Great Lakes,City,1,0.0,0.3007,,7113.0
+Public,Certificates,STEM,Plains,Town,1,0.0,0.229,0.5727,8021.0
+Public,Certificates,STEM,Southeast,Rural,1,0.0,0.3473,0.3114,9774.0
+Public,Certificates,STEM,Southeast,Town,1,0.0,0.2975,0.3909,9096.0
+Public,Certificates,STEM,Southwest,Suburb,1,0.0,0.1763,,3022.0
+Public,Certificates,Social Science & Public Service,Far West,City,1,0.0,0.171,0.3956,7272.0
+Public,Certificates,Social Science & Public Service,Far West,Suburb,1,0.0,0.2321,0.3302,6522.0
+Public,Certificates,Trades & Applied,Far West,City,2,0.0,0.23065000000000002,0.2702,9057.5
+Public,Certificates,Trades & Applied,Far West,Suburb,1,0.0,0.1197,,5886.0
+Public,Certificates,Trades & Applied,Rocky Mountains,City,2,0.0,0.13824999999999998,0.5542,5574.5
+Public,Certificates,Trades & Applied,Great Lakes,City,3,0.0,0.4527333333333334,0.37926666666666664,6917.666666666667
+Public,Certificates,Trades & Applied,Great Lakes,Suburb,5,0.0,0.33726,0.69058,13559.0
+Public,Certificates,Trades & Applied,Mid East,Rural,3,0.0,0.6487666666666666,0.8482,13972.333333333334
+Public,Certificates,Trades & Applied,New England,Rural,1,0.0,0.4218,0.4342,3994.0
+Public,Certificates,Trades & Applied,New England,Suburb,1,0.0,0.2921,0.6364,11768.0
+Public,Certificates,Trades & Applied,New England,Town,1,0.0,0.3556,0.6,16767.0
+Public,Certificates,Trades & Applied,Plains,City,4,0.0,0.245275,0.44,10626.25
+Public,Certificates,Trades & Applied,Plains,Suburb,1,0.0,0.2642,0.4425,10925.0
+Public,Certificates,Trades & Applied,Plains,Town,3,0.0,0.22043333333333334,0.5521,11638.0
+Public,Bachelor's,Social Science & Public Service,Rocky Mountains,City,1,0.0,0.2619,0.5134,18457.0
+Public,Bachelor's,Social Science & Public Service,Outlying Areas,Suburb,1,0.0,0.7568,0.4861,9148.0
+Public,Bachelor's,Education,New England,Rural,1,0.0,0.3248,0.5275,14873.0
+Public,Bachelor's,Social Science & Public Service,New England,Suburb,1,0.0,0.3031,0.5461,17970.0
+Public,Bachelor's,Health,Southeast,Rural,2,0.0,0.3539,0.51675,14873.0
+Public,Bachelor's,Health,Southeast,Suburb,3,0.0,0.4682,0.42976666666666663,12906.666666666666
+Public,Bachelor's,Health,Southeast,Town,6,0.0,0.36413333333333336,0.4566666666666667,12968.333333333334
+Public,Bachelor's,Health,Southwest,City,11,0.0,0.3234090909090909,0.47195000000000004,12999.0
+Public,Bachelor's,Health,Southwest,Rural,1,0.0,0.4356,0.2613,7557.0
+Public,Bachelor's,Health,Southwest,Town,1,0.0,0.3846,0.3471,14542.0
+Public,Bachelor's,Humanities,Far West,City,1,0.0,0.612,0.4931,5825.0
+Public,Bachelor's,Humanities,Far West,Suburb,2,0.0,0.3271,0.4387,19527.5
+Public,Bachelor's,Humanities,Great Lakes,City,2,0.0,0.28075,0.5818000000000001,14388.0
+Private nonprofit,Graduate,STEM,Great Lakes,Town,2,0.0,,,
+Public,Bachelor's,Humanities,Great Lakes,Suburb,2,0.0,0.32030000000000003,0.275,10801.5
+Public,Bachelor's,Humanities,Great Lakes,Town,1,0.0,0.3087,0.4517,14093.0
+Public,Bachelor's,Humanities,Mid East,Suburb,1,0.0,0.3563,0.6156,19067.0
+Public,Bachelor's,Humanities,Mid East,Town,1,0.0,0.3745,0.5348,15644.0
+Public,Bachelor's,Humanities,New England,City,1,0.0,0.2761,0.6919,23764.0
+Public,Bachelor's,Humanities,New England,Rural,1,0.0,0.2559,0.3766,10028.0
+Public,Bachelor's,Humanities,New England,Suburb,1,0.0,0.3771,,15663.0
+Public,Bachelor's,Humanities,New England,Town,1,0.0,0.3196,0.2328,11353.0
+Public,Bachelor's,Humanities,Outlying Areas,City,1,0.0,0.6598,0.5714,5244.0
+Public,Bachelor's,Humanities,Plains,Town,2,0.0,0.22749999999999998,0.55995,16791.0
+Public,Bachelor's,Humanities,Rocky Mountains,City,1,0.0,0.2337,0.4074,8463.0
+Public,Bachelor's,Health,Southeast,City,16,0.0,0.33851875,0.4762363636363636,13313.727272727272
+Public,Bachelor's,Health,Rocky Mountains,City,6,0.0,0.25085,0.4209833333333333,15443.5
+Public,Bachelor's,Health,Plains,Town,2,0.0,0.2074,0.6115999999999999,18651.5
+Public,Bachelor's,Health,Great Lakes,City,6,0.0,0.29986666666666667,0.47362000000000004,10617.8
+Public,Bachelor's,Education,Plains,City,1,0.0,0.238,0.6894,14609.0
+Public,Bachelor's,Education,Plains,Rural,1,0.0,0.2442,0.4032,14454.0
+Public,Bachelor's,Education,Plains,Town,4,0.0,0.221725,0.5055000000000001,14795.75
+Public,Bachelor's,Education,Rocky Mountains,Town,1,0.0,0.3539,0.4945,16669.0
+Public,Bachelor's,Education,Southeast,Town,1,0.0,0.4314,0.4686,13778.0
+Public,Bachelor's,Education,Southwest,Town,1,0.0,0.4636,0.2559,14141.0
+Public,Bachelor's,Health,Far West,City,2,0.0,0.2358,0.2894,13780.0
+Public,Bachelor's,Health,Far West,Rural,1,0.0,0.2207,0.3103,13208.0
+Public,Bachelor's,Health,Far West,Town,1,0.0,0.1922,0.5908,16391.0
+Public,Bachelor's,Health,Great Lakes,Suburb,6,0.0,0.3105,0.4975833333333333,11486.0
+Public,Bachelor's,Health,Plains,City,6,0.0,0.2924166666666667,0.47086000000000006,12527.2
+Public,Bachelor's,Health,Great Lakes,Town,3,0.0,0.21973333333333334,0.4237333333333333,13924.333333333334
+Public,Bachelor's,Health,Mid East,City,7,0.0,0.33784285714285717,0.4077,9848.0
+Public,Bachelor's,Health,Mid East,Rural,3,0.0,0.3586666666666667,0.35533333333333333,18943.333333333332
+Public,Bachelor's,Health,Mid East,Suburb,2,0.0,0.46125,0.3281,18913.0
+Public,Bachelor's,Health,Mid East,Town,5,0.0,0.38546,0.4554,16666.6
+Public,Bachelor's,Health,New England,City,3,0.0,0.30816666666666664,0.49890000000000007,15781.333333333334
+Public,Bachelor's,Health,New England,Rural,2,0.0,0.22690000000000002,0.44389999999999996,15865.0
+Public,Bachelor's,Health,New England,Suburb,3,0.0,0.3593,0.513,14953.666666666666
+Public,Bachelor's,Health,Outlying Areas,City,1,0.0,0.6629,,
+Public,Bachelor's,Humanities,Rocky Mountains,Town,1,0.0,0.3499,0.3165,14173.0
+Public,Bachelor's,Humanities,Southeast,City,8,0.0,0.391575,0.47240000000000004,11668.625
+Public,Bachelor's,Humanities,Southeast,Rural,4,0.0,0.3926,0.43755,10715.25
+Public,Bachelor's,STEM,U.S. Service Schools,Suburb,1,0.0,0.073,0.8061,7506.0
+Public,Bachelor's,STEM,Rocky Mountains,Town,5,0.0,0.23174,0.54524,15182.6
+Public,Bachelor's,STEM,Southeast,City,50,0.0,0.3324795918367347,0.605304081632653,14980.510204081633
+Public,Bachelor's,STEM,Southeast,Rural,4,0.0,0.4924,0.42700000000000005,12035.5
+Public,Bachelor's,STEM,Southeast,Suburb,9,0.0,0.3003222222222222,0.7207888888888889,17580.555555555555
+Public,Bachelor's,STEM,Southeast,Town,15,0.0,0.4295,0.47870666666666667,12824.4
+Public,Bachelor's,STEM,Southwest,City,20,0.0,0.378415,0.5549684210526316,14821.052631578947
+Public,Bachelor's,STEM,Southwest,Rural,1,0.0,0.6244,0.4322,14041.0
+Public,Bachelor's,STEM,Southwest,Suburb,2,0.0,0.32030000000000003,0.6376,12080.0
+Public,Bachelor's,STEM,Southwest,Town,9,0.0,0.3976222222222222,0.45524444444444445,14253.777777777777
+Public,Bachelor's,Social Science & Public Service,Far West,City,1,0.0,0.6104,0.4685,3659.0
+Public,Bachelor's,STEM,Rocky Mountains,City,9,0.0,0.23423333333333338,0.5428777777777778,17269.11111111111
+Public,Bachelor's,Social Science & Public Service,Far West,Town,1,0.0,0.4,0.4483,18290.0
+Public,Bachelor's,Social Science & Public Service,Great Lakes,City,1,0.0,0.5497,0.1695,10133.0
+Public,Bachelor's,Social Science & Public Service,Great Lakes,Rural,2,0.0,0.09334999999999999,0.16855,5318.0
+Public,Bachelor's,Social Science & Public Service,Great Lakes,Suburb,1,0.0,0.296,0.4412,13405.0
+Public,Bachelor's,Social Science & Public Service,Great Lakes,Town,1,0.0,0.3378,0.4536,9082.0
+Public,Bachelor's,Social Science & Public Service,Mid East,City,3,0.0,0.4496,0.5824,2746.0
+Public,Bachelor's,Social Science & Public Service,Mid East,Suburb,3,0.0,0.48563333333333336,0.48566666666666664,12739.333333333334
+Public,Bachelor's,Social Science & Public Service,Mid East,Town,1,0.0,0.3756,0.2069,21228.0
+Public,Bachelor's,Social Science & Public Service,New England,City,1,0.0,0.3188,0.1429,14106.0
+Public,Bachelor's,STEM,Rocky Mountains,Suburb,1,0.0,0.1333,0.7944,29240.0
+Public,Bachelor's,STEM,Plains,Town,7,0.0,0.21698571428571428,0.5853714285714285,14716.714285714286
+Public,Bachelor's,Humanities,Southeast,Town,6,0.0,0.36335,0.47031666666666666,15450.833333333334
+Public,Bachelor's,STEM,Mid East,City,22,0.0,0.3983181818181818,0.52295,15964.318181818182
+Public,Bachelor's,Humanities,Southwest,Rural,2,0.0,0.44405,0.21015,11840.5
+Public,Bachelor's,Humanities,Southwest,Suburb,1,0.0,0.3546,0.375,18990.0
+Public,Bachelor's,Humanities,Southwest,Town,4,0.0,0.4025,0.36072499999999996,7251.5
+Public,Bachelor's,STEM,Far West,City,28,0.0,0.36158928571428567,0.6580642857142857,13037.607142857143
+Public,Bachelor's,STEM,Far West,Rural,1,0.0,0.469,0.5345,9792.0
+Public,Bachelor's,STEM,Far West,Suburb,10,0.0,0.38861,0.69563,12446.8
+Public,Bachelor's,STEM,Far West,Town,5,0.0,0.35296000000000005,0.49391999999999997,13487.4
+Public,Bachelor's,STEM,Great Lakes,Rural,1,0.0,0.3421,0.3982,10044.0
+Public,Bachelor's,STEM,Great Lakes,Town,13,0.0,0.2559692307692308,0.5912923076923077,16070.076923076924
+Public,Bachelor's,STEM,Mid East,Rural,5,0.0,0.34502,0.39454,16626.0
+Public,Bachelor's,STEM,Plains,Suburb,1,0.0,0.1785,0.5687,12323.0
+Public,Bachelor's,STEM,Mid East,Suburb,23,0.0,0.301795652173913,0.5547130434782609,18741.0
+Public,Bachelor's,STEM,Mid East,Town,10,0.0,0.36557,0.52577,17585.2
+Public,Bachelor's,STEM,New England,City,8,0.0,0.36057500000000003,0.6364875,16140.875
+Public,Bachelor's,STEM,New England,Rural,1,0.0,0.2472,0.6141,21185.0
+Public,Bachelor's,STEM,New England,Suburb,7,0.0,0.27464285714285713,0.6166428571428572,18825.14285714286
+Public,Bachelor's,STEM,New England,Town,5,0.0,0.26844,0.6519199999999999,20899.6
+Public,Bachelor's,STEM,Outlying Areas,City,5,0.0,0.74816,0.46421999999999997,9612.4
+Public,Bachelor's,STEM,Outlying Areas,Suburb,3,0.0,0.6413666666666666,0.4756666666666667,10351.0
+Public,Bachelor's,STEM,Plains,City,18,0.0,0.24186666666666667,0.6147,16823.38888888889
+Public,Bachelor's,Humanities,Great Lakes,Rural,1,0.0,0.3117,0.181,12458.0
+Private nonprofit,Certificates,Health,Mid East,Town,5,0.0,0.39172,0.5357000000000001,14902.666666666666
+Private nonprofit,Graduate,STEM,Great Lakes,Suburb,9,0.0,,,
+Private for-profit,Certificates,Trades & Applied,Mid East,Rural,1,0.0,0.6271,0.7419,15122.0
+Private for-profit,Certificates,STEM,Plains,City,2,0.0,0.72065,0.48625,
+Private for-profit,Certificates,STEM,Rocky Mountains,Town,1,0.0,0.3506,0.6333,
+Private for-profit,Certificates,STEM,Southeast,City,5,0.0,0.42788000000000004,0.7406666666666667,
+Private for-profit,Certificates,STEM,Southeast,Suburb,4,0.0,0.37535,0.85965,43615.0
+Private for-profit,Certificates,STEM,Southeast,Town,1,0.0,0.4167,0.9231,
+Private for-profit,Certificates,STEM,Southwest,City,8,0.0,0.5371166666666667,0.5865400000000001,18840.0
+Private for-profit,Certificates,STEM,Southwest,Suburb,1,0.0,0.5043,0.9012,
+Private for-profit,Certificates,Social Science & Public Service,Far West,City,1,0.0,0.5274,0.3333,25025.0
+Private for-profit,Certificates,Social Science & Public Service,Southwest,City,1,0.0,0.4818,0.5333,
+Private for-profit,Certificates,Trades & Applied,Mid East,Town,10,0.0,0.43354,0.71364,23764.0
+Private for-profit,Certificates,STEM,New England,City,1,0.0,0.7624,0.7551,
+Private for-profit,Certificates,Trades & Applied,New England,Rural,1,0.0,0.25,0.8929,
+Private for-profit,Certificates,Trades & Applied,New England,Town,3,0.0,0.37233333333333335,0.7697666666666666,
+Private for-profit,Certificates,Trades & Applied,Outlying Areas,City,8,0.0,0.878525,0.7410714285714286,16306.57142857143
+Private for-profit,Certificates,Trades & Applied,Outlying Areas,Suburb,3,0.0,0.8725666666666667,0.7478000000000001,12023.0
+Private for-profit,Certificates,Trades & Applied,Plains,City,48,0.0,0.49015416666666667,0.7085468085106382,33008.0
+Private for-profit,Certificates,Trades & Applied,Southwest,Rural,2,0.0,0.5223,0.7065,
+Private for-profit,Certificates,Trades & Applied,Southwest,Suburb,26,0.0,0.5704153846153847,0.712124,
+Private for-profit,Graduate,STEM,Far West,City,5,0.0,,,
+Private for-profit,Graduate,STEM,Far West,Rural,1,0.0,,,
+Private for-profit,Certificates,STEM,New England,Rural,1,0.0,0.568,0.7019,
+Private for-profit,Certificates,STEM,Mid East,Suburb,4,0.0,0.523475,0.7793333333333333,25406.0
+Private for-profit,Graduate,STEM,Mid East,City,1,0.0,,,
+Private for-profit,Certificates,Health,Rocky Mountains,Suburb,3,0.0,0.33216666666666667,0.7594666666666666,
+Private for-profit,Certificates,Health,Far West,Town,1,0.0,0.7557,0.6429,
+Private for-profit,Certificates,Health,Mid East,Rural,1,0.0,0.9495,0.5572,
+Private for-profit,Certificates,Health,Mid East,Suburb,37,0.0,0.574,0.6660085714285715,30054.333333333332
+Private for-profit,Certificates,Health,Mid East,Town,1,0.0,0.6977,0.5161,
+Private for-profit,Certificates,Health,New England,City,5,0.0,0.4934,0.631625,29993.0
+Private for-profit,Certificates,Health,New England,Suburb,3,0.0,0.514,0.5935333333333334,
+Private for-profit,Certificates,Health,Outlying Areas,City,2,0.0,0.7995,,13321.0
+Private for-profit,Certificates,Health,Plains,Rural,1,0.0,0.4902,1.0,
+Private for-profit,Certificates,Health,Plains,Suburb,2,0.0,0.42264999999999997,0.6522,
+Private for-profit,Certificates,Health,Southeast,Rural,1,0.0,0.5341,0.7692,
+Private for-profit,Certificates,STEM,Mid East,City,2,0.0,0.2651,0.7283999999999999,
+Private for-profit,Certificates,Health,Southwest,Suburb,4,0.0,0.72185,0.730375,31871.0
+Private for-profit,Certificates,Humanities,Mid East,City,2,0.0,0.0084,0.8696,
+Private for-profit,Certificates,Humanities,Southeast,City,3,0.0,0.24100000000000002,0.5556,29647.0
+Private for-profit,Certificates,Humanities,Southwest,City,1,0.0,0.3312,,21244.0
+Private for-profit,Certificates,STEM,Far West,City,6,0.0,0.6586333333333333,0.77968,40465.0
+Private for-profit,Certificates,STEM,Far West,Suburb,2,0.0,0.14565,1.0,26286.0
+Private for-profit,Certificates,STEM,Far West,Town,1,0.0,0.0,,
+Private for-profit,Certificates,STEM,Great Lakes,City,4,0.0,0.5331750000000001,0.6723,
+Private for-profit,Certificates,STEM,Great Lakes,Rural,1,0.0,0.1483,0.8971,
+Private for-profit,Graduate,STEM,Far West,Suburb,3,0.0,,,
+Private for-profit,Graduate,STEM,Outlying Areas,City,3,0.0,,,
+Private for-profit,Certificates,Business,Southwest,City,2,0.0,0.6133500000000001,0.41300000000000003,20023.0
+Private nonprofit,Associate's,Humanities,New England,Rural,2,0.0,0.18925,,43781.5
+Private nonprofit,Associate's,Health,New England,Suburb,3,0.0,0.4318666666666666,,36906.0
+Private nonprofit,Associate's,Health,Outlying Areas,City,1,0.0,0.5775,,4989.0
+Private nonprofit,Associate's,Health,Outlying Areas,Suburb,6,0.0,0.6647166666666666,,6507.166666666667
+Private nonprofit,Associate's,Health,Plains,City,4,0.0,0.4375,,20757.25
+Private nonprofit,Associate's,Health,Plains,Town,1,0.0,0.6154,,
+Private nonprofit,Associate's,Health,Southeast,Suburb,3,0.0,0.47986666666666666,0.52,24864.5
+Private nonprofit,Associate's,Health,Southeast,Town,1,0.0,0.5826,,
+Private nonprofit,Associate's,Humanities,Far West,City,2,0.0,0.5341,0.4225,30512.0
+Private nonprofit,Associate's,Humanities,Mid East,City,2,0.0,0.39025,0.9268,30214.5
+Private nonprofit,Associate's,Humanities,Plains,Rural,1,0.0,0.3025,,21458.0
+Private nonprofit,Associate's,Health,Mid East,Town,1,0.0,0.4184,,
+Private nonprofit,Associate's,Humanities,Southeast,City,1,0.0,0.8255,0.0667,12993.0
+Private nonprofit,Associate's,Humanities,Southeast,Rural,1,0.0,0.6437,0.3944,26403.0
+Private nonprofit,Associate's,Humanities,Southeast,Suburb,3,0.0,0.32236666666666663,0.9465,23148.0
+Private nonprofit,Associate's,STEM,Great Lakes,Rural,1,0.0,0.3824,0.6667,24326.0
+Private nonprofit,Associate's,STEM,Mid East,City,1,0.0,0.3714,,6349.0
+Private nonprofit,Associate's,STEM,Mid East,Suburb,2,0.0,0.34099999999999997,0.7658,26123.0
+Private nonprofit,Associate's,STEM,Outlying Areas,City,1,0.0,,,
+Private nonprofit,Associate's,STEM,Southeast,City,2,0.0,0.4787,1.0,33319.0
+Private nonprofit,Associate's,Social Science & Public Service,Great Lakes,City,1,0.0,0.5789,,25886.0
+Private nonprofit,Associate's,Health,New England,City,3,0.0,0.3725333333333333,,24491.0
+Private nonprofit,Associate's,Health,Mid East,Suburb,9,0.0,0.5441444444444445,0.54005,16480.571428571428
+Private for-profit,Graduate,STEM,Plains,City,1,0.0,,,
+Private for-profit,Not classified,STEM,Plains,Other/Unknown,9,0.0,,,
+Private for-profit,Graduate,STEM,Plains,Suburb,1,0.0,,,
+Private for-profit,Graduate,STEM,Rocky Mountains,City,3,0.0,,,
+Private for-profit,Graduate,STEM,Rocky Mountains,Suburb,1,0.0,,,
+Private for-profit,Graduate,STEM,Southeast,City,4,0.0,,,
+Private for-profit,Graduate,STEM,Southeast,Suburb,1,0.0,,,
+Private for-profit,Graduate,STEM,Southwest,Suburb,1,0.0,,,
+Private for-profit,Not classified,STEM,Far West,Other/Unknown,13,0.0,,,
+Private for-profit,Not classified,STEM,New England,Other/Unknown,11,0.0,,,
+Private for-profit,Not classified,STEM,Outlying Areas,Other/Unknown,18,0.0,,,
+Private for-profit,Not classified,STEM,Rocky Mountains,Other/Unknown,5,0.0,,,
+Private nonprofit,Associate's,Health,Mid East,Rural,1,0.0,0.3018,,37208.0
+Private nonprofit,Associate's,Business,Great Lakes,City,1,0.0,0.7822,0.0645,19558.0
+Private nonprofit,Associate's,Business,Great Lakes,Rural,1,0.0,0.5066,,25172.0
+Private nonprofit,Associate's,Business,Southeast,Rural,1,0.0,0.6235,,21934.0
+Private nonprofit,Associate's,Education,Great Lakes,City,1,0.0,0.7338,,17082.0
+Private nonprofit,Associate's,Health,Far West,City,2,0.0,0.48850000000000005,,24410.5
+Private nonprofit,Associate's,Health,Great Lakes,City,1,0.0,0.4324,,22626.0
+Private nonprofit,Associate's,Health,Great Lakes,Rural,1,0.0,0.3585,,29541.0
+Private nonprofit,Associate's,Health,Great Lakes,Suburb,3,0.0,0.6799,,16593.333333333332
+Private nonprofit,Associate's,Health,Mid East,City,11,0.0,0.42978181818181815,0.7666666666666666,23176.9
+Private for-profit,Certificates,Education,Far West,City,1,0.0,0.0219,,
+Private for-profit,Certificates,Business,Southeast,Suburb,1,0.0,0.7419,0.4286,20314.0
+Private nonprofit,Associate's,Social Science & Public Service,Plains,Rural,1,0.0,0.451,,24674.0
+Private for-profit,Associate's,Social Science & Public Service,Southwest,City,1,0.0,0.3968,,19691.0
+Private for-profit,Associate's,STEM,Mid East,Suburb,1,0.0,0.7015,0.7692,30201.0
+Private for-profit,Associate's,STEM,Plains,City,1,0.0,,,
+Private for-profit,Associate's,STEM,Rocky Mountains,City,1,0.0,0.475,0.6471,25948.0
+Private for-profit,Associate's,STEM,Rocky Mountains,Suburb,2,0.0,0.4067,0.6081,29807.0
+Private for-profit,Associate's,STEM,Southeast,City,2,0.0,0.50275,,64662.0
+Private for-profit,Associate's,STEM,Southeast,Suburb,4,0.0,0.5229666666666667,0.5556,42055.0
+Private for-profit,Associate's,STEM,Southeast,Town,1,0.0,0.7308,,42163.0
+Private for-profit,Associate's,STEM,Southwest,City,3,0.0,0.5371,0.6,19784.0
+Private for-profit,Associate's,Social Science & Public Service,Great Lakes,Suburb,1,0.0,0.3548,0.0,43083.0
+Private for-profit,Associate's,Trades & Applied,Far West,City,2,0.0,0.5238,0.5511999999999999,
+Private for-profit,Associate's,STEM,Great Lakes,Suburb,1,0.0,0.4603,0.4444,21635.0
+Private for-profit,Associate's,Trades & Applied,Far West,Suburb,1,0.0,0.59,0.581,
+Private for-profit,Associate's,Trades & Applied,Great Lakes,Suburb,1,0.0,0.3812,0.6923,30150.0
+Private for-profit,Associate's,Trades & Applied,Mid East,City,3,0.0,0.4799333333333333,0.6681,30521.333333333332
+Private for-profit,Associate's,Trades & Applied,Mid East,Rural,2,0.0,0.5072,0.71795,27179.0
+Private for-profit,Associate's,Trades & Applied,Mid East,Suburb,2,0.0,0.46295,0.7636499999999999,27544.0
+Private for-profit,Associate's,Trades & Applied,New England,Suburb,1,0.0,0.4661,0.5,
+Private for-profit,Associate's,Trades & Applied,Rocky Mountains,City,1,0.0,0.0951,0.6875,33357.0
+Private for-profit,Associate's,Trades & Applied,Rocky Mountains,Suburb,1,0.0,0.2821,0.8182,
+Private for-profit,Associate's,Trades & Applied,Southeast,City,1,0.0,0.4619,0.5601,
+Private for-profit,Associate's,STEM,Mid East,City,1,0.0,0.5442,0.6264,23551.0
+Private for-profit,Associate's,STEM,Great Lakes,City,1,0.0,0.503,0.6915,22651.0
+Private for-profit,Associate's,Trades & Applied,Southwest,City,6,0.0,0.5306000000000001,0.55702,34021.5
+Private for-profit,Associate's,Health,Plains,Rural,1,0.0,0.597,0.25,29729.0
+Private for-profit,Associate's,Business,Plains,City,1,0.0,0.7614,,27565.0
+Private for-profit,Associate's,Business,Southeast,City,1,0.0,0.833,,22756.0
+Private for-profit,Associate's,Health,Far West,Suburb,3,0.0,0.6011333333333334,0.7273,
+Private for-profit,Associate's,Health,Great Lakes,City,5,0.0,0.528,0.51555,36020.75
+Private for-profit,Associate's,Health,Great Lakes,Town,1,0.0,0.7584,0.6667,22939.0
+Private for-profit,Associate's,Health,Mid East,City,10,0.0,0.61544,0.4765833333333333,35675.3
+Private for-profit,Associate's,Health,New England,City,1,0.0,0.6365,,
+Private for-profit,Associate's,Health,Outlying Areas,City,1,0.0,0.8952,,18668.0
+Private for-profit,Associate's,Health,Outlying Areas,Suburb,1,0.0,0.8865,,18485.0
+Private for-profit,Associate's,Health,Plains,Suburb,1,0.0,0.5971,,
+Private for-profit,Associate's,STEM,Far West,Suburb,5,0.0,0.50285,0.8571,32514.0
+Private for-profit,Associate's,Health,Rocky Mountains,Suburb,2,0.0,0.47650000000000003,0.4237,32735.0
+Private for-profit,Associate's,Health,Southeast,City,12,0.0,0.5508333333333334,0.5396666666666666,29487.625
+Private for-profit,Associate's,Health,Southeast,Town,5,0.0,0.63418,0.4570666666666667,27431.5
+Private for-profit,Associate's,Health,Southwest,City,9,0.0,0.5944888888888888,0.6658666666666666,28422.666666666668
+Private for-profit,Associate's,Health,Southwest,Suburb,1,0.0,0.5144,,31562.0
+Private for-profit,Associate's,Humanities,Great Lakes,City,1,0.0,0.4719,,45336.0
+Private for-profit,Associate's,Humanities,Southeast,Suburb,1,0.0,0.4973,0.2623,
+Private for-profit,Associate's,Humanities,Southwest,City,2,0.0,0.63975,0.72,28532.0
+Private for-profit,Associate's,STEM,Far West,City,1,0.0,0.2667,0.4,33010.0
+Private for-profit,Associate's,Trades & Applied,Southeast,Suburb,2,0.0,0.47875,0.76145,35243.0
+Private for-profit,Associate's,Trades & Applied,Southwest,Suburb,2,0.0,0.46945000000000003,0.6059,
+Private for-profit,Certificates,Business,Southeast,City,1,0.0,0.7049,0.1765,19418.0
+Private for-profit,Bachelor's,STEM,Great Lakes,City,1,0.0,0.6667,,38951.0
+Private for-profit,Bachelor's,Health,Southeast,Suburb,6,0.0,0.5321833333333333,0.34046000000000004,33808.6
+Private for-profit,Bachelor's,Health,Southwest,City,13,0.0,0.4947083333333333,0.34771428571428575,35643.22222222222
+Private for-profit,Bachelor's,Humanities,Far West,City,9,0.0,0.4315333333333333,0.5086333333333334,44985.875
+Private for-profit,Bachelor's,Humanities,Mid East,City,1,0.0,0.1472,0.7493,75016.0
+Private for-profit,Bachelor's,Humanities,Mid East,Suburb,1,0.0,0.4456,0.4898,40792.0
+Private for-profit,Bachelor's,Humanities,Rocky Mountains,Suburb,1,0.0,0.4599,0.3651,33950.0
+Private for-profit,Bachelor's,Humanities,Southeast,City,1,0.0,0.5772,0.3548,26846.0
+Private for-profit,Bachelor's,Humanities,Southeast,Suburb,1,0.0,0.5669,0.4959,39814.0
+Private for-profit,Bachelor's,STEM,Far West,City,2,0.0,0.40865,0.5156,47534.5
+Private for-profit,Bachelor's,STEM,Great Lakes,Suburb,2,0.0,,,
+Private for-profit,Bachelor's,Health,Rocky Mountains,Suburb,1,0.0,0.5884,0.68,
+Private for-profit,Bachelor's,STEM,Mid East,Suburb,1,0.0,0.6023,0.3333,
+Private for-profit,Bachelor's,STEM,Rocky Mountains,City,2,0.0,0.5733,0.5655,39004.0
+Private for-profit,Bachelor's,STEM,Southeast,Suburb,3,0.0,0.3736,0.5455,38123.0
+Private for-profit,Bachelor's,STEM,Southeast,Town,1,0.0,0.2122,0.3722,18002.0
+Private for-profit,Bachelor's,STEM,Southwest,City,4,0.0,0.4876666666666667,0.45039999999999997,31353.0
+Private for-profit,Bachelor's,Social Science & Public Service,Far West,City,2,0.0,0.49470000000000003,,31720.0
+Private for-profit,Bachelor's,Social Science & Public Service,New England,City,1,0.0,0.7298,0.3534,27202.0
+Private for-profit,Bachelor's,Trades & Applied,Far West,Suburb,1,0.0,0.4985,0.4194,44854.0
+Private for-profit,Certificates,Business,Far West,City,1,0.0,0.829,0.8445,
+Private for-profit,Bachelor's,Health,Southeast,City,13,0.0,0.5550384615384615,0.20785,34844.916666666664
+Private for-profit,Bachelor's,Health,Rocky Mountains,City,7,0.0,0.46284285714285717,0.5380666666666667,34530.0
+Private for-profit,Bachelor's,Business,Far West,City,6,0.0,0.31205,0.21630000000000002,30823.25
+Private for-profit,Bachelor's,Business,Southeast,Town,1,0.0,0.2467,0.5323,16358.0
+Private for-profit,Bachelor's,Business,Far West,Suburb,1,0.0,0.125,0.6667,
+Private for-profit,Bachelor's,Business,Great Lakes,City,1,0.0,0.5459,0.45,
+Private for-profit,Bachelor's,Business,Mid East,City,7,0.0,0.5197857142857143,0.32761666666666667,35360.2
+Private for-profit,Bachelor's,Business,Mid East,Suburb,4,0.0,0.591125,0.12963333333333335,25309.0
+Private for-profit,Bachelor's,Business,Plains,City,3,0.0,0.5582666666666667,0.5674666666666667,31736.0
+Private for-profit,Bachelor's,Business,Plains,Rural,1,0.0,0.339,0.2897,38035.0
+Private for-profit,Bachelor's,Business,Rocky Mountains,City,1,0.0,0.6832,0.1761,21694.0
+Private for-profit,Bachelor's,Business,Southeast,Rural,1,0.0,0.5144,0.273,21792.0
+Private for-profit,Bachelor's,Business,Southeast,Suburb,4,0.0,0.56135,0.46805,29010.666666666668
+Private for-profit,Bachelor's,Business,Southwest,City,4,0.0,0.5438,0.21539999999999998,21985.0
+Private for-profit,Bachelor's,Health,Plains,Suburb,1,0.0,0.4773,0.3333,41617.0
+Private for-profit,Bachelor's,Business,Southwest,Suburb,1,0.0,0.7428,0.5,23838.0
+Private for-profit,Bachelor's,Health,Far West,City,6,0.0,0.37055,0.31745999999999996,44398.0
+Private for-profit,Bachelor's,Health,Far West,Suburb,2,0.0,0.51685,0.625,36044.0
+Private for-profit,Bachelor's,Health,Great Lakes,City,4,0.0,0.398375,0.5,33293.75
+Private for-profit,Bachelor's,Health,Great Lakes,Suburb,1,0.0,0.2994,0.5,36346.0
+Private for-profit,Bachelor's,Health,Mid East,City,1,0.0,0.5766,0.5748,26306.0
+Private for-profit,Bachelor's,Health,Mid East,Suburb,2,0.0,0.46995,0.2238,40221.0
+Private for-profit,Bachelor's,Health,Outlying Areas,City,1,0.0,0.8696,0.7778,28734.0
+Private for-profit,Bachelor's,Health,Plains,City,3,0.0,0.34873333333333334,0.16665,22029.0
+Private nonprofit,Associate's,Social Science & Public Service,Great Lakes,Rural,1,0.0,0.3333,0.4706,8173.0
+Private nonprofit,Associate's,Social Science & Public Service,Southeast,City,1,0.0,0.2143,,
+Private nonprofit,Graduate,STEM,Great Lakes,Rural,2,0.0,,,
+Private nonprofit,Bachelor's,Social Science & Public Service,Plains,Town,2,0.0,0.48134999999999994,0.3197,13169.5
+Private nonprofit,Bachelor's,Social Science & Public Service,Mid East,Suburb,7,0.0,0.33340000000000003,0.5901,24362.5
+Private nonprofit,Bachelor's,Social Science & Public Service,Mid East,Town,1,0.0,0.4355,0.4877,25989.0
+Private nonprofit,Bachelor's,Social Science & Public Service,New England,City,5,0.0,0.41109999999999997,0.4444,17718.5
+Private nonprofit,Bachelor's,Social Science & Public Service,New England,Suburb,2,0.0,0.6467499999999999,0.53895,21126.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Outlying Areas,City,1,0.0,0.6913,0.69,10933.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Outlying Areas,Suburb,1,0.0,0.5836,0.2105,11987.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Plains,City,10,0.0,0.37835,0.51045,20523.375
+Private nonprofit,Bachelor's,Social Science & Public Service,Plains,Rural,4,0.0,0.378375,0.645725,25515.666666666668
+Private nonprofit,Bachelor's,Social Science & Public Service,Plains,Suburb,2,0.0,0.38680000000000003,0.58025,15657.5
+Private nonprofit,Bachelor's,Social Science & Public Service,Rocky Mountains,City,2,0.0,0.35525,0.4595,28862.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Mid East,City,5,0.0,0.43734,0.53396,25067.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Rocky Mountains,Suburb,2,0.0,0.39890000000000003,0.51735,21171.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Rocky Mountains,Town,1,0.0,0.2487,0.5508,7131.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Southeast,City,20,0.0,0.49386,0.37705,19738.444444444445
+Private nonprofit,Bachelor's,Social Science & Public Service,Southeast,Suburb,6,0.0,0.3767833333333333,0.40726666666666667,19835.6
+Private nonprofit,Bachelor's,Social Science & Public Service,Southeast,Town,9,0.0,0.34063333333333334,0.4438,18820.125
+Private nonprofit,Bachelor's,Social Science & Public Service,Southwest,Rural,1,0.0,0.4118,0.25,
+Private nonprofit,Bachelor's,Social Science & Public Service,Southwest,Suburb,8,0.0,0.4367625,0.36166666666666664,20871.571428571428
+Private nonprofit,Bachelor's,Trades & Applied,Far West,Suburb,1,0.0,0.38,0.6533,29124.0
+Private nonprofit,Bachelor's,Trades & Applied,Great Lakes,Suburb,1,0.0,0.2418,,
+Private nonprofit,Bachelor's,Social Science & Public Service,Mid East,Rural,2,0.0,0.41495000000000004,0.54295,11980.5
+Private nonprofit,Bachelor's,Social Science & Public Service,Great Lakes,Suburb,2,0.0,0.4703,0.39749999999999996,23579.0
+Private nonprofit,Bachelor's,Trades & Applied,Outlying Areas,City,1,0.0,0.7081,0.436,13024.0
+Private nonprofit,Bachelor's,STEM,Rocky Mountains,City,5,0.0,0.23521999999999998,0.72454,25449.2
+Private nonprofit,Bachelor's,STEM,Mid East,Town,12,0.0,0.2510833333333333,0.6933166666666667,28562.833333333332
+Private nonprofit,Bachelor's,STEM,New England,City,21,0.0,0.17198571428571427,0.8503761904761905,30193.14285714286
+Private nonprofit,Bachelor's,STEM,New England,Town,5,0.0,0.15606,0.942,22826.0
+Private nonprofit,Bachelor's,STEM,Outlying Areas,City,6,0.0,0.7476333333333334,0.3558666666666667,9525.333333333334
+Private nonprofit,Bachelor's,STEM,Outlying Areas,Suburb,4,0.0,0.8114,0.362425,8727.5
+Private nonprofit,Bachelor's,STEM,Plains,City,10,0.0,0.28922,0.63967,23949.4
+Private nonprofit,Bachelor's,STEM,Plains,Rural,1,0.0,0.1154,0.6429,33216.0
+Private nonprofit,Bachelor's,STEM,Plains,Suburb,4,0.0,0.2359,0.6233,23481.75
+Private nonprofit,Bachelor's,STEM,Plains,Town,15,0.0,0.22881333333333334,0.6974133333333333,24424.8
+Private nonprofit,Bachelor's,STEM,Rocky Mountains,Suburb,1,0.0,0.2405,0.6412,20566.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Great Lakes,Rural,3,0.0,0.35033333333333333,0.45186666666666664,16415.333333333332
+Private nonprofit,Bachelor's,STEM,Southeast,City,42,0.0,0.37024285714285715,0.5779023809523809,24078.5
+Private nonprofit,Bachelor's,STEM,Southeast,Rural,10,0.0,0.38922,0.46932999999999997,23870.6
+Private nonprofit,Bachelor's,STEM,Southeast,Suburb,17,0.0,0.32130588235294116,0.6014058823529412,24014.352941176472
+Private nonprofit,Bachelor's,STEM,Southeast,Town,13,0.0,0.40255384615384615,0.5776769230769231,19418.76923076923
+Private nonprofit,Bachelor's,STEM,Southwest,City,14,0.0,0.28435714285714286,0.6393571428571428,24346.214285714286
+Private nonprofit,Bachelor's,STEM,Southwest,Suburb,2,0.0,0.31645,0.55115,29864.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Far West,City,15,0.0,0.49646666666666667,0.49412500000000004,20408.14285714286
+Private nonprofit,Bachelor's,Social Science & Public Service,Far West,Rural,2,0.0,0.4096,0.3981,11893.0
+Private nonprofit,Bachelor's,Social Science & Public Service,Far West,Town,1,0.0,0.2675,0.6868,29981.0
+Private nonprofit,Bachelor's,Trades & Applied,New England,City,2,0.0,0.34755,0.4951,31659.5
+Private nonprofit,Bachelor's,Trades & Applied,Southeast,City,1,0.0,0.691,0.478,35115.0
+Private nonprofit,Bachelor's,STEM,Mid East,Rural,7,0.0,0.3106714285714286,0.6342,23433.571428571428
+Private nonprofit,Certificates,Trades & Applied,Great Lakes,Town,1,0.0,0.2271,0.8732,20705.0
+Private nonprofit,Certificates,Social Science & Public Service,Great Lakes,City,2,0.0,0.0318,,10371.0
+Private nonprofit,Certificates,Social Science & Public Service,Great Lakes,Suburb,1,0.0,0.1463,,
+Private nonprofit,Certificates,Social Science & Public Service,Mid East,Rural,1,0.0,0.386,0.8657,11981.0
+Private nonprofit,Certificates,Social Science & Public Service,Plains,City,1,0.0,0.4029,,12904.0
+Private nonprofit,Certificates,Social Science & Public Service,Southeast,City,2,0.0,0.0,,
+Private nonprofit,Certificates,Trades & Applied,Far West,City,7,0.0,0.3446571428571429,0.7763428571428571,15032.285714285714
+Private nonprofit,Certificates,Trades & Applied,Far West,Suburb,3,0.0,0.5380333333333334,0.7498666666666667,16407.0
+Private nonprofit,Certificates,Trades & Applied,Far West,Town,1,0.0,0.3304,0.8415,10377.0
+Private nonprofit,Certificates,Trades & Applied,Great Lakes,Rural,1,0.0,0.3529,0.96,14994.0
+Private nonprofit,Certificates,Trades & Applied,Mid East,City,3,0.0,0.5655333333333333,0.6976333333333334,16328.0
+Private nonprofit,Certificates,STEM,New England,City,1,0.0,0.202,,37891.0
+Private nonprofit,Certificates,Trades & Applied,New England,City,2,0.0,0.26944999999999997,0.96,25685.5
+Private nonprofit,Certificates,Trades & Applied,New England,Rural,1,0.0,0.2,1.0,24342.0
+Private nonprofit,Certificates,Trades & Applied,New England,Suburb,1,0.0,0.1942,0.6842,18436.0
+Private nonprofit,Certificates,Trades & Applied,Outlying Areas,City,1,0.0,0.7546,,6392.0
+Private nonprofit,Certificates,Trades & Applied,Outlying Areas,Suburb,1,0.0,0.9186,,4142.0
+Private nonprofit,Certificates,Trades & Applied,Southeast,City,5,0.0,0.61064,0.62278,20277.4
+Private nonprofit,Certificates,Trades & Applied,Southeast,Suburb,1,0.0,1.0,0.0,10844.0
+Private nonprofit,Certificates,Trades & Applied,Southwest,City,3,0.0,0.4536,0.7087,25528.5
+Private nonprofit,Graduate,STEM,Far West,Suburb,11,0.0,,,
+Private nonprofit,Certificates,STEM,Southwest,City,1,0.0,0.6593,0.5429,19187.0
+Private nonprofit,Certificates,STEM,Mid East,City,1,0.0,0.0,1.0,
+Private nonprofit,Bachelor's,Trades & Applied,Southwest,City,1,0.0,0.4963,0.6827,11130.0
+Private for-profit,Associate's,Business,Great Lakes,City,1,0.0,0.1044,0.6757,23713.0
+Private nonprofit,Certificates,Business,Rocky Mountains,City,1,0.0,0.1134,,10003.0
+Private nonprofit,Certificates,Education,Far West,City,2,0.0,0.222,,
+Private nonprofit,Certificates,Education,Mid East,City,1,0.0,0.0,,
+Private nonprofit,Certificates,Health,Far West,Suburb,1,0.0,0.0922,,45633.0
+Private nonprofit,Certificates,Health,Great Lakes,City,4,0.0,0.489375,0.375,18868.666666666668
+Private nonprofit,Certificates,Health,Great Lakes,Suburb,5,0.0,0.65362,0.7419,26455.0
+Private nonprofit,Certificates,Health,Great Lakes,Town,1,0.0,0.7273,0.5,19888.0
+Private nonprofit,Certificates,Health,Mid East,City,11,0.0,0.3423181818181818,0.4767428571428572,17685.14285714286
+Private nonprofit,Certificates,Health,Mid East,Suburb,9,0.0,0.3987444444444444,0.6162666666666666,22032.666666666668
+Private nonprofit,Certificates,Health,New England,Suburb,1,0.0,0.3707,0.0,25162.0
+Private nonprofit,Certificates,STEM,Far West,City,2,0.0,0.5791,0.9744,36609.0
+Private nonprofit,Certificates,Health,Outlying Areas,City,1,0.0,0.7321,,8011.0
+Private nonprofit,Certificates,Health,Plains,City,3,0.0,0.1285,,
+Private nonprofit,Certificates,Health,Rocky Mountains,City,1,0.0,0.186,1.0,38347.0
+Private nonprofit,Certificates,Health,Southeast,Suburb,3,0.0,0.44849999999999995,,20721.5
+Private nonprofit,Certificates,Health,Southwest,City,6,0.0,0.7016166666666667,0.45494999999999997,32354.6
+Private nonprofit,Certificates,Health,Southwest,Suburb,3,0.0,0.9178666666666667,0.5762999999999999,18876.333333333332
+Private nonprofit,Certificates,Humanities,New England,City,1,0.0,0.1026,,43291.0
+Private nonprofit,Certificates,Humanities,Plains,Rural,1,0.0,0.5826,,3474.0
+Private nonprofit,Certificates,Humanities,Southeast,City,2,0.0,0.35765,1.0,19026.5
+Private nonprofit,Bachelor's,STEM,Mid East,Suburb,28,0.0,0.22672142857142857,0.7199357142857143,28546.85714285714
+Private nonprofit,Bachelor's,STEM,Great Lakes,Suburb,14,0.0,0.2749142857142857,0.7117769230769231,24596.076923076922
+Private nonprofit,Associate's,Trades & Applied,Great Lakes,Suburb,2,0.0,0.43985,,23032.5
+Private nonprofit,Bachelor's,Education,Great Lakes,Town,1,0.0,0.544,0.5241,21814.0
+Private nonprofit,Bachelor's,Business,Southeast,Suburb,10,0.0,0.37775,0.53191,23893.3
+Private nonprofit,Bachelor's,Business,Southeast,Town,11,0.0,0.3824818181818182,0.4648090909090909,20367.81818181818
+Private nonprofit,Bachelor's,Business,Southwest,City,8,0.0,0.40095000000000003,0.508775,24201.75
+Private nonprofit,Bachelor's,Business,Southwest,Rural,1,0.0,0.5226,0.1508,10409.0
+Private nonprofit,Bachelor's,Business,Southwest,Suburb,3,0.0,0.41326666666666667,0.2800666666666667,24203.666666666668
+Private nonprofit,Bachelor's,Business,Southwest,Town,3,0.0,0.5198,0.22540000000000002,19154.0
+Private nonprofit,Bachelor's,Education,Great Lakes,City,2,0.0,0.46599999999999997,0.4,15486.5
+Private nonprofit,Bachelor's,Education,Great Lakes,Rural,1,0.0,0.5055,0.5227,43465.0
+Private nonprofit,Bachelor's,Education,Great Lakes,Suburb,2,0.0,0.32184999999999997,0.52635,17813.0
+Private nonprofit,Bachelor's,Education,Mid East,City,1,0.0,0.3422,0.6421,17622.0
+Private nonprofit,Bachelor's,Business,Southeast,City,38,0.0,0.43159210526315794,0.4351756756756757,21992.13888888889
+Private nonprofit,Bachelor's,Education,Mid East,Suburb,1,0.0,0.2591,0.7024,18740.0
+Private nonprofit,Bachelor's,Education,Plains,Rural,2,0.0,0.3188,0.2625,20125.5
+Private nonprofit,Bachelor's,Education,Plains,Town,3,0.0,0.3692333333333333,0.4932,20306.333333333332
+Private nonprofit,Bachelor's,Education,Southeast,City,1,0.0,0.3478,,
+Private nonprofit,Bachelor's,Education,Southeast,Rural,2,0.0,0.291,0.5305500000000001,19337.0
+Private nonprofit,Bachelor's,Education,Southwest,Town,2,0.0,0.48950000000000005,0.28895,22612.0
+Private nonprofit,Bachelor's,Health,Far West,City,15,0.0,0.36588666666666664,0.581609090909091,28387.909090909092
+Private nonprofit,Bachelor's,Health,Far West,Rural,1,0.0,0.3337,0.5147,20979.0
+Private nonprofit,Bachelor's,Health,Far West,Suburb,4,0.0,0.36545,0.48973333333333335,22585.666666666668
+Private nonprofit,Bachelor's,Business,Southeast,Rural,9,0.0,0.3816111111111111,0.4113444444444444,23084.666666666668
+Private nonprofit,Bachelor's,Business,Plains,Suburb,5,0.0,0.29436,0.53216,23274.2
+Private nonprofit,Bachelor's,Health,Great Lakes,City,26,0.0,0.3501653846153846,0.5839380952380951,20205.428571428572
+Private nonprofit,Bachelor's,Business,Great Lakes,Rural,6,0.0,0.4365833333333333,0.42440000000000005,17480.666666666668
+Private nonprofit,Associate's,Trades & Applied,Mid East,City,4,0.0,0.400175,0.5599,27077.0
+Private nonprofit,Associate's,Trades & Applied,Mid East,Suburb,2,0.0,0.41884999999999994,0.8022,23618.0
+Private nonprofit,Associate's,Trades & Applied,Plains,City,2,0.0,0.355,,21987.5
+Private nonprofit,Associate's,Trades & Applied,Southeast,City,3,0.0,0.5026333333333334,0.5086999999999999,23168.666666666668
+Private nonprofit,Associate's,Trades & Applied,Southeast,Suburb,1,0.0,0.3688,0.6176,21563.0
+Private nonprofit,Associate's,Trades & Applied,Southwest,City,2,0.0,0.4119,0.40254999999999996,31391.5
+Private nonprofit,Bachelor's,Business,Far West,City,9,0.0,0.28102222222222223,0.5701625,29936.625
+Private nonprofit,Bachelor's,Business,Far West,Suburb,6,0.0,0.32763333333333333,0.6037666666666667,27833.5
+Private nonprofit,Bachelor's,Business,Far West,Town,1,0.0,0.2969,0.5439,13884.0
+Private nonprofit,Bachelor's,Business,Great Lakes,Town,8,0.0,0.3081875,0.54235,21676.75
+Private nonprofit,Bachelor's,Business,Plains,Rural,7,0.0,0.31857142857142856,0.45330000000000004,23749.14285714286
+Private nonprofit,Bachelor's,Business,Mid East,City,9,0.0,0.2597777777777778,0.6415444444444444,30098.555555555555
+Private nonprofit,Bachelor's,Business,Mid East,Town,1,0.0,0.2274,0.7039,27151.0
+Private nonprofit,Bachelor's,Business,New England,City,11,0.0,0.27138181818181817,0.5276454545454545,32171.9
+Private nonprofit,Bachelor's,Business,New England,Suburb,11,0.0,0.20196363636363637,0.6673545454545454,33990.72727272727
+Private nonprofit,Bachelor's,Business,New England,Town,1,0.0,0.1534,0.5136,19223.0
+Private nonprofit,Bachelor's,Business,Outlying Areas,City,1,0.0,0.8346,0.4211,8264.0
+Private nonprofit,Bachelor's,Business,Outlying Areas,Rural,1,0.0,0.8194,0.4311,8245.0
+Private nonprofit,Bachelor's,Business,Outlying Areas,Suburb,2,0.0,0.75595,0.5325,6972.5
+Private nonprofit,Bachelor's,Business,Plains,City,13,0.0,0.36199230769230767,0.5573538461538461,22178.30769230769
+Private nonprofit,Bachelor's,Health,Far West,Town,1,0.0,0.2831,0.6515,27341.0
+Private nonprofit,Bachelor's,Health,Great Lakes,Rural,1,0.0,0.4111,0.5273,20204.0
+Private nonprofit,Bachelor's,STEM,Great Lakes,Rural,3,0.0,0.12866666666666668,0.7920666666666666,26244.0
+Private nonprofit,Bachelor's,Humanities,New England,Town,1,0.0,0.2124,0.6667,31918.0
+Private nonprofit,Bachelor's,Humanities,Great Lakes,Rural,3,0.0,0.4983666666666666,0.4816,9711.0
+Private nonprofit,Bachelor's,Humanities,Great Lakes,Suburb,1,0.0,0.2897,0.2947,26470.0
+Private nonprofit,Bachelor's,Humanities,Great Lakes,Town,3,0.0,0.21936666666666668,0.6942333333333334,24962.666666666668
+Private nonprofit,Bachelor's,Humanities,Mid East,City,16,0.0,0.320075,0.6738733333333333,34427.71428571428
+Private nonprofit,Bachelor's,Humanities,Mid East,Rural,1,0.0,0.2308,0.7271,31771.0
+Private nonprofit,Bachelor's,Humanities,Mid East,Suburb,4,0.0,0.188125,0.683,24324.25
+Private nonprofit,Bachelor's,Humanities,New England,City,6,0.0,0.17789999999999997,0.7039166666666666,42371.166666666664
+Private nonprofit,Bachelor's,Humanities,New England,Rural,2,0.0,0.32065,0.6323000000000001,24919.0
+Private nonprofit,Bachelor's,Humanities,New England,Suburb,4,0.0,0.32284999999999997,0.6656249999999999,25636.25
+Private nonprofit,Bachelor's,Humanities,Plains,City,4,0.0,0.419325,0.56565,25704.5
+Private nonprofit,Bachelor's,Humanities,Far West,Suburb,5,0.0,0.29403999999999997,0.7329333333333333,32243.333333333332
+Private nonprofit,Bachelor's,Humanities,Plains,Suburb,2,0.0,0.2155,0.64715,25668.0
+Private nonprofit,Bachelor's,Humanities,Southeast,City,9,0.0,0.41935555555555554,0.5254125,26855.0
+Private nonprofit,Bachelor's,Humanities,Southeast,Rural,8,0.0,0.4293125,0.36860000000000004,18738.375
+Private nonprofit,Bachelor's,Humanities,Southeast,Suburb,3,0.0,0.33899999999999997,0.5519,20365.666666666668
+Private nonprofit,Bachelor's,Humanities,Southwest,City,5,0.0,0.45114,0.32374,18195.6
+Private nonprofit,Bachelor's,Humanities,Southwest,Rural,1,0.0,0.2418,0.6,24351.0
+Private nonprofit,Bachelor's,STEM,Far West,City,21,0.0,0.20336499999999996,0.7641473684210527,33204.05263157895
+Private nonprofit,Bachelor's,STEM,Far West,Rural,1,0.0,0.2121,0.3333,
+Private nonprofit,Bachelor's,STEM,Far West,Suburb,14,0.0,0.20121538461538463,0.752776923076923,27607.833333333332
+Private nonprofit,Bachelor's,Humanities,Great Lakes,City,10,0.0,0.31066000000000005,0.5735300000000001,32065.11111111111
+Private nonprofit,Bachelor's,Humanities,Far West,Rural,2,0.0,0.2559,0.7253000000000001,33693.0
+Private nonprofit,Bachelor's,Health,Great Lakes,Suburb,8,0.0,0.3131125,0.6253,20933.25
+Private nonprofit,Bachelor's,Health,Plains,Suburb,3,0.0,0.30643333333333334,0.5976333333333333,24056.333333333332
+Private nonprofit,Bachelor's,Health,Mid East,Rural,1,0.0,0.1784,0.7275,19173.0
+Private nonprofit,Bachelor's,Health,Mid East,Town,2,0.0,0.23495,0.5803,22952.5
+Private nonprofit,Bachelor's,Health,New England,City,11,0.0,0.28379,0.5970625,27191.75
+Private nonprofit,Bachelor's,Health,New England,Rural,4,0.0,0.2612,0.541775,26706.25
+Private nonprofit,Bachelor's,Health,New England,Suburb,6,0.0,0.23409999999999997,0.6584833333333333,33510.166666666664
+Private nonprofit,Bachelor's,Health,Outlying Areas,City,6,0.0,0.8106333333333332,0.3821666666666667,6850.833333333333
+Private nonprofit,Bachelor's,Health,Outlying Areas,Suburb,5,0.0,0.82508,0.46762,7013.6
+Private nonprofit,Bachelor's,Health,Plains,City,25,0.0,0.30798400000000004,0.6477368421052632,20793.0
+Private nonprofit,Bachelor's,Health,Plains,Rural,2,0.0,0.31479999999999997,0.53265,17271.5
+Private nonprofit,Bachelor's,Health,Plains,Town,5,0.0,0.36926000000000003,0.40088,21598.8
+Private nonprofit,Bachelor's,Humanities,Far West,City,9,0.0,0.32304444444444447,0.5691,37961.875
+Private nonprofit,Bachelor's,Health,Rocky Mountains,City,4,0.0,0.317075,0.43545,23725.25
+Private nonprofit,Bachelor's,Health,Rocky Mountains,Suburb,2,0.0,0.32175,0.5541,17989.5
+Private nonprofit,Bachelor's,Health,Southeast,City,16,0.0,0.29118125,0.5486153846153846,23291.153846153848
+Private nonprofit,Bachelor's,Health,Southeast,Rural,1,0.0,0.2682,0.6168,24137.0
+Private nonprofit,Bachelor's,Health,Southeast,Suburb,7,0.0,0.3009,0.5282333333333333,25093.166666666668
+Private nonprofit,Bachelor's,Health,Southeast,Town,10,0.0,0.41538,0.43194,19577.9
+Private nonprofit,Bachelor's,Health,Southwest,City,2,0.0,0.38849999999999996,0.54565,20501.0
+Private nonprofit,Bachelor's,Health,Southwest,Suburb,1,0.0,0.3685,0.534,28690.0
+Private nonprofit,Bachelor's,Health,Southwest,Town,3,0.0,0.4009666666666667,0.46656666666666663,21192.666666666668
+Public,Not classified,STEM,Southwest,Other/Unknown,17,0.0,,,

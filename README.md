@@ -1,4 +1,4 @@
-# Student Loan Default Risk Lab
+# Student Loan Risk Analysis
 
 End-to-end Python project analyzing U.S. College Scorecard data to uncover drivers of student-loan defaults, visualize risk patterns, and score institutions with multiple imbalanced-learning models.
 
